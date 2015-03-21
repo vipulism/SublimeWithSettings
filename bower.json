@@ -1,0 +1,22 @@
+{
+  "name": "SublimeWithSettings",
+  "version": "0.0.1",
+  "homepage": "https://github.com/vipulism/SublimeWithSettings",
+  "authors": [
+    "Vipul <vipul0809@gmail.com>"
+  ],
+  "description": "This is Sublime Text 3 with all Package  I need for web development",
+  "main": "sublime_text.exe",
+  "keywords": [
+    "Vipulism",
+    "Sublime"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

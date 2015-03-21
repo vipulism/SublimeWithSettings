@@ -374,14 +374,6 @@
 			},
 			"buffers":
 			[
-				{
-					"file": "/E/www/Vipul/vipulism.github.io/index.html",
-					"settings":
-					{
-						"buffer_size": 33074,
-						"line_ending": "Windows"
-					}
-				}
 			],
 			"build_system": "",
 			"command_palette":
@@ -431,6 +423,10 @@
 			},
 			"file_history":
 			[
+				"/C/Users/vipul/Desktop/Sublime Text Build 3065 x64/bower.json",
+				"/E/www/office/digitalabs/.htaccess",
+				"/E/www/office/digitalabs/index.html",
+				"/E/www/Vipul/vipulism.github.io/index.html",
 				"/E/www/Vipul/fruitism/bower_components/components-font-awesome/scss/_variables.scss",
 				"/E/www/Vipul/fruitism/bower_components/components-font-awesome/scss/_icons.scss",
 				"/E/www/Vipul/fruitism/bower_components/components-font-awesome/scss/font-awesome.scss",
@@ -461,7 +457,6 @@
 				"/E/www/Vipul/raw/gulp/auto gulp/Gulpfile.js",
 				"/E/www/Vipul/raw/gulp/auto gulp/package.json",
 				"/E/www/Vipul/vipulism.github.io/lib/css/_brkpoint.scss",
-				"/E/www/Vipul/vipulism.github.io/index.html",
 				"/E/www/Vipul/vipulism.github.io/lib/css/style.scss",
 				"/E/www/Vipul/vipulism.github.io/gulpfile.js",
 				"/E/www/Vipul/vipulism.github.io/.htaccess",
@@ -477,11 +472,9 @@
 				"/E/www/Vipul/vipulism.github.io/lib/css/brkpoint.scss",
 				"/E/www/Vipul/vipulism.github.io/.gitattributes",
 				"/E/www/Vipul/vipulism.github.io/lib/css/reset.css",
-				"/E/www/office/digitalabs/.htaccess",
 				"/E/www/Vipul/vipulism.github.io/js/blur.min.js",
 				"/E/www/Vipul/vipulism.github.io/minjs/blur.min.js",
 				"/E/www/Vipul/vipulism.github.io/package.json",
-				"/E/www/office/digitalabs/index.html",
 				"/E/www/Vipul/raw/gulp/gulpfile.js",
 				"/C/Users/vipul/Desktop/digitalabs/js/query.php",
 				"/C/Users/vipul/Desktop/digitalabs/js/Interns.php",
@@ -666,39 +659,8 @@
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/E/www/Vipul/vipulism.github.io/index.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 33074,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										996,
-										997
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 5713.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
 					]
 				}
 			],
