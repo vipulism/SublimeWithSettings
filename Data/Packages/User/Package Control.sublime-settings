@@ -1,0 +1,15 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Bootstrap 3 Snippets",
+		"Emmet",
+		"Gulp",
+		"HTML-CSS-JS Prettify",
+		"Minifier",
+		"Package Control",
+		"Syntax Highlighting for Sass"
+	]
+}

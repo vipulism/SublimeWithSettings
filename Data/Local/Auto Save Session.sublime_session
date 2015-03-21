@@ -1,0 +1,792 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3065,
+	"last_window_id": 4,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 491.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"bs3-col",
+						"bs3-col:1	bs3-col-1"
+					],
+					[
+						"bs3",
+						"bs3-col	bs3-col"
+					],
+					[
+						"fun",
+						"fun	Function"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 104.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"insatll",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/www/Vipul/fruitism/fruitism/config.xml",
+				"/E/www/Vipul/fruitism/.gitignore",
+				"/E/www/Vipul/vipulism.github.io/css/style.css",
+				"/E/www/Vipul/fruitism/gulpfile.js",
+				"/E/www/Vipul/fruitism/bower_components/components-font-awesome/scss/_mixins.scss",
+				"/E/www/Vipul/fruitism/css/style.css",
+				"/E/www/Vipul/vipulism.github.io/.gitignore",
+				"/E/www/Vipul/raw/app/lib/css/stylesheets/bootstrap/_variables.scss",
+				"/E/www/Vipul/raw/app/lib/css/stylesheets/bootstrap/_responsive-utilities.scss",
+				"/E/www/Vipul/raw/app/lib/css/stylesheets/bootstrap/_responsive-embed.scss",
+				"/E/www/Vipul/raw/app/lib/css/stylesheets/bootstrap/mixins/_grid-framework.scss",
+				"/E/www/Vipul/raw/app/lib/css/stylesheets/bootstrap/mixins/_grid.scss",
+				"/E/www/Vipul/raw/app/ndex.grml",
+				"/E/www/Vipul/raw/app/css/stylesheets/_bootstrap.scss",
+				"/E/www/Vipul/raw/app/css/main.scss",
+				"/E/www/Vipul/raw/app/css/stylesheets/_bootstrap-compass.scss",
+				"/E/www/Vipul/raw/gulp/auto gulp/Gulpfile.js",
+				"/E/www/Vipul/raw/gulp/auto gulp/package.json",
+				"/E/www/Vipul/vipulism.github.io/lib/css/_brkpoint.scss",
+				"/E/www/Vipul/vipulism.github.io/index.html",
+				"/E/www/Vipul/vipulism.github.io/lib/css/style.scss",
+				"/E/www/Vipul/vipulism.github.io/gulpfile.js",
+				"/E/www/Vipul/vipulism.github.io/.htaccess",
+				"/E/www/Vipul/raw/bower_components/vip.pack.files/.bower.json",
+				"/C/Users/vipul/Documents/GitHub/jquery.min/README.md",
+				"/E/www/Vipul/vipulism.github.io/404.html",
+				"/E/www/Vipul/vipulism.github.io/lib/css/webkitkeyframes.scss",
+				"/E/www/Vipul/vipulism.github.io/lib/css/common.scss",
+				"/E/www/Vipul/vipulism.github.io/lib/css/keyframes.scss",
+				"/E/www/Vipul/vipulism.github.io/lib/css/mozkeyframes.scss",
+				"/E/www/Vipul/vipulism.github.io/lib/css/mskeyframes.scss",
+				"/E/www/Vipul/vipulism.github.io/lib/css/okeyframes.scss",
+				"/E/www/Vipul/vipulism.github.io/lib/css/brkpoint.scss",
+				"/E/www/Vipul/vipulism.github.io/.gitattributes",
+				"/E/www/Vipul/vipulism.github.io/lib/css/reset.css",
+				"/E/www/office/digitalabs/.htaccess",
+				"/E/www/Vipul/vipulism.github.io/js/blur.min.js",
+				"/E/www/Vipul/vipulism.github.io/minjs/blur.min.js",
+				"/E/www/Vipul/vipulism.github.io/package.json",
+				"/E/www/office/digitalabs/index.html",
+				"/E/www/Vipul/raw/gulp/gulpfile.js",
+				"/C/Users/vipul/Desktop/digitalabs/js/query.php",
+				"/C/Users/vipul/Desktop/digitalabs/js/Interns.php",
+				"/C/Users/vipul/Desktop/digitalabs/js/career.php",
+				"/C/Users/vipul/Desktop/digitalabs/js/contact.php",
+				"/E/www/Vipul/raw/gulp/package.json",
+				"/C/Users/vipul/Desktop/digitalabs/index.html",
+				"/C/Users/vipul/Desktop/digitalabs/.htaccess",
+				"/C/Users/vipul/Desktop/New folder/.htaccess",
+				"/C/Users/vipul/Desktop/New folder/.git/description",
+				"/C/Users/vipul/Desktop/New folder/.git/config",
+				"/C/Users/vipul/Desktop/New folder/css/tidy.css",
+				"/C/Users/vipul/Desktop/New folder/css/liquid-slider.css",
+				"/C/Users/vipul/Desktop/New folder/css/animate.css",
+				"/C/Users/vipul/Desktop/New folder/index.html",
+				"/C/Users/vipul/Desktop/New folder/package.json",
+				"/C/Users/vipul/Desktop/New folder/Gruntfile.js",
+				"/C/Users/vipul/Desktop/New folder/js/scripts.min.js",
+				"/C/Users/vipul/Desktop/New folder/css/style.css",
+				"/C/Users/vipul/Desktop/New folder/css/font-awesome.css",
+				"/E/www/Vipul/phpForm/index.html",
+				"/D/js/query.php",
+				"/D/js/contact.php",
+				"/D/js/career.php",
+				"/D/js/interns.php",
+				"/D/index.html",
+				"/D/css/style.css",
+				"/D/css/masonry.css",
+				"/D/css/liquid-slider.css",
+				"/D/css/magnific-popup.css",
+				"/D/css/animate.css",
+				"/D/css/colors/blue.css",
+				"/D/css/ionicons.css",
+				"/C/Users/vipul/Desktop/Sublime Text Build 3065 x64/Data/Packages/User/CSSTidy.sublime-settings",
+				"/C/Users/vipul/Desktop/Sublime Text Build 3065 x64/Data/Packages/CSSTidy/CSSTidy.sublime-settings",
+				"/D/css/team-app.css",
+				"/D/css/style2.css",
+				"/C/Users/vipul/Desktop/New folder/.ftpquota",
+				"/D/js/fresher.php",
+				"/E/www/Vipul/phpForm/script/query2.php",
+				"/E/www/Vipul/phpForm/script/query.php",
+				"/E/www/Vipul/phpForm/fb-login.html",
+				"/E/www/Vipul/ui-localhost/css/style.css",
+				"/E/www/Vipul/ui-localhost/index.html",
+				"/C/Users/vipul/Desktop/scripts.min.js",
+				"/E/www/Vipul/raw/bs/Gruntfile.js",
+				"/E/www/Vipul/raw/bs/style.scss",
+				"/E/www/Vipul/raw/bs/bower.json",
+				"/C/Users/vipul/Desktop/jquery-1.11.2.min.js",
+				"/E/www/Vipul/raw/bs/index.html",
+				"/E/www/Vipul/raw/bs/bower_components/vip.pack.files/.bower.json",
+				"/E/www/Vipul/raw/bs/node_modules/stylesheets/_bootstrap.scss",
+				"/E/www/Vipul/raw/bs/css/style.css",
+				"/C/Users/vipul/Documents/GitHub/jquery.min/jquery.min.js",
+				"/E/www/Vipul/raw/bs/package.json",
+				"/E/www/Vipul/raw/bs/node_modules/sass/spec/fixtures/variables.sass"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"C:\\Users\\vipul\\Desktop\\New folder",
+					"D:\\css"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"hide",
+					"'Patua One'",
+					"game",
+					"\\",
+					"watch",
+					"wATCH",
+					"game",
+					" 20px",
+					"navbar",
+					": red",
+					"{@i",
+					"@media screen and ($screen-xs-max)",
+					"@media screen and ($screen-sm-max)",
+					"@media screen and ($screen-md-max)",
+					".content",
+					"phone",
+					"tablet",
+					"desktop",
+					"max-width:",
+					"@media",
+					".content",
+					":0",
+					"%",
+					"/*",
+					"vipulism",
+					"io",
+					"vipulism",
+					"io.net');\">\n",
+					"vipulism",
+					".chaha11",
+					"chaha11",
+					"droid2\"",
+					"droid1\"",
+					"foot1\"",
+					"droid3\"",
+					"arm1\"",
+					"\"kf_",
+					"leg2\"",
+					"_light\"",
+					"\"kf_left",
+					"leg",
+					"chaha11",
+					"11",
+					"_leg2\"",
+					"kf_",
+					"kf_arm1",
+					"kf_",
+					"\"kf_",
+					"\"kf_droid1\"",
+					"combineMq",
+					"chaha11",
+					".css",
+					".leg",
+					"css",
+					".css",
+					"-",
+					"css",
+					".css",
+					"css",
+					".com",
+					"face",
+					"png",
+					"bd-1",
+					"img/client-",
+					"/logo.png",
+					"src=\"images/city-icon.png\"",
+					"src=\"images/user-icon.png\"",
+					"src=\"images/email-icon.png\"",
+					"src=\"images/phone-icon.png\"",
+					"src=\"images/address-icon.png\"",
+					"src=\"images/zip-icon.png\"",
+					"width=\"42\" height=\"28\"",
+					"src=\"images/zip-icon.png\"",
+					"js",
+					"/*",
+					"icon",
+					"html",
+					".fluid-width-video-wrapper",
+					"fluid-width-video-wrapper",
+					".css",
+					"style2",
+					"style",
+					".ion-spin,.ion-loading-a,.ion-loading-b,.ion-loading-c,.ion-loading-d,.ion-looping,.ion-refreshing,.ion-ios7-reloading",
+					"cpname",
+					"inter",
+					"’",
+					"Address2",
+					"email",
+					"Interns",
+					"vipDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD",
+					"uikit",
+					"uikit/music"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1128.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"bs3-col",
+						"bs3-col:1	bs3-col-1"
+					],
+					[
+						"bs3",
+						"bs3-col	bs3-col"
+					],
+					[
+						"fun",
+						"fun	Function"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/www/office/digitalabs/index.html",
+					"settings":
+					{
+						"buffer_size": 30224,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 104.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"insatll",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/www/Vipul/vipulism.github.io/index.html",
+				"/E/www/Vipul/fruitism/bower_components/components-font-awesome/scss/_variables.scss",
+				"/E/www/Vipul/fruitism/bower_components/components-font-awesome/scss/_icons.scss",
+				"/E/www/Vipul/fruitism/bower_components/components-font-awesome/scss/font-awesome.scss",
+				"/E/www/Vipul/fruitism/css/style.css",
+				"/E/www/Vipul/fruitism/index.html",
+				"/E/www/Vipul/fruitism/plugin.xml",
+				"/E/www/Vipul/fruitism/AndroidManifest.xml",
+				"/E/www/Vipul/fruitism/config.xml",
+				"/E/www/Vipul/fruitism/index2.html",
+				"/E/www/Vipul/fruitism/lib/css/style.scss",
+				"/E/www/Vipul/vipulism.github.io/css/style.css",
+				"/E/www/Vipul/raw/ph/test-app/www/js/index.js",
+				"/E/www/Vipul/fruitism/platforms/android/src/nl/xservices/plugins/SocialSharing.java",
+				"/E/www/Vipul/fruitism/fruitism/config.xml",
+				"/E/www/Vipul/fruitism/.gitignore",
+				"/E/www/Vipul/fruitism/gulpfile.js",
+				"/E/www/Vipul/fruitism/bower_components/components-font-awesome/scss/_mixins.scss",
+				"/E/www/Vipul/vipulism.github.io/.gitignore",
+				"/E/www/Vipul/raw/app/lib/css/stylesheets/bootstrap/_variables.scss",
+				"/E/www/Vipul/raw/app/lib/css/stylesheets/bootstrap/_responsive-utilities.scss",
+				"/E/www/Vipul/raw/app/lib/css/stylesheets/bootstrap/_responsive-embed.scss",
+				"/E/www/Vipul/raw/app/lib/css/stylesheets/bootstrap/mixins/_grid-framework.scss",
+				"/E/www/Vipul/raw/app/lib/css/stylesheets/bootstrap/mixins/_grid.scss",
+				"/E/www/Vipul/raw/app/ndex.grml",
+				"/E/www/Vipul/raw/app/css/stylesheets/_bootstrap.scss",
+				"/E/www/Vipul/raw/app/css/main.scss",
+				"/E/www/Vipul/raw/app/css/stylesheets/_bootstrap-compass.scss",
+				"/E/www/Vipul/raw/gulp/auto gulp/Gulpfile.js",
+				"/E/www/Vipul/raw/gulp/auto gulp/package.json",
+				"/E/www/Vipul/vipulism.github.io/lib/css/_brkpoint.scss",
+				"/E/www/Vipul/vipulism.github.io/lib/css/style.scss",
+				"/E/www/Vipul/vipulism.github.io/gulpfile.js",
+				"/E/www/Vipul/vipulism.github.io/.htaccess",
+				"/E/www/Vipul/raw/bower_components/vip.pack.files/.bower.json",
+				"/C/Users/vipul/Documents/GitHub/jquery.min/README.md",
+				"/E/www/Vipul/vipulism.github.io/404.html",
+				"/E/www/Vipul/vipulism.github.io/lib/css/webkitkeyframes.scss",
+				"/E/www/Vipul/vipulism.github.io/lib/css/common.scss",
+				"/E/www/Vipul/vipulism.github.io/lib/css/keyframes.scss",
+				"/E/www/Vipul/vipulism.github.io/lib/css/mozkeyframes.scss",
+				"/E/www/Vipul/vipulism.github.io/lib/css/mskeyframes.scss",
+				"/E/www/Vipul/vipulism.github.io/lib/css/okeyframes.scss",
+				"/E/www/Vipul/vipulism.github.io/lib/css/brkpoint.scss",
+				"/E/www/Vipul/vipulism.github.io/.gitattributes",
+				"/E/www/Vipul/vipulism.github.io/lib/css/reset.css",
+				"/E/www/office/digitalabs/.htaccess",
+				"/E/www/Vipul/vipulism.github.io/js/blur.min.js",
+				"/E/www/Vipul/vipulism.github.io/minjs/blur.min.js",
+				"/E/www/Vipul/vipulism.github.io/package.json",
+				"/E/www/office/digitalabs/index.html",
+				"/E/www/Vipul/raw/gulp/gulpfile.js",
+				"/C/Users/vipul/Desktop/digitalabs/js/query.php",
+				"/C/Users/vipul/Desktop/digitalabs/js/Interns.php",
+				"/C/Users/vipul/Desktop/digitalabs/js/career.php",
+				"/C/Users/vipul/Desktop/digitalabs/js/contact.php",
+				"/E/www/Vipul/raw/gulp/package.json",
+				"/C/Users/vipul/Desktop/digitalabs/index.html",
+				"/C/Users/vipul/Desktop/digitalabs/.htaccess",
+				"/C/Users/vipul/Desktop/New folder/.htaccess",
+				"/C/Users/vipul/Desktop/New folder/.git/description",
+				"/C/Users/vipul/Desktop/New folder/.git/config",
+				"/C/Users/vipul/Desktop/New folder/css/tidy.css",
+				"/C/Users/vipul/Desktop/New folder/css/liquid-slider.css",
+				"/C/Users/vipul/Desktop/New folder/css/animate.css",
+				"/C/Users/vipul/Desktop/New folder/index.html",
+				"/C/Users/vipul/Desktop/New folder/package.json",
+				"/C/Users/vipul/Desktop/New folder/Gruntfile.js",
+				"/C/Users/vipul/Desktop/New folder/js/scripts.min.js",
+				"/C/Users/vipul/Desktop/New folder/css/style.css",
+				"/C/Users/vipul/Desktop/New folder/css/font-awesome.css",
+				"/E/www/Vipul/phpForm/index.html",
+				"/D/js/query.php",
+				"/D/js/contact.php",
+				"/D/js/career.php",
+				"/D/js/interns.php",
+				"/D/index.html",
+				"/D/css/style.css",
+				"/D/css/masonry.css",
+				"/D/css/liquid-slider.css",
+				"/D/css/magnific-popup.css",
+				"/D/css/animate.css",
+				"/D/css/colors/blue.css",
+				"/D/css/ionicons.css",
+				"/C/Users/vipul/Desktop/Sublime Text Build 3065 x64/Data/Packages/User/CSSTidy.sublime-settings",
+				"/C/Users/vipul/Desktop/Sublime Text Build 3065 x64/Data/Packages/CSSTidy/CSSTidy.sublime-settings",
+				"/D/css/team-app.css",
+				"/D/css/style2.css",
+				"/C/Users/vipul/Desktop/New folder/.ftpquota",
+				"/D/js/fresher.php",
+				"/E/www/Vipul/phpForm/script/query2.php",
+				"/E/www/Vipul/phpForm/script/query.php",
+				"/E/www/Vipul/phpForm/fb-login.html",
+				"/E/www/Vipul/ui-localhost/css/style.css",
+				"/E/www/Vipul/ui-localhost/index.html",
+				"/C/Users/vipul/Desktop/scripts.min.js",
+				"/E/www/Vipul/raw/bs/Gruntfile.js",
+				"/E/www/Vipul/raw/bs/style.scss",
+				"/E/www/Vipul/raw/bs/bower.json",
+				"/C/Users/vipul/Desktop/jquery-1.11.2.min.js",
+				"/E/www/Vipul/raw/bs/index.html",
+				"/E/www/Vipul/raw/bs/bower_components/vip.pack.files/.bower.json",
+				"/E/www/Vipul/raw/bs/node_modules/stylesheets/_bootstrap.scss",
+				"/E/www/Vipul/raw/bs/css/style.css",
+				"/C/Users/vipul/Documents/GitHub/jquery.min/jquery.min.js",
+				"/E/www/Vipul/raw/bs/package.json",
+				"/E/www/Vipul/raw/bs/node_modules/sass/spec/fixtures/variables.sass"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"C:\\Users\\vipul\\Desktop\\New folder",
+					"D:\\css"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"hide",
+					"'Patua One'",
+					"game",
+					"\\",
+					"watch",
+					"wATCH",
+					"game",
+					" 20px",
+					"navbar",
+					": red",
+					"{@i",
+					"@media screen and ($screen-xs-max)",
+					"@media screen and ($screen-sm-max)",
+					"@media screen and ($screen-md-max)",
+					".content",
+					"phone",
+					"tablet",
+					"desktop",
+					"max-width:",
+					"@media",
+					".content",
+					":0",
+					"%",
+					"/*",
+					"vipulism",
+					"io",
+					"vipulism",
+					"io.net');\">\n",
+					"vipulism",
+					".chaha11",
+					"chaha11",
+					"droid2\"",
+					"droid1\"",
+					"foot1\"",
+					"droid3\"",
+					"arm1\"",
+					"\"kf_",
+					"leg2\"",
+					"_light\"",
+					"\"kf_left",
+					"leg",
+					"chaha11",
+					"11",
+					"_leg2\"",
+					"kf_",
+					"kf_arm1",
+					"kf_",
+					"\"kf_",
+					"\"kf_droid1\"",
+					"combineMq",
+					"chaha11",
+					".css",
+					".leg",
+					"css",
+					".css",
+					"-",
+					"css",
+					".css",
+					"css",
+					".com",
+					"face",
+					"png",
+					"bd-1",
+					"img/client-",
+					"/logo.png",
+					"src=\"images/city-icon.png\"",
+					"src=\"images/user-icon.png\"",
+					"src=\"images/email-icon.png\"",
+					"src=\"images/phone-icon.png\"",
+					"src=\"images/address-icon.png\"",
+					"src=\"images/zip-icon.png\"",
+					"width=\"42\" height=\"28\"",
+					"src=\"images/zip-icon.png\"",
+					"js",
+					"/*",
+					"icon",
+					"html",
+					".fluid-width-video-wrapper",
+					"fluid-width-video-wrapper",
+					".css",
+					"style2",
+					"style",
+					".ion-spin,.ion-loading-a,.ion-loading-b,.ion-loading-c,.ion-loading-d,.ion-looping,.ion-refreshing,.ion-ios7-reloading",
+					"cpname",
+					"inter",
+					"’",
+					"Address2",
+					"email",
+					"Interns",
+					"vipDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD",
+					"uikit",
+					"uikit/music"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/www/office/digitalabs/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 30224,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										384,
+										384
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,2,3,-32000,-32000,-1,-1,627,74,77,1218",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 3,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
