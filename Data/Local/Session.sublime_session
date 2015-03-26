@@ -378,9 +378,13 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 104.0,
+				"height": 219.0,
 				"selected_items":
 				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
 					[
 						"install",
 						"Package Control: Install Package"
@@ -395,10 +399,6 @@
 					],
 					[
 						"insatll",
-						"Package Control: Install Package"
-					],
-					[
-						"insta",
 						"Package Control: Install Package"
 					]
 				],

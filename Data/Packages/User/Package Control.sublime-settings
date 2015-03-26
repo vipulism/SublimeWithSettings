@@ -10,6 +10,8 @@
 		"HTML-CSS-JS Prettify",
 		"Minifier",
 		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
 		"Syntax Highlighting for Sass"
 	]
 }
