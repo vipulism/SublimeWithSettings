@@ -1,8 +1,19 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"font_size": 10,
+	"color_scheme": "Packages/User/SublimeLinter/itg.dark (SL).tmTheme",
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"*.html"
+	],
+	"theme": "itg.flat.dark.sublime-theme"
 }

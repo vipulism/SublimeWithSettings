@@ -5,13 +5,24 @@
 	"installed_packages":
 	[
 		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
 		"Emmet",
 		"Gulp",
 		"HTML-CSS-JS Prettify",
+		"Jade",
+		"Jade Snippets",
 		"Minifier",
 		"Package Control",
+		"Predawn",
+		"SCSS Snippets",
+		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
-		"Syntax Highlighting for Sass"
+		"Syntax Highlighting for Sass",
+		"Theme - Cobalt2",
+		"Theme - Flatland",
+		"Theme - itg.flat",
+		"Theme - Soda",
+		"Theme - Spacegray"
 	]
 }
