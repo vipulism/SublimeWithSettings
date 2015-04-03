@@ -1,4 +1,5 @@
 {
+	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin, text.html.basic",
 	"color_scheme": "Packages/User/SublimeLinter/itg.dark (SL).tmTheme",
 	"disable_tab_abbreviations_on_auto_complete": "false",
 	"font_size": 12,
@@ -17,6 +18,5 @@
 		"*.html"
 	],
 	"theme": "itg.flat.dark.sublime-theme",
-	"word_wrap": "true",
-	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin, text.html.basic"
+	"word_wrap": "true"
 }
