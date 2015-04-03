@@ -589,13 +589,10 @@
 					}
 				},
 				{
-					"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>FormalFunky</title>\n    <meta http-equiv=\"Cache-Control\" content=\"no-store\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <link rel=\"stylesheet\" href=\"css/style.css\">\n</head>\n<body> \n\n    <div class=\"wrap col-sx-6 col-lg-12  col-md-12\">\n     <div class=\"main2\">\n          <div class=\"myphone-page\">\n       <header>\n            <div class=\"inner\">\n                <div class=\"logo  col-lg-2  col-md-2\">\n                <a href=\"index.html\"><img src=\"images/logo.png\" alt=\"\"></a></div>\n                <div class=\"hdr-right col-lg-9 col-md-9 \">\n                    <div class=\"hdr-top\">\n                        <div class=\"cart-bx\">\n                            <span class=\"cart-icon\">5</span> <span class=\"cart-total\">1500</span> <div class=\"cl\"></div>\n                            <div class=\"utility\">\n                                <a href=\"#\">My Account</a> | <a href=\"#\">Logout</a>\n                            </div>\n                        </div>  \n                        <div class=\"user\">\n                            <div class=\"user-img\"></div><div class=\"cl\">User name</div>\n                        </div>\n                        <div class=\"social\">\n                            <a href=\"\" class=\"youtube\">\n                                \n                            </a>\n                                <a href=\"\" class=\"twitter\">\n                                \n                            </a>\n                                <a href=\"\" class=\"facebook\">\n\n                                \n                            </a>\n                        </div>\n                    </div>\n                    <div class=\"cl\"></div>\n                    <div class=\"hdr-btm\">\n                        <div class=\"sort-by\">\n                            Sort By: <ul>\n                                <li>Popularity</li>\n                                <li>Newest</li>\n                                <li>Price Lowest </li>\n                                <li>Price Highest</li>\n                            </ul>\n                        </div>\n                        <div class=\"ff-filter\">\n                            <ul>\n                               <li><a class=\"formal\" href=\"\">Formal</a></li>\n                                <li><a class=\"funky\" href=\"\">Funky</a></li>\n                                <li><a class=\"fusion\" href=\"\">Fusion</a></li>\n                            </ul>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </header>\n         <div class=\"cart-view-dd\">\n                    <div class=\"dd-cart-holder\">\n                        <div class=\"cart-content\">\n                            <div class=\"pro\">\n                                <div class=\"close-btn\"></div>\n                                <div class=\"p-thmb\"><img src=\"images/3.png\" height=\"150\" alt=\"\"></div>\n                                <div class=\"name-price\">\n                                    Price:\n                                    <sapn class=\"p-price\">500</sapn>\n                                    <div class=\"p-name\">Taxture Print Pro Name <span>Case for samsung Galexy s2</span></div>\n                                </div>\n                            </div>\n                            <div class=\"pro\">\n                                <div class=\"close-btn\"></div>\n                                <div class=\"p-thmb\"><img src=\"images/5.png\" height=\"150\" alt=\"\"></div>\n                                <div class=\"name-price\">\n                                    Price:\n                                    <sapn class=\"p-price\">500</sapn>\n                                    <div class=\"p-name\">Taxture Print Pro Name <span>Case for samsung Galexy s2</span></div>\n                                </div>\n                            </div>\n                            <div class=\"pro\">\n                                <div class=\"close-btn\"></div>\n                                <div class=\"p-thmb\"><img src=\"images/4.png\" height=\"150\" alt=\"\"></div>\n                                <div class=\"name-price\">\n                                    Price:\n                                    <sapn class=\"p-price\">500</sapn>\n                                    <div class=\"p-name\">Taxture Print Pro Name <span>Case for samsung Galexy s2</span></div>\n                                </div>\n                            </div>\n                            <div class=\"pro\">\n                                <div class=\"close-btn\"></div>\n                                <div class=\"p-thmb\"><img src=\"images/2.png\" height=\"150\" alt=\"\"></div>\n                                <div class=\"name-price\">\n                                    Price:\n                                    <sapn class=\"p-price\">500</sapn>\n                                    <div class=\"p-name\">Taxture Print Pro Name <span>Case for samsung Galexy s2</span></div>\n                                </div>\n                            </div>\n                        </div>\n                        <aside>\n                            <ul class=\"cart-list\">\n                                <li class=\"title\"> Cart quick view </li>\n                                <li class=\"othr-chrgs\">\n                                    <div class=\"othr\">5 Itam(s)</div>\n                                    <div class=\"price\"><span>1000</span></div>\n                                    <div class=\"cl\"></div>\n                                </li>\n                                <li class=\"discount\">\n                                    <div class=\"discount-list\">Shipping &amp; Handling\n                                        <div class=\"price\"><span>100</span></div>\n                                    </div>\n                                    <div class=\"discount-list save\">Discount\n                                        <div class=\"price\"><span>100</span></div>\n                                    </div>\n                                </li>\n                                <li class=\"you-pay\">\n                                    You Pay\n                                    <div class=\"price\">1200</div>\n                                </li>\n                            </ul>\n                            <a href=\"\" class=\"btn btn-lg btn-success proceed\">Proceed to Check Out</a>\n                        </aside>\n                    </div>\n                </div>\n        <div class=\"breadcrumbs\">\n            <a href=\"#\">Home</a><a href=\"#\">Case</a><a href=\"#\">Samsung galaxy S2</a>\n        </div>\n        <div class=\"main-content cart-pages\">\n             \n            <div class=\"main-side\"> \n              <div class=\"acco\">\n                \n                <div class=\"login edit-mode acco-slide\">\n\n      <div class=\"title\">Login <sapn class=\"edit-btn\"> Edit</sapn></div>\n     <div class=\"details\">niaonlinetest@gmail.com\n<span class=\"msg\">You will receive the order confirmation mail on this email.</span>\n    </div>\n\n\n\n                  <div class=\"acoo-disc\">\n<table class=\"login-tab\">\n  <tr>\n    <td> <button class=\"loginBtn loginBtn--facebook\">  Login with Facebook </button>  \n\n    <span class=\"or-sign\">or</span>\n    </td>\n  \n  <td  class=\"login-frms\"> <input type=\"text\" placeholder=\"Email\" class=\"form-control\"> </td>\n  </tr>\n\n  <tr> <td>\n    <button class=\"loginBtn loginBtn--google\"> Login with Google </button>\n\n   <!-- asdas -->\n \n   <!-- asdas -->\n    </td>\n  \n  <td  class=\"login-frms\"> \n    \n  <input type=\"text\" placeholder=\"password\" class=\"form-control pswrd-input\">\n<a href=\"#\" class=\"hav-psswd\">Have an Account?</a>\n    <button class=\"btn btn-lg btn-default\"> NEXT</button></td>\n  </tr>\n</table>\n                  </div>\n                </div>\n                <div class=\"shipping-address edit-mode acco-slide\">\n\n                  <div class=\"title\">Shipping Address <sapn class=\"edit-btn\"> Edit</sapn></div>\n\n                  <div class=\"details\">Aditya Raj\n<span class=\"msg\">F-24, Lagpat Nagar III,<br> New Delhi 110024 <br>  \n+91 9876543210</span>\n    </div>\n\n\n                  <div class=\"acoo-disc\">\n<table>\n  <tr>\n    <td><input type=\"text\" name=\"\" id=\"input\" class=\"form-control\" value=\"\" placeholder=\"Recipient's Name\" required=\"required\" title=\"\"> </td>\n  </tr>\n  <tr>\n    <td><input type=\"tel\" name=\"\" id=\"input\" class=\"form-control\" value=\"\" placeholder=\"Recipient's Mobile No.\" required=\"required\" title=\"\"> </td>\n  </tr>\n  <tr>\n    <td><textarea name=\"\" id=\"\" class=\"form-control\" cols=\"20\" rows=\"4\"></textarea></td>\n  </tr>\n  <tr>\n    <td><input type=\"text\" name=\"\" id=\"input\" class=\"form-control\" value=\"\" placeholder=\"Pincode\" required=\"required\" pattern=\"\" title=\"\"></td>\n  </tr>\n  <tr>\n    <td><input type=\"text\" name=\"\" id=\"input\" class=\"form-control\" value=\"\" placeholder=\"Locality\" required=\"required\" pattern=\"\" title=\"\"></td>\n  </tr>\n  <tr>\n    <td><input type=\"text\" name=\"\" id=\"input\" class=\"form-control\" value=\"\"  placeholder=\"City\" required=\"required\" pattern=\"\" title=\"\"></td>\n  </tr>\n  <tr>\n    <td><input type=\"text\" name=\"\" id=\"input\" class=\"form-control\" value=\"\"  placeholder=\"Landmark\" required=\"required\" pattern=\"\" title=\"\"></td>\n  </tr>\n  <tr>\n    <td><button type=\"submit\" class=\"btn btn-lg btn-default\">NEXT</button></td>\n  </tr>\n</table>\n                  </div>\n                </div>\n                <div class=\"payment active acco-slide\">\n                  <div class=\"title\">Payment</div>\n                  <div class=\"acoo-disc\">\n\n                  <ul class=\"pay-tabs\">\n                    <li class=\"active\">\n                    <a href=\"#\">Dabit Card</a>\n                    <div class=\"dabit-bx\">\n                    <div class=\"note\">Note: We DO NOT STORE ANY OF this information that you are providing. We securely pass these on to the bank.\n</div><div class=\"cl\"></div>\n                      Enter Debit card number  \n  <div class=\"card-detail-wrap\">\n                      <sapn id=\"card-icon\"></sapn>   \n    <input type=\"text\" id=\"cardNumber11\" class=\"form-control card-detail\">\n       \n  </div>\n \n  <div class=\"cl\"></div>\n  <div class=\"expiry\">\n    EXPIRY DATE\n\n      <input type=\"text\" class=\"form-control expiry-crd card-detail\" placeholder=\"MM/YYYY\">\n\n  </div><div class=\"expiry cvc\">\nCSV      <input type=\"numbers\" class=\"form-control card-detail\" placeholder=\"\">\n\n  </div>\n<div class=\"cl\"></div><br>\n  <div class=\"checkboxes\">\n    <input type=\"checkbox\"> Use my shipping address as billing address <br><br>\n    <input type=\"checkbox\"> I accept the <a href=\"#\">Tearm and Conditions</a> and <a href=\"#\">Privicy Policy</a>\n  </div><br>\n <div class=\"btn btn-primary btn-lg\">Pay Now</div>\n                                          </div>\n                    </li>\n                    <li><a href=\"#\">Cradit Card</a></li>\n                    <li><a href=\"#\">Cash On Delivery</a></li>\n                  </ul>\n\n\n                  </div>\n                </div>\n              </div>\n\n            </div>\n\n              <aside>\n                <div class=\"title\">Shopping Cart</div>\n                <ul class=\"cart-list\">\n                                <li class=\"othr-chrgs\">\n                                    <div class=\"othr\">5 Itam(s)</div>\n                                    <div class=\"price\"><span>1000</span></div>\n                                    <div class=\"cl\"></div>\n                                </li>\n                                <li class=\"discount\">\n                                    <div class=\"discount-list\">Shipping &amp; Handling\n                                        <div class=\"price\"><span>100</span></div>\n                                    </div>\n                                    <div class=\"discount-list save\">Discount\n                                        <div class=\"price\"><span>100</span></div>\n                                    </div>\n                                </li>\n                                <li class=\"you-pay\">\n                                    You Pay\n                                    <div class=\"price\">1200</div>\n                                </li>\n                             \n\n                   \n\n\n                </ul>\n <a href=\"\" class=\"btn btn-lg btn-success \n\n\n\n\n \">Proceed to Check Out</a> \n<div class=\"coupon-code\">\n enter coupon code if you have one:\n<input type=\"text\" class=\"form-control\" value=\"enter coupon code\"> <button class=\"btn btn-primary btn-lg\">Apply Now</button>\n</div>\n              </aside>       \n      \n      <div class=\"cl\"></div>\n       \n        </div>  \n       </div>\n         \n      \n         \n         \n<!-- saerch bar -->\n            <div class=\"srch-bar \" style=\"margin-bottom: -130px; bottom: 100%;\">\n                      <div class=\"search-pn\" style=\"width: 1240px;\">\n          <div class=\"search-frm col-lg-12 col-md-12 ov-bg\" style=\"width: 350px; left: 61.5%;\">\n                      <div class=\"before\"></div>\n             <i class=\"fa-mobile-phone\"></i> \n\n              <input type=\"text\" spellcheck=\"false\" class=\"txt hdr-txt\" style=\"width: 300px;\">\n             \n          \n          <div class=\"cl\"></div>\n          </div>\n          \n          <!-- saerch result -->\n        <div class=\"srch-main srch-main2\" style=\"display: none;\">    \n              <ul>\n                  <li>Samsung</li>\n                  <li>Samsung Galaxy S</li>\n                  <li>Samsung Galaxy S2</li>\n                  <li>Samsung Galaxy S3</li>\n                  <li>Samsung Galaxy S4</li>    \n              </ul>\n             \n              <ul>\n                  <li>Apple</li>\n                  <li>iPhone 6c</li>\n                  <li>iPhone 4</li>\n                  <li>iPhone 4s</li>\n                  <li>iPhone 6</li> \n                \n              </ul>\n             \n              <ul>\n                  <li>HTC</li>\n                  <li>HTC desire 816</li>\n                  <li>HTC one</li>\n                  <li>HTC desire one</li>\n              </ul>\n              <div class=\"cl\"></div>\n              \n          </div>\n        </div>\n              \n          </div>\n\n          <!-- end search bar -->\n           </div>   \n   <div class=\"home-nav\">\n         \n          <div class=\"nav-btn\">\n           <div class=\"menu-icon\">\n              <span></span>\n            </div>\n          </div>\n        \n        <div class=\"lead\">Brands</div>\n        <ul class=\"brand-menu list-group\">\n           <li  class=\"list-group-item-1\"><a    href=\"#\">iPhone</a></li>\n           <li  class=\"list-group-item-1\"><a    href=\"#\">Samsung</a>\n           <div class=\"lavel2close nav-btn\"><div class=\"menu-icon open\"><span></span></div></div>\n           <ul>\n              <li  class=\"lead\"><a href=\"#\">Samsung Galaxy Note</a></li>\n              <li  class=\"list-group-item-1\"><a    href=\"#\">Samsung Galaxy Note 1</a></li>\n               <li class=\"list-group-item-1\" ><a   href=\"#\">Samsung Galaxy Note 2</a></li>\n               <li class=\"list-group-item-1\" ><a   href=\"#\">Samsung Galaxy Note 3</a></li>\n               \n                <li  class=\"lead\"><a href=\"#\">Samsung Galaxy S</a></li>\n              <li  class=\"list-group-item-1\"><a    href=\"#\">Samsung Galaxy S 1</a></li>\n               <li class=\"list-group-item-1\" ><a   href=\"#\">Samsung Galaxy S 2</a></li>\n               <li class=\"list-group-item-1\" ><a   href=\"#\">Samsung Galaxy S 3</a></li>\n               <li class=\"list-group-item-1\" ><a   href=\"#\">Samsung Galaxy S 4</a></li>\n                \n                 <li  class=\"lead\"><a href=\"#\">Samsung Galaxy Grand</a></li>\n              <li  class=\"list-group-item-1\"><a    href=\"#\">Samsung Galaxy Grand</a></li>\n              <li  class=\"list-group-item-1\"><a    href=\"#\">Samsung Galaxy Grand 2</a></li>\n               <li class=\"list-group-item-1\" ><a   href=\"#\">Samsung Galaxy Grand Prime</a></li>\n                \n               \n           </ul></li>\n           <li  class=\"list-group-item-1\"><a    href=\"#\">HTC</a>\n           <div class=\"lavel2close nav-btn\"><div class=\"menu-icon open\"><span></span></div></div>\n            <ul>\n              <li  class=\"list-group-item-1\"><a    href=\"#\">HTC One Note</a></li>\n               <li class=\"list-group-item-1\" ><a   href=\"#\">HTC htc Desire </a></li>\n               \n           </ul>\n           </li>\n           <li  class=\"list-group-item-1\"><a    href=\"#\">Nokia</a></li>\n           <li  class=\"list-group-item-1\"><a    href=\"#\">LG</a></li>\n        </ul>\n        <hr>\n        <div class=\"lead\">User Login</div>\n        <form action=\"\">\n            <div class=\"form-group\"><input type=\"email\" class=\"form-control\" id=\"exampleInputEmail1\" placeholder=\"Email\"></div>\n            <div class=\"form-group\"><input type=\"email\" class=\"form-control\" id=\"exampleInputEmail1\" placeholder=\"Password\"></div>\n            <div class=\"form-group center\"><a href=\"#\">forgot password?</a></div>\n<button type=\"button\" class=\"btn btn-success btn-lg btn-block\">LOGIN</button>\n       \n        </form>\n        <div class=\"form-group pos-r\"><span class=\"or-sign\">or</span></div>\n        <button type=\"button\" class=\"btn btn-default btn-lg btn-block\">Creat an Account</button>\n   \n        </div>\n    </div>\n\n  <script src=\"js/glob.js\"></script>\n    <script src=\"js/jquery.ForceBankingCard.js\"></script>\n\n                <script>\n                $(document).ready(function() {\n                 $('#cardNumber11').ForceCardNumber({\n                 onkeyUp: function(data) {\n                        //alert(\"dd\")\n                       \n                        if(typeof data.CardNetwork !== \"undefined\"){\n                             //$(\".cardList img\").not(\".\" + data.CardNetwork).css({\"opacity\": \"0.2\"});\n                             $(\"#card-icon\").removeClass();\n                             $(\"#card-icon\").addClass(data.CardNetwork);\n                            // $(\"#card-icon\").html(data.CardNetwork);\n\n\n                         }else if(typeof data.CardNetwork  !== ''){\n                          \n                          $(\"#card-icon\").removeClass();\n                          $('.card-detail-wrap').removeClass('wrong');\n                         } \n\n\n                                \n                        if(data.Valid){\n                             $('.card-detail-wrap').addClass('green');\n                             $('.card-detail-wrap').removeClass('wrong');\n\n                            }\n                        else {\n                           // $(this).css({\"background-color\": \"#f00\"});\n                          $('.card-detail-wrap').addClass('wrong');\n                        }\n                    }\n}); });\n  </script>   \n \n</body>\n</html>",
-					"file": "lib/old/cart-detail.html",
-					"file_size": 19126,
-					"file_write_time": 130725145570771043,
+					"file": "lib/inc/footer.jade",
 					"settings":
 					{
-						"buffer_size": 18679,
+						"buffer_size": 486,
 						"line_ending": "Windows"
 					}
 				},
@@ -603,7 +600,7 @@
 					"file": "/D/app/SublimeWithSettings/Data/Packages/User/Preferences.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 349,
+						"buffer_size": 372,
 						"line_ending": "Unix"
 					}
 				}
@@ -678,10 +675,13 @@
 			[
 				"/D/www/formalFunky/jade/lib",
 				"/D/www/formalFunky/jade/lib/css",
-				"/D/www/formalFunky/jade/lib/old"
+				"/D/www/formalFunky/jade/lib/inc"
 			],
 			"file_history":
 			[
+				"/D/www/formalFunky/jade/lib/old/pro-detail2.html",
+				"/D/www/formalFunky/jade/lib/old/cart-detail.html",
+				"/D/app/SublimeWithSettings/Data/Packages/User/Preferences.sublime-settings",
 				"/D/www/formalFunky/jade/lib/inc/hdr.jade",
 				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/mixins/_hide-text.scss",
 				"/D/www/formalFunky/jade/lib/old/cart1.html",
@@ -721,7 +721,6 @@
 				"/D/www/formalFunky/jade/lib/inc/default-scripts.jade",
 				"/D/www/formalFunky/jade/cart1.html",
 				"/D/www/formalFunky/jade/lib/js/script.js",
-				"/D/www/formalFunky/jade/lib/old/pro-detail2.html",
 				"/D/www/formalFunky/jade/lib/cms-pade.jade",
 				"/D/www/formalFunky/jade/lib/CMS-pade.jade",
 				"/D/www/formalFunky/jade/lib/default-temp.jade",
@@ -807,9 +806,7 @@
 				"/E/www/Vipul/vipulism.github.io/package.json",
 				"/E/www/Vipul/raw/gulp/gulpfile.js",
 				"/C/Users/vipul/Desktop/digitalabs/js/query.php",
-				"/C/Users/vipul/Desktop/digitalabs/js/Interns.php",
-				"/C/Users/vipul/Desktop/digitalabs/js/career.php",
-				"/C/Users/vipul/Desktop/digitalabs/js/contact.php"
+				"/C/Users/vipul/Desktop/digitalabs/js/Interns.php"
 			],
 			"find":
 			{
@@ -974,7 +971,7 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 1,
 					"sheets":
 					[
 						{
@@ -990,8 +987,8 @@
 								"selection":
 								[
 									[
-										0,
-										0
+										861,
+										861
 									]
 								],
 								"settings":
@@ -999,21 +996,21 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
@@ -1024,36 +1021,36 @@
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
 									],
 									"syntax": "Packages/HTML/HTML.tmLanguage",
 									"tab_size": 2,
@@ -1068,19 +1065,19 @@
 						},
 						{
 							"buffer": 1,
-							"file": "lib/old/cart-detail.html",
+							"file": "lib/inc/footer.jade",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 18679,
+								"buffer_size": 486,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1123,
-										1123
+										7,
+										7
 									]
 								],
 								"settings":
@@ -1088,21 +1085,21 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
@@ -1113,46 +1110,44 @@
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
 									],
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
 								},
-								"translation.x": 0.0,
+								"translation.x": 63.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 0,
 							"type": "text"
 						},
 						{
@@ -1161,15 +1156,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 349,
+								"buffer_size": 372,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										349,
-										349
+										369,
+										369
 									]
 								],
 								"settings":
@@ -1177,21 +1172,21 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
@@ -1202,36 +1197,36 @@
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
 									],
 									"syntax": "Packages/JavaScript/JSON.tmLanguage",
 									"translate_tabs_to_spaces": false
@@ -1240,7 +1235,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -1281,7 +1276,7 @@
 			{
 				"height": 0.0
 			},
-			"position": "0,2,3,-1,-1,-1,-1,627,74,77,1218",
+			"position": "0,2,3,-32000,-32000,-1,-1,627,74,77,1218",
 			"project": "FF.sublime-project",
 			"replace":
 			{

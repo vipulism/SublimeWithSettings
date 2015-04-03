@@ -16,5 +16,6 @@
 		"*.html"
 	],
 	"theme": "itg.flat.dark.sublime-theme",
-	"disable_tab_abbreviations_on_auto_complete": "false"
+	"disable_tab_abbreviations_on_auto_complete": "false",
+	"word_wrap": "true"
 }
