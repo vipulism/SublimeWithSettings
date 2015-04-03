@@ -4,8 +4,11 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
+		"AutoFileName",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
+		"CSS Extended Completions",
 		"Emmet",
 		"Gulp",
 		"HTML-CSS-JS Prettify",

@@ -592,25 +592,39 @@
 					"file": "lib/inc/footer.jade",
 					"settings":
 					{
-						"buffer_size": 486,
+						"buffer_size": 245,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/app/SublimeWithSettings/Data/Packages/User/Preferences.sublime-settings",
+					"contents": "Package Control Messages\n========================\n\nCSS Extended Completions:\n------------------------\n\n  CSS Extended Completions\n  \n  Save any file you're working on to add its CSS/LESS/SCSS symbols to the completion index.\n  \n  The following completions are provided:\n  \n  - Extended CSS property/values\n  - CSS class names\n  - CSS IDs\n  - LESS variables/mixins/classes\n  - SCSS variables/mixins/classes\n  \n  Available Options\n  \n  - Options for what scopes trigger completions\n  - Option to auto clear cache on close.\n    Set \"save_cache_to_file\":false (defaults to true)\n  - Auto load css/less/scss from external folders\n    Example: \"load_external_files\":[\"/some/folder\", \"/another/folder\"]\n    (Must be absolute paths)\n  - Option to adjust what pseudo selectors are added to completions\n  - And more, just checkout the Default Settings file\n    Preferences > Package Settings > CSS Extended Completions\n  \n  \n  To delete your cache, open the command palette and type 'CSS delete cache'\n  \n  ",
 					"settings":
 					{
-						"buffer_size": 372,
-						"line_ending": "Unix"
+						"buffer_size": 997,
+						"line_ending": "Windows",
+						"name": "Package Control Messages",
+						"scratch": true
 					}
 				}
 			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 400.0,
+				"height": 188.0,
 				"selected_items":
 				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pack li",
+						"Package Control: List Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
 					[
 						"packa",
 						"Preferences: Browse Packages"
@@ -621,14 +635,6 @@
 					],
 					[
 						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
 						"Package Control: Install Package"
 					],
 					[
@@ -652,7 +658,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 520.0
+				"width": 472.0
 			},
 			"console":
 			{
@@ -674,14 +680,14 @@
 			"expanded_folders":
 			[
 				"/D/www/formalFunky/jade/lib",
-				"/D/www/formalFunky/jade/lib/css",
-				"/D/www/formalFunky/jade/lib/inc"
+				"/D/www/formalFunky/jade/lib/css"
 			],
 			"file_history":
 			[
+				"/D/app/SublimeWithSettings/Data/Packages/User/Preferences.sublime-settings",
+				"/D/www/formalFunky/jade/lib/inc/footer.jade",
 				"/D/www/formalFunky/jade/lib/old/pro-detail2.html",
 				"/D/www/formalFunky/jade/lib/old/cart-detail.html",
-				"/D/app/SublimeWithSettings/Data/Packages/User/Preferences.sublime-settings",
 				"/D/www/formalFunky/jade/lib/inc/hdr.jade",
 				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/mixins/_hide-text.scss",
 				"/D/www/formalFunky/jade/lib/old/cart1.html",
@@ -805,8 +811,7 @@
 				"/E/www/Vipul/vipulism.github.io/minjs/blur.min.js",
 				"/E/www/Vipul/vipulism.github.io/package.json",
 				"/E/www/Vipul/raw/gulp/gulpfile.js",
-				"/C/Users/vipul/Desktop/digitalabs/js/query.php",
-				"/C/Users/vipul/Desktop/digitalabs/js/Interns.php"
+				"/C/Users/vipul/Desktop/digitalabs/js/query.php"
 			],
 			"find":
 			{
@@ -996,31 +1001,46 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
@@ -1031,26 +1051,11 @@
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content"
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
 									],
 									"syntax": "Packages/HTML/HTML.tmLanguage",
 									"tab_size": 2,
@@ -1060,7 +1065,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
@@ -1069,15 +1074,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 486,
+								"buffer_size": 245,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										7,
-										7
+										245,
+										245
 									]
 								],
 								"settings":
@@ -1085,31 +1090,46 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
@@ -1120,30 +1140,15 @@
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content"
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
 									],
 									"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
 								},
-								"translation.x": 63.0,
+								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
@@ -1152,51 +1157,66 @@
 						},
 						{
 							"buffer": 2,
-							"file": "/D/app/SublimeWithSettings/Data/Packages/User/Preferences.sublime-settings",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 372,
+								"buffer_size": 997,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										369,
-										369
+										646,
+										646
 									]
 								],
 								"settings":
 								{
 									"BracketHighlighterBusy": false,
+									"auto_indent": false,
 									"bh_regions":
 									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
@@ -1207,35 +1227,20 @@
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content"
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
 									],
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"word_wrap": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -1272,11 +1277,15 @@
 				]
 			},
 			"menu_visible": true,
+			"output.CSS Extended Completions":
+			{
+				"height": 0.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"position": "0,2,3,-32000,-32000,-1,-1,627,74,77,1218",
+			"position": "0,2,3,-32000,-32000,-1,-1,1080,0,0,1920",
 			"project": "FF.sublime-project",
 			"replace":
 			{
