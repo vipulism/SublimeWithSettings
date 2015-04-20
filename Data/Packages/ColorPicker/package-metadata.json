@@ -1,1 +1,1 @@
-{"sublime_text": "*", "dependencies": [], "url": "http://weslly.github.io/ColorPicker/", "platforms": ["*"], "version": "1.12.0", "description": "A multi-platform color picker plugin"}
+{"description": "A multi-platform color picker plugin", "sublime_text": "*", "version": "1.13.1", "platforms": ["*"], "url": "http://weslly.github.io/ColorPicker/", "dependencies": []}
