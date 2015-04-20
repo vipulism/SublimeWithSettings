@@ -14,6 +14,7 @@
 		"ColorPicker",
 		"Comment-Snippets",
 		"CSS Extended Completions",
+		"Dimmed Color Scheme",
 		"Emmet",
 		"FileDiffs",
 		"Gulp",
@@ -25,6 +26,7 @@
 		"Predawn",
 		"SASS Snippets",
 		"SCSS Snippets",
+		"Seti_UI",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
@@ -34,6 +36,7 @@
 		"Theme - Cobalt2",
 		"Theme - Flatland",
 		"Theme - itg.flat",
+		"Theme - Nexus",
 		"Theme - Soda",
 		"Theme - Spacegray"
 	]
