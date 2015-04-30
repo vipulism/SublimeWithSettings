@@ -1,13 +1,21 @@
 {
 	"folder_history":
 	[
+		"/D/www/New folder/rec/recipe-stylus",
+		"/D/www/Just Printing/jp_new",
+		"/D/www/yeoman/app/jp",
+		"/D/www/yeoman",
+		"/D/www/Digitalabs/dev",
+		"/D/www/jaagar/Jade",
+		"/D/www/creative_curtains/wp-content",
+		"/D/www/renew Power",
 		"/D/www/mukulgoyal/dev",
 		"/D/dnd",
 		"/D/www/formalFunky/jade",
 		"/D/www/formalFunky/html"
 	],
 	"last_version": 3065,
-	"last_window_id": 11,
+	"last_window_id": 14,
 	"log_indexing": false,
 	"settings":
 	{
@@ -19,16 +27,204 @@
 				"selected_items":
 				[
 					[
+						"lable",
+						"label	 element"
+					],
+					[
+						"op",
+						"option	Tag"
+					],
+					[
+						"bs3",
+						"bs3-form	bs3-form"
+					],
+					[
+						"cur",
+						"cur	cursor: ${pointer};"
+					],
+					[
+						"ju",
+						"Just Printing/"
+					],
+					[
+						"bst-res",
+						"bst-navbar:responsive	bst-navbar-responsive"
+					],
+					[
+						"bst-nav",
+						"bst-navbar:links	bst-navbar-links"
+					],
+					[
+						"bst-na",
+						"bst-navbar	bst-navbar"
+					],
+					[
+						"bst-car",
+						"bst-carousel	bst-carousel"
+					],
+					[
+						"bst",
+						"bst-thumbnail	bst-thumbnail"
+					],
+					[
+						"bst-th",
+						"bst-thumbnail:content	bst-thumbnail-content"
+					],
+					[
+						"li",
+						"lighten	lighten()"
+					],
+					[
+						"bor",
+						"brown"
+					],
+					[
+						"bst-f",
+						"bst-form:inline	bst-form-inline"
+					],
+					[
+						"bst-b",
+						"bst-breadcrumbs	bst-breadcrumbs"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"style",
+						"styles"
+					],
+					[
+						"images",
+						"images/"
+					],
+					[
+						"ma",
+						"main"
+					],
+					[
+						"home",
+						"home-sidebar	 style.scss"
+					],
+					[
+						"loca",
+						"location"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"si",
+						"sizing"
+					],
+					[
+						"geo",
+						"Cambria, Georgia, serif"
+					],
+					[
+						"btn",
+						"btn-block"
+					],
+					[
+						"hdr",
+						"header-img	 style.scss"
+					],
+					[
+						"hre",
+						"href"
+					],
+					[
+						"bst-n",
+						"bst-navbar:basic	bst-navbar-basic"
+					],
+					[
+						"inner",
+						"innerHTML"
+					],
+					[
+						"fin",
+						"find"
+					],
+					[
+						"gete",
+						"getElementById"
+					],
+					[
+						"remove",
+						"remove"
+					],
+					[
+						"comm",
+						"comm-section	Comment - Full section comment"
+					],
+					[
+						"fu",
+						"fusion"
+					],
+					[
+						"fade",
+						"fadeIn"
+					],
+					[
+						"form-",
+						"form-control	 style.scss"
+					],
+					[
+						"width",
+						"width=\"100"
+					],
+					[
+						"defu",
+						"default"
+					],
+					[
+						"def",
+						"default"
+					],
+					[
+						"tra",
+						"transform"
+					],
+					[
+						"ov",
+						"overflow"
+					],
+					[
+						"l",
+						"lighten	lighten()"
+					],
+					[
+						"float",
+						"float:left"
+					],
+					[
+						"de",
+						"default	!default"
+					],
+					[
+						"margin",
+						"marginLeft"
+					],
+					[
+						"if",
+						"if	if"
+					],
+					[
+						"t",
+						"text"
+					],
+					[
+						"clo",
+						"closeAllRightMenu"
+					],
+					[
 						"car",
 						"cart_query"
 					],
 					[
 						"slide",
 						"slider"
-					],
-					[
-						"if",
-						"if	if"
 					],
 					[
 						"mo",
@@ -75,10 +271,6 @@
 						"hasClass"
 					],
 					[
-						"bor",
-						"border-box"
-					],
-					[
 						"mak",
 						"make"
 					],
@@ -91,10 +283,6 @@
 						"block"
 					],
 					[
-						"op",
-						"op	opacity"
-					],
-					[
 						"box",
 						"box-sizing"
 					],
@@ -103,20 +291,12 @@
 						"border-box"
 					],
 					[
-						"btn",
-						"btn-lg	 style.scss"
-					],
-					[
 						"text",
 						"textarea"
 					],
 					[
 						"form",
 						"form-control	 style.scss"
-					],
-					[
-						"remove",
-						"removeClass"
 					],
 					[
 						"con",
@@ -151,10 +331,6 @@
 						"backgroundColor"
 					],
 					[
-						"margin",
-						"marginTop"
-					],
-					[
 						"set",
 						"setTimeout"
 					],
@@ -163,20 +339,12 @@
 						"close-btn"
 					],
 					[
-						"fade",
-						"fadeIn"
-					],
-					[
 						"wish",
 						"wishTab"
 					],
 					[
 						"sli",
 						"slideUp"
-					],
-					[
-						"w",
-						"width"
 					],
 					[
 						"bs3-b",
@@ -199,10 +367,6 @@
 						"bs3-col:1	bs3-col-1"
 					],
 					[
-						"bs3",
-						"bs3-col	bs3-col"
-					],
-					[
 						"fun",
 						"fun	Function"
 					]
@@ -215,6 +379,22 @@
 				"selected_items":
 				[
 					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: List Packages"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
 						"ins",
 						"Package Control: Install Package"
 					],
@@ -223,15 +403,15 @@
 						"Package Control: Remove Package"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"instal",
 						"Package Control: Install Package"
 					],
 					[
-						"insta",
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"INSTA",
 						"Package Control: Install Package"
 					],
 					[
@@ -241,10 +421,6 @@
 					[
 						"clip",
 						"Clipboard Manager: Next"
-					],
-					[
-						"pa",
-						"Package Control: List Packages"
 					],
 					[
 						"snioo",
@@ -273,10 +449,6 @@
 					[
 						"intall",
 						"Package Control: Install Package"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
 					],
 					[
 						"paca",
@@ -328,134 +500,134 @@
 			},
 			"file_history":
 			[
+				"/D/www/digitalabs/dev/blog-details.html",
+				"/D/www/digitalabs/dev/digital-marketing.html",
+				"/D/www/digitalabs/dev/digital_marketers.html",
+				"/D/www/digitalabs/dev/index_31_MARCH_2015.html",
+				"/D/www/digitalabs/dev/google_algorithm.html",
+				"/D/www/digitalabs/dev/seoandadwords.html",
+				"/D/www/digitalabs/dev/mobile_optimisation.html",
+				"/D/www/digitalabs/dev/index.html",
+				"/D/www/Just Printing/jp_new/css/style.css",
+				"/D/www/Just Printing/jp_new/js/script.js",
+				"/D/www/Just Printing/jp_new/index.htm",
+				"/D/www/Just Printing/jp_new/floating-bar",
+				"/D/www/formalFunky/dev/demo/js/glob.js",
+				"/D/www/jaagar/Jade/.sass-cache/502dbd7c5b95dc1e3fed54abd440a9b38f15fbc8/_text-emphasis.scssc",
+				"/D/www/jaagar/Jade/bower_components/jquery/src/traversing.js",
+				"/D/www/jaagar/Jade/lib/inc/var.jade",
+				"/D/www/jaagar/Jade/about.html",
+				"/D/www/jaagar/Jade/lib/about.jade",
+				"/D/www/jaagar/Jade/lib/contact.jade",
+				"/D/www/jaagar/Jade/lib/inc/_aside.jade",
+				"/D/www/jaagar/Jade/lib/index.jade",
+				"/D/www/jaagar/Jade/bower_components/fontawesome/scss/_variables.scss",
+				"/D/www/jaagar/Jade/lib/inc/_temp.jade",
+				"/D/www/jaagar/webfontkit-20150422-060022/stylesheet.css",
+				"/D/www/jaagar/Jade/css/style.css",
+				"/D/www/jaagar/Jade/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_buttons.scss",
+				"/D/www/jaagar/Jade/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_variables.scss",
+				"/D/www/jaagar/webfontkit-20150422-060212/stylesheet.css",
+				"/D/www/jaagar/webfontkit-20150422-060022/aparaj-demo.html",
+				"/D/www/jaagar/Jade/lib/config.rb",
+				"/D/www/jaagar/Jade/lib/css/style.scss",
+				"/D/www/jaagar/Jade/lib/inc/-var.jade",
+				"/C/Users/Vipul.DIGI/Desktop/FileZilla.xml",
+				"/D/www/jaagar/Jade/Build/index.html",
+				"/D/www/jaagar/Jade/bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap.scss",
+				"/D/www/formalFunky/jade/lib/inc/homeTemp.jade",
+				"/D/www/formalFunky/jade/lib/index.jade",
+				"/D/www/jaagar/Jade/lib/inc/_footer.jade",
+				"/D/www/jaagar/Jade/lib/inc/_header.jade",
+				"/D/www/jaagar/Jade/Gulpfile.js",
+				"/D/www/jaagar/Jade/lib/inc/_main.jade",
+				"/D/www/formalFunky/jade/lib/css/style.scss",
+				"/D/www/formalFunky/dev/demo/payment-process.php",
+				"/D/www/formalFunky/dev/demo/quick-view.php",
+				"/D/www/formalFunky/dev/demo/product-list.php",
+				"/D/www/formalFunky/jade/pro-list.html",
+				"/D/www/formalFunky/jade/.sass-cache/572e99266765514336d51f77765273c20b2f6191/list-items.scssc",
+				"/D/www/formalFunky/jade/node_modules/gulp-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/features-json/link-icon-svg.json",
+				"/D/www/formalFunky/jade/node_modules/gulp/LICENSE",
+				"/Z/Shared/Jugal/vipul/quick-view.php",
+				"/D/www/formalFunky/quick-view.php",
+				"/D/www/formalFunky/js/glob.js",
+				"/D/www/formalFunky/jade/index.html",
+				"/D/www/renew Power/nn_renew/index.php",
+				"/D/www/formalFunky/dev/demo/productlist.php",
+				"/D/www/formalFunky/dev/demo/product-detail.php",
+				"/D/www/formalFunky/dev/demo/include/meta.inc.php",
+				"/D/www/formalFunky/dev/demo/ajax-billing-shipping-address.php",
+				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/_normalize.scss",
+				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/_variables.scss",
+				"/D/www/formalFunky/jade/build/style-404.css",
+				"/D/www/formalFunky/jade/lib/404.jade",
+				"/D/www/formalFunky/dev/demo/404.html",
 				"/D/www/formalFunky/dev/demo/include/header.inc.php",
+				"/D/www/formalFunky/dev/demo/css/style.css",
+				"/D/www/formalFunky/dev/demo/design.php",
+				"/D/app/SublimeWithSettings/Data/Packages/User/Preferences.sublime-settings",
+				"/D/www/formalFunky/dev/demo/contact-us.php",
+				"/D/www/formalFunky/jade/build/js/glob.js",
+				"/D/www/formalFunky/jade/js/glob.js",
+				"/D/www/renew Power/index.php",
+				"/D/www/renew Power/intro_image.php",
+				"/D/www/formalFunky/dev/demo/homepopup.php",
+				"/D/www/formalFunky/dev/demo/include/footer.inc.php",
+				"/D/www/formalFunky/dev/demo/footer-search.php",
 				"/D/www/formalFunky/dev/demo/include/searchbar.inc.php",
+				"/D/www/formalFunky/dev/demo/my-order.php",
+				"/D/www/formalFunky/dev/demo/order-confirm.php",
+				"/D/www/formalFunky/dev/demo/include/rightnav.inc.php",
+				"/D/www/formalFunky/jade/node_modules/gulp-combine-mq/node_modules/through2/node_modules/readable-stream/node_modules/core-util-is/package.json",
+				"/D/www/formalFunky/jade/lib/js/jquery.creditCardValidator.js",
+				"/D/www/formalFunky/jade/node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/quux/foo/index.js",
+				"/D/www/formalFunky/jade/node_modules/gulp-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/features-json/queryselector.json",
+				"/D/www/formalFunky/jade/lib/css/scss/effeckt.scss",
+				"/C/Users/Vipul.DIGI/Desktop/Effeckt.css-master/Effeckt.css-master/js/Effeckt.js",
+				"/D/www/formalFunky/jade/build/css/style.css",
+				"/D/www/formalFunky/jade/lib/css/scss/_variables.scss",
+				"/D/www/formalFunky/jade/lib/css/scss/_global.scss",
 				"/D/www/formalFunky/dev/demo/my-wishlist.php",
+				"/D/www/formalFunky/dev/demo/send-message.php",
+				"/D/www/formalfunky/dev/demo/js/glob.js",
+				"/D/www/formalFunky/jade/lib/old/test.html",
+				"/D/www/formalFunky/jade/.sass-cache/5859378ddb048c5027dc34ad066b7a69416345d9/_text-emphasis.scssc",
+				"/D/www/formalFunky/jade/inc/temp.html",
+				"/D/www/formalFunky/dev/demo/js/test.html",
+				"/D/www/formalFunky/dev/demo/payment-method.php",
+				"/D/www/formalFunky/jade/Gulpfile.js",
+				"/D/www/formalFunky/dev/demo/login.php",
 				"/D/www/formalFunky/dev/demo/change-password.php",
 				"/D/www/formalFunky/dev/demo/myaccount.php",
 				"/D/www/formalFunky/dev/demo/order-status.php",
 				"/D/www/formalFunky/dev/demo/my-profile.php",
-				"/D/www/formalFunky/dev/demo/my-order.php",
-				"/D/www/formalFunky/dev/demo/order-confirm.php",
-				"/D/www/formalFunky/dev/demo/payment-process.php",
 				"/D/www/formalFunky/dev/demo/pages.php",
-				"/C/Users/Vipul.DIGI/Desktop/FileZilla.xml",
 				"/D/www/formalfunky/dev/demo/shopping-cart.php",
 				"/D/www/formalFunky/jade/FF.sublime-project",
 				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/mixins/_gradients.scss",
-				"/D/www/formalFunky/dev/demo/css/style.css",
-				"/D/www/formalFunky/dev/demo/payment-method.php",
 				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/mixins/_opacity.scss",
 				"/D/www/formalFunky/jade/lib/css/stylesheets/_bootstrap-sprockets.scss",
 				"/D/www/formalFunky/jade/lib/pro-detail.jade",
 				"/D/app/SublimeWithSettings/Data/Packages/Default/Default (Windows).sublime-keymap",
 				"/D/app/SublimeWithSettings/Data/Packages/Package Control/Package Control.sublime-settings",
-				"/D/www/formalfunky/dev/demo/js/glob.js",
-				"/D/www/formalFunky/dev/demo/js/glob.js",
 				"/D/www/mukulgoyal/dev/wp-content/themes/dante/header-alt.php",
 				"/D/www/mukulgoyal/dev/wp-content/themes/dante/single.php",
 				"/D/www/formalFunky/jade/lib/track-order.jade",
 				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/mixins/_text-emphasis.scss",
-				"/D/www/formalFunky/jade/lib/old/test.html",
-				"/D/www/formalFunky/dev/demo/include/meta.inc.php",
-				"/D/www/formalFunky/jade/lib/css/style.scss",
 				"/D/www/formalFunky/dev/demo/index.php",
 				"/D/www/formalFunky/dev/demo/validation/js/jquery.validationEngine.js",
-				"/D/www/formalFunky/jade/build/js/glob.js",
 				"/D/www/formalFunky/dev/demo/registration.php",
 				"/D/www/formalFunky/dev/demo/validation/css/validationEngine.jquery.css",
-				"/D/www/formalFunky/dev/demo/login.php",
 				"/D/www/formalFunky/dev/demo/js/glob3.js",
-				"/D/www/formalFunky/jade/Gulpfile.js",
 				"/D/www/formalFunky/jade/lib/js/script.js",
 				"/D/www/formalFunky/jade/lib/inc/hdr.jade",
-				"/D/www/formalFunky/jade/lib/index.jade",
 				"/D/www/formalFunky/dev/demo/uploaded_files/dies/rename.bat",
 				"/D/www/formalFunky/jade/lib/script.js",
 				"/D/www/formalFunky/jade/lib/inc/pro-thumb.jade",
 				"/D/www/formalFunky/jade/lib/inc/header-search.jade",
 				"/D/www/formalFunky/jade/lib/inc/footer.jade",
-				"/D/www/formalFunky/jade/lib/inc/homeScripts.jade",
-				"/D/www/formalFunky/jade/lib/inc/default-scripts.jade",
-				"/D/www/formalFunky/jade/lib/pro-list2.jade",
-				"/D/www/formalFunky/jade/lib/inc/homeTemp.jade",
-				"/D/www/formalFunky/jade/build/index2.html",
-				"/D/www/formalFunky/jade/lib/index6.jade",
-				"/D/www/formalFunky/jade/lib/inc/header-search2.jade",
-				"/D/www/formalFunky/jade/lib/inc/pro-var.jade",
-				"/D/www/formalFunky/jade/build/index6.html",
-				"/D/dnd/formal_funky/trunk/website/d.txt",
-				"/D/dnd/abc.txt",
-				"/D/www/formalFunky/jade/lib/register.jade",
-				"/D/www/formalFunky/jade/lib/cart-detail.jade",
-				"/D/app/SublimeWithSettings/Data/Packages/User/Default (Windows).sublime-keymap",
-				"/D/www/formalFunky/jade/lib/old/cart1.html",
-				"/D/app/SublimeWithSettings/Data/Packages/User/Preferences.sublime-settings",
-				"/D/www/formalFunky/jade/lib/old/pro-detail2.html",
-				"/D/www/formalFunky/jade/lib/old/cart-detail.html",
-				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/mixins/_hide-text.scss",
-				"/D/www/formalFunky/jade/lib/pro-list.jade",
-				"/D/www/formalFunky/jade/lib/carts.jade",
-				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/_grid.scss",
-				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/_glyphicons.scss",
-				"/D/www/formalFunky/jade/carts.html",
-				"/D/www/formalFunky/jade/.sass-cache/5859378ddb048c5027dc34ad066b7a69416345d9/_hide-text.scssc",
-				"/C/Users/Vipul.DIGI/Documents/GitHub/SublimeWithSettings/Data/Packages/User/Preferences.sublime-settings",
-				"/C/Users/Vipul.DIGI/Documents/GitHub/SublimeWithSettings/Data/Packages/User/SublimeLinter/itg.dark (SL).tmTheme",
-				"/D/www/formalFunky/jade/cart-detail.html",
-				"/C/Users/Vipul.DIGI/Documents/GitHub/SublimeWithSettings/Data/Packages/User/Jade.sublime-settings",
-				"/D/www/formalFunky/jade/pro-list.html",
-				"/D/www/formalFunky/jade/pro-detail.html",
-				"/D/www/formalFunky/jade/pro-details.html",
-				"/D/www/formalFunky/jade/package.json",
-				"/D/www/formalFunky/jade/_socket.sublime-workspace",
-				"/D/www/formalFunky/jade/css/glob.css",
-				"/D/www/formalFunky/jade/node_modules/gulp-imagemin/node_modules/imagemin/node_modules/imagemin-svgo/node_modules/svgo/node_modules/colors/themes/generic-logging.js",
-				"/D/www/formalFunky/jade/.sass-cache/8cc35ed1be5f1fe3e5d006d3f9f02eb81582c95a/style.scssc",
-				"/D/www/formalFunky/jade/css/style.css",
-				"/D/www/formalFunky/jade/node_modules/gulp-watch/node_modules/readable-stream/lib/_stream_transform.js",
-				"/D/www/formalFunky/jade/.gitignore",
-				"/D/www/formalFunky/jade/.sass-cache/f050dae858bab0774fdeb7d447c859f6d410bfc3/_gradients.scssc",
-				"/D/www/formalFunky/jade/.sass-cache/ddbb8d46a7d9ec57b7c7af9bf7fe5863c66000d6/_gradients.scssc",
-				"/D/www/formalFunky/jade/.sass-cache/a7eed3a33fd369de8f7560988e3f4196277c5b6b/_gradients.scssc",
-				"/D/www/formalFunky/jade/.sass-cache/a5688e4d63711303c23c6dad7071e88a15862a29/_gradients.scssc",
-				"/D/www/formalFunky/jade/.sass-cache/5859378ddb048c5027dc34ad066b7a69416345d9/_gradients.scssc",
-				"/D/www/formalFunky/jade/node_modules/jade/node_modules/with/node_modules/acorn/bin/generate-identifier-regex.js",
-				"/D/www/formalFunky/jade/cart1.html",
-				"/D/www/formalFunky/jade/lib/cms-pade.jade",
-				"/D/www/formalFunky/jade/lib/CMS-pade.jade",
-				"/D/www/formalFunky/jade/lib/default-temp.jade",
-				"/D/www/formalFunky/jade/lib/default-scripts.jade",
-				"/D/www/formalFunky/jade/lib/header-search.jade",
-				"/D/www/formalFunky/jade/lib/hdr.jade",
-				"/D/www/formalFunky/jade/lib/cart-view-dropdown.jade",
-				"/D/www/formalFunky/jade/lib/breadcrumbs.jade",
-				"/D/www/formalFunky/jade/lib/popup.jade",
-				"/D/www/formalFunky/jade/index.html",
-				"/D/www/formalFunky/jade/lib/old/index.html",
-				"/D/www/Digitalabs/RAW/digitalabs/index.html",
-				"/D/www/formalFunky/jade/lib/cart-view-dropdown",
-				"/D/www/formalFunky/jade/lib/header-search",
-				"/D/www/formalFunky/jade/lib/right-menu.jade",
-				"/C/Users/Vipul.DIGI/Documents/GitHub/SublimeWithSettings/Data/Packages/User/Default (Windows).sublime-keymap",
-				"/D/www/formalFunky/jade/lib/wishlist",
-				"/D/www/formalFunky/html/index.html",
-				"/D/www/formalFunky/html/cart-detail.html",
-				"/D/www/formalFunky/html/pro-list.html",
-				"/D/www/formalFunky/html/prolist.jade",
-				"/D/www/formalFunky/html/check.html",
-				"/D/www/formalFunky/html/lib/css/style.scss",
-				"/D/www/formalFunky/html/Gulpfile.js",
-				"/D/www/formalFunky/html/lib/js/script.js",
-				"/D/www/formalFunky/html/pro-list2.html",
-				"/D/www/formalFunky/demo-html/pro-view.html",
-				"/D/www/formalFunky/html/pro-detail.html",
-				"/D/www/formalFunky/html/cart1.html",
-				"/D/www/formalFunky/html/css/style.css",
-				"/C/Users/vipul/Desktop/Sublime Text Build 3065 x64/bower.json",
-				"/E/www/office/digitalabs/.htaccess",
-				"/E/www/office/digitalabs/index.html",
-				"/E/www/Vipul/vipulism.github.io/index.html"
+				"/D/www/formalFunky/jade/lib/inc/homeScripts.jade"
 			],
 			"find":
 			{
@@ -466,6 +638,7 @@
 				"height": 90.0,
 				"where_history":
 				[
+					"D:\\www\\formalFunky\\jade",
 					"C:\\Users\\vipul\\Desktop\\New folder",
 					"D:\\css"
 				]
@@ -475,134 +648,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"closeThisTab",
-					"tab",
-					"tab'",
-					"tab",
-					".btn",
-					".5%",
-					":left",
-					"left",
-					"align=\"center\"",
-					"align",
-					"align=\"right\"",
-					"align=\"center\"",
-					"dd",
-					".btn",
-					"closeThisTab",
+					"width=\"147\"",
+					"logo",
+					"id=\"\" placeholder=\"Name\"",
+					"holder.js/900x500/#777:#555/text:",
+					"data-src",
+					"12px",
+					"-one",
+					"one",
+					"data-src",
+					"holder.js",
+					"auto",
+					"<div id=\"#\"></div>",
+					"green",
+					"58px",
+					"a ",
+					"list",
+					"|",
+					"264px",
+					"  }",
+					"font",
+					"url(",
+					"_italic",
+					"e9e6d9",
+					"$border-radius-base",
+					"radius",
 					"btn",
-					"dark-txt",
-					"note",
-					"itam",
-					"imgW",
+					"$brand-primary",
+					" $brand-primary",
+					"primary",
+					"./css",
+					"scss",
+					"sacc",
+					"build/",
+					"url",
+					"here",
+					"form",
+					"style=\"",
+					"proarr[1]",
+					"addPos",
+					"left: wlistPos.left + 20 + addPos,",
+					"wlistPos = $(\".wishlist-tab .main-wish\").offset(),",
+					"\".close-btn\"",
+					"onclick=\"newDelete()\"",
+					" onclick=\"newDelete()\"",
+					"close-btn",
+					".close-btn",
+					"	\n",
+					".close-btn",
+					"theProduct",
+					"mainPagePro",
+					"thisProId",
+					"theProduct",
+					"find",
 					"sliderResize",
-					"sliderResize();",
-					"$(\".slide img\").css({\n        marginLeft: -imgW / 2,\n        marginTop: (searchBarH - imgh) / 2",
-					"        $(\".slide img\").css({\n        marginLeft: -imgW / 2,\n        marginTop: (searchBarH - imgh) / 2",
-					"slider",
-					"rightnav",
-					"rightnav(28)",
-					" li",
-					"li",
-					"Massege",
-					".pro",
-					"select",
-					"Select",
-					"select",
-					"*",
-					"style=\"border-top:1px solid #000; border-left:1px solid #000;",
-					"aside",
-					"table table-striped",
-					" bgcolor=\"#F4F4F4",
-					"bgcolor=\"#F4F4F4\"",
+					"checkWishItems",
+					"langth",
+					"thisProId",
+					"quickWish",
+					"$(theId).find(\".wish\").removeClass(\"active\");",
+					"quickWish",
+					"qucik-wish",
+					"quick-",
+					"link",
+					"empty",
+					"emp",
+					"glo",
+					"$",
+					"use",
+					"close-btn",
+					"shake\"",
+					"shake",
+					"fa-ico",
+					".fa-i",
+					"Cart has been updated",
+					"include",
+					"alert",
+					"pro-stuff",
+					"Octopus",
+					"fa-web-font",
+					"Octopus",
+					"fusion",
+					"for",
+					"for ",
+					"w-thmb2",
+					"shake",
+					"pro-img",
+					"class=\"disc",
+					"closeAllRightMenu",
+					"closeAllRightMenu ()",
+					"all",
+					"validation",
+					"jQuery",
+					"login",
+					"slotholder",
+					"family",
+					"faml",
+					"famlily",
+					"saccass",
+					"sucass",
+					"use",
 					"table",
-					"bgcolor=\"#F4F4F4\"",
-					"dabit-bx",
-					"Privicy Policy",
-					"privi",
-					"shipping-address",
-					"select",
-					"0",
-					"12",
-					"make",
-					"mobilediv",
-					"dabit",
-					"active",
-					"main-content",
-					"$(this)",
-					"button.toggleClass",
-					"menustatus",
-					"menu-icon",
-					"prop('className')",
-					"prop('className'),",
-					"floridaltd",
-					"florida",
-					"310",
-					"ctrl+shift+v",
-					"ctrl+shift",
-					"310",
+					"for",
+					"Buy Now",
+					"-add",
+					"$default",
+					"our-add",
+					"addr",
+					"trac",
+					"address",
+					"for",
+					"pop-inner",
+					"disc",
+					"desc\"",
 					"desc",
-					".item-desc",
-					"var txt = $(this).text();\n        return $(\".txt\").val(txt).blur(), submitted(), makeHdr(), $(\".srch-main\").addClass(\"srch-main2\"), \n        $(\".search-frm input.txt\").val(txt).focusout(), !1;",
-					").ready",
-					"ready",
-					"ajax",
-					"close-bt",
-					" var txt = $(this).text();\n        return $(\".txt\").val(txt).blur(), submitted(), makeHdr(), $(\".srch-main\").addClass(\"srch-main2\"), \n        $(\".search-frm input.txt\").val(txt).focusout(), !1;",
-					"var txt = $(this).text();\n        return $(\".txt\").val(txt).blur(), submitted(), makeHdr(), $(\".srch-main\").addClass(\"srch-main2\"), \n        $(\".search-frm input.txt\").val(txt).focusout(), !1;",
-					"ftrSearch",
-					"button2",
-					"menu-icon",
-					"close-",
-					"menu.animate(",
-					"console.log(menustatus), \"-310px\" == menustatus ? (menu.animate({\n            right: \"0px\"\n        }, \"linear\")",
-					"flag",
-					"main",
-					"nav-btn",
-					"$(\".srch-main\")",
-					"srch-main",
+					".pro",
+					"p-thmb",
+					".p-thmb",
+					"p-price",
 					"submitted",
-					"$(\".txt\")",
-					"ftrSearch",
-					"makeHdr",
+					"srch-main2",
+					"qv-popup-container",
 					"submitted",
-					"search",
-					"search-nav",
-					"fb",
-					"wishTab",
-					"body",
-					"wish",
-					"$('.wish",
-					"$(document",
-					"documen",
-					"whishli",
-					"wish",
-					"min-height: 0",
-					"error",
-					".srch-bar",
-					"submitted",
-					"wish",
-					"error",
-					".wish",
-					".wil",
-					".slide",
-					"\".slide",
-					".slide\"",
-					".slide",
-					"document.r",
-					".slide",
-					".main-content",
-					"my-account",
-					".main-content",
-					"slide",
-					"270",
-					"makeHdr",
-					"$(\".main\").removeClass(\"main\").addClass(\"main2\");",
-					"submitted",
-					"submitted'",
-					"submitted",
-					"2",
-					"home-logo"
+					"enterPressed",
+					"avai",
+					"av",
+					"available",
+					"or-sign",
+					"refresh"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -620,7 +793,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 28.0
+				"height": 37.0
 			},
 			"input":
 			{
@@ -641,7 +814,7 @@
 			},
 			"replace":
 			{
-				"height": 52.0
+				"height": 70.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -650,8 +823,20 @@
 				"selected_items":
 				[
 					[
+						"temp",
+						"lib\\inc\\_temp.jade"
+					],
+					[
+						"t-list",
+						"dev\\demo\\product-list.php"
+					],
+					[
 						"glo",
-						"D:\\www\\formalfunky\\dev\\demo\\js\\glob.js"
+						"D:\\www\\formalFunky\\dev\\demo\\js\\glob.js"
+					],
+					[
+						"tes",
+						"lib\\old\\test.html"
 					],
 					[
 						"",
@@ -694,9 +879,33 @@
 			},
 			"select_symbol":
 			{
-				"height": 63.0,
+				"height": 38.0,
 				"selected_items":
 				[
+					[
+						"html",
+						"html"
+					],
+					[
+						"pro-for",
+						".pro-for"
+					],
+					[
+						".p-name",
+						".p-name"
+					],
+					[
+						"small-rating",
+						".small-rating"
+					],
+					[
+						".pro-short-disc",
+						".pro-short-disc"
+					],
+					[
+						".total-rating-review",
+						".total-rating-review"
+					],
 					[
 						"sort-by",
 						".sort-by"
@@ -746,7 +955,7 @@
 			{
 			}
 		},
-		"new_window_width": 1904.0
+		"new_window_width": 1449.0
 	},
 	"windows":
 	[
@@ -755,6 +964,138 @@
 			{
 				"selected_items":
 				[
+					[
+						"bst-res",
+						"bst-navbar:responsive	bst-navbar-responsive"
+					],
+					[
+						"bst-nav",
+						"bst-navbar:links	bst-navbar-links"
+					],
+					[
+						"bst-na",
+						"bst-navbar	bst-navbar"
+					],
+					[
+						"bst-car",
+						"bst-carousel	bst-carousel"
+					],
+					[
+						"op",
+						"opacify	opacify()"
+					],
+					[
+						"bst",
+						"bst-thumbnail	bst-thumbnail"
+					],
+					[
+						"bst-th",
+						"bst-thumbnail:content	bst-thumbnail-content"
+					],
+					[
+						"li",
+						"lighten	lighten()"
+					],
+					[
+						"bor",
+						"brown"
+					],
+					[
+						"bst-f",
+						"bst-form:inline	bst-form-inline"
+					],
+					[
+						"bst-b",
+						"bst-breadcrumbs	bst-breadcrumbs"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"style",
+						"styles"
+					],
+					[
+						"images",
+						"images/"
+					],
+					[
+						"ma",
+						"main"
+					],
+					[
+						"home",
+						"home-sidebar	 style.scss"
+					],
+					[
+						"loca",
+						"location"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"si",
+						"sizing"
+					],
+					[
+						"geo",
+						"Cambria, Georgia, serif"
+					],
+					[
+						"btn",
+						"btn-block"
+					],
+					[
+						"hdr",
+						"header-img	 style.scss"
+					],
+					[
+						"hre",
+						"href"
+					],
+					[
+						"bst-n",
+						"bst-navbar:basic	bst-navbar-basic"
+					],
+					[
+						"inner",
+						"innerHTML"
+					],
+					[
+						"fin",
+						"find"
+					],
+					[
+						"gete",
+						"getElementById"
+					],
+					[
+						"remove",
+						"remove"
+					],
+					[
+						"comm",
+						"comm-section	Comment - Full section comment"
+					],
+					[
+						"fu",
+						"fusion"
+					],
+					[
+						"fade",
+						"fadeIn"
+					],
+					[
+						"form-",
+						"form-control	 style.scss"
+					],
+					[
+						"width",
+						"width=\"100"
+					],
 					[
 						"defu",
 						"default"
@@ -776,16 +1117,8 @@
 						"lighten	lighten()"
 					],
 					[
-						"ma",
-						"margin"
-					],
-					[
 						"float",
 						"float:left"
-					],
-					[
-						"btn",
-						"btn99	 style.scss"
 					],
 					[
 						"de",
@@ -864,10 +1197,6 @@
 						"hasClass"
 					],
 					[
-						"bor",
-						"border-box"
-					],
-					[
 						"mak",
 						"make"
 					],
@@ -878,10 +1207,6 @@
 					[
 						"bl",
 						"block"
-					],
-					[
-						"op",
-						"op	opacity"
 					],
 					[
 						"box",
@@ -898,10 +1223,6 @@
 					[
 						"form",
 						"form-control	 style.scss"
-					],
-					[
-						"remove",
-						"removeClass"
 					],
 					[
 						"con",
@@ -944,20 +1265,12 @@
 						"close-btn"
 					],
 					[
-						"fade",
-						"fadeIn"
-					],
-					[
 						"wish",
 						"wishTab"
 					],
 					[
 						"sli",
 						"slideUp"
-					],
-					[
-						"w",
-						"width"
 					],
 					[
 						"bs3-b",
@@ -992,96 +1305,46 @@
 			"buffers":
 			[
 				{
-					"file": "lib/css/style.scss",
+					"contents": "",
 					"settings":
 					{
-						"buffer_size": 71829,
+						"buffer_size": 0,
 						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/www/formalFunky/dev/demo/homepopup.php",
-					"settings":
-					{
-						"buffer_size": 237,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/www/formalFunky/dev/demo/product-list.php",
-					"settings":
-					{
-						"buffer_size": 4782,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/www/formalFunky/dev/demo/design.php",
-					"settings":
-					{
-						"buffer_size": 6575,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/www/formalFunky/dev/demo/quick-view.php",
-					"settings":
-					{
-						"buffer_size": 7836,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/www/formalFunky/dev/demo/contact-us.php",
-					"settings":
-					{
-						"buffer_size": 4881,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/www/formalFunky/dev/demo/js/glob.js",
-					"settings":
-					{
-						"buffer_size": 352735,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/app/SublimeWithSettings/Data/Packages/User/Preferences.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 689,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "Package Control Messages\n========================\n\nSeti_UI:\n-------\n\n  # Install\n  ---------------\n  \n  Activate the 'Theme' and 'Color-Scheme' by modifying your user preferences file, which you can find using the menu item\n  `Preferences -> Settings - User` in Sublime Text\n  or use\n  `Schemr` & `Themr` by [Ben Weier](https://github.com/benweier).\n  \n  \n  > Example\n  ```\n  {\n    \"theme\": \"Seti.sublime-theme\",\n    \"color_scheme\": \"Packages/Seti_UI/Scheme/Seti.tmTheme\",\n  \n    \"caret_extra_width\": 2,                 //  to have a wider/thicker caret\n    \"caret_extra_bottom\": 3,                //  to make the caret = to the line height (the theme currently support 0,3,5)\n    \"caret_extra_top\": 3,\n  \n    \"overlay_scroll_bars\": \"enabled\",       //  to show scrollbars only when scrolling\n    \"highlight_line\": true,                 //  to highlight the current line\n  }\n  ```\n  \n  - please check the readme for more theme options.\n  \n  - copy the (+res/fold.png) \"or edit it if you want\" to (Packages/Theme - Default) to override the _focken default yellow code_folding icon.\n  \n  - for better recognition of file types, its recommended to install [Apply​Syntax](https://sublime.wbond.net/packages/ApplySyntax) by facelessuser.\n  \n  \n  ## Folder Contents\n  ----------------------\n  +Res\n    |-Ext  > copy the content of this folder to your 'Packages/User' folder so (Extensions/Files) can recognize their correct language/icons.\n  \n    ",
-					"settings":
-					{
-						"buffer_size": 1441,
-						"line_ending": "Windows",
-						"name": "Package Control Messages",
-						"scratch": true
 					}
 				}
 			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 226.0,
+				"height": 400.0,
 				"selected_items":
 				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: List Packages"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
 					[
 						"remove",
 						"Package Control: Remove Package"
 					],
 					[
 						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"ins",
 						"Package Control: Install Package"
 					],
 					[
@@ -1093,20 +1356,12 @@
 						"Package Control: Install Package"
 					],
 					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
 						"next",
 						"Clipboard Manager: Next"
 					],
 					[
 						"clip",
 						"Clipboard Manager: Next"
-					],
-					[
-						"pa",
-						"Package Control: List Packages"
 					],
 					[
 						"snioo",
@@ -1135,10 +1390,6 @@
 					[
 						"intall",
 						"Package Control: Install Package"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
 					],
 					[
 						"paca",
@@ -1188,35 +1439,80 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/D/www/formalFunky/jade",
-				"/D/www/formalFunky/jade/build",
-				"/D/www/formalFunky/jade/build/css",
-				"/D/www/formalFunky/jade/lib",
-				"/D/www/formalFunky/jade/lib/css"
-			],
 			"file_history":
 			[
-				"/D/www/formalFunky/dev/demo/product-detail.php",
-				"/D/www/formalFunky/dev/demo/include/footer.inc.php",
+				"/D/www/jaagar/Jade/lib/index.jade",
+				"/D/www/jaagar/Jade/lib/inc/_banner.jade",
+				"/D/www/jaagar/Jade/lib/inc/_header.jade",
+				"/D/www/jaagar/Jade/lib/inc/_footer.jade",
+				"/D/www/jaagar/Jade/.sass-cache/502dbd7c5b95dc1e3fed54abd440a9b38f15fbc8/_text-emphasis.scssc",
+				"/D/www/jaagar/Jade/bower_components/jquery/src/traversing.js",
+				"/D/www/jaagar/Jade/lib/inc/var.jade",
+				"/D/www/jaagar/Jade/about.html",
+				"/D/www/jaagar/Jade/lib/about.jade",
+				"/D/www/jaagar/Jade/lib/contact.jade",
+				"/D/www/jaagar/Jade/lib/inc/_aside.jade",
+				"/D/www/jaagar/Jade/bower_components/fontawesome/scss/_variables.scss",
+				"/D/www/jaagar/Jade/lib/inc/_temp.jade",
+				"/D/www/jaagar/webfontkit-20150422-060022/stylesheet.css",
+				"/D/www/jaagar/Jade/css/style.css",
+				"/D/www/jaagar/Jade/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_buttons.scss",
+				"/D/www/jaagar/Jade/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_variables.scss",
+				"/D/www/jaagar/webfontkit-20150422-060212/stylesheet.css",
+				"/D/www/jaagar/webfontkit-20150422-060022/aparaj-demo.html",
+				"/D/www/jaagar/Jade/lib/config.rb",
+				"/D/www/jaagar/Jade/lib/css/style.scss",
+				"/D/www/jaagar/Jade/lib/inc/-var.jade",
+				"/C/Users/Vipul.DIGI/Desktop/FileZilla.xml",
+				"/D/www/jaagar/Jade/Build/index.html",
+				"/D/www/jaagar/Jade/bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap.scss",
+				"/D/www/formalFunky/jade/lib/inc/homeTemp.jade",
+				"/D/www/formalFunky/jade/lib/index.jade",
+				"/D/www/jaagar/Jade/Gulpfile.js",
+				"/D/www/jaagar/Jade/lib/inc/_main.jade",
 				"/D/www/formalFunky/jade/lib/css/style.scss",
-				"/D/app/SublimeWithSettings/Data/Packages/User/Preferences.sublime-settings",
-				"/D/www/formalFunky/dev/demo/js/glob.js",
+				"/D/www/formalFunky/dev/demo/payment-process.php",
+				"/D/www/formalFunky/dev/demo/quick-view.php",
 				"/D/www/formalFunky/dev/demo/product-list.php",
+				"/D/www/formalFunky/dev/demo/js/glob.js",
+				"/D/www/formalFunky/jade/pro-list.html",
+				"/D/www/formalFunky/jade/.sass-cache/572e99266765514336d51f77765273c20b2f6191/list-items.scssc",
+				"/D/www/formalFunky/jade/node_modules/gulp-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/features-json/link-icon-svg.json",
+				"/D/www/formalFunky/jade/node_modules/gulp/LICENSE",
+				"/Z/Shared/Jugal/vipul/quick-view.php",
+				"/D/www/formalFunky/quick-view.php",
+				"/D/www/formalFunky/js/glob.js",
+				"/D/www/formalFunky/jade/index.html",
+				"/D/www/renew Power/nn_renew/index.php",
+				"/D/www/formalFunky/dev/demo/productlist.php",
+				"/D/www/formalFunky/dev/demo/product-detail.php",
+				"/D/www/formalFunky/dev/demo/include/meta.inc.php",
+				"/D/www/formalFunky/dev/demo/ajax-billing-shipping-address.php",
+				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/_normalize.scss",
+				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/_variables.scss",
+				"/D/www/formalFunky/jade/build/style-404.css",
+				"/D/www/formalFunky/jade/lib/404.jade",
+				"/D/www/formalFunky/dev/demo/404.html",
+				"/D/www/formalFunky/dev/demo/include/header.inc.php",
+				"/D/www/formalFunky/dev/demo/css/style.css",
+				"/D/www/formalFunky/dev/demo/design.php",
+				"/D/app/SublimeWithSettings/Data/Packages/User/Preferences.sublime-settings",
+				"/D/www/formalFunky/dev/demo/contact-us.php",
+				"/D/www/formalFunky/jade/build/js/glob.js",
+				"/D/www/formalFunky/jade/js/glob.js",
+				"/D/www/renew Power/index.php",
+				"/D/www/renew Power/intro_image.php",
+				"/D/www/formalFunky/dev/demo/homepopup.php",
+				"/D/www/formalFunky/dev/demo/include/footer.inc.php",
 				"/D/www/formalFunky/dev/demo/footer-search.php",
 				"/D/www/formalFunky/dev/demo/include/searchbar.inc.php",
-				"/D/www/formalFunky/dev/demo/quick-view.php",
 				"/D/www/formalFunky/dev/demo/my-order.php",
-				"/D/www/formalFunky/dev/demo/payment-process.php",
-				"/D/www/formalFunky/dev/demo/ajax-billing-shipping-address.php",
 				"/D/www/formalFunky/dev/demo/order-confirm.php",
 				"/D/www/formalFunky/dev/demo/include/rightnav.inc.php",
 				"/D/www/formalFunky/jade/node_modules/gulp-combine-mq/node_modules/through2/node_modules/readable-stream/node_modules/core-util-is/package.json",
 				"/D/www/formalFunky/jade/lib/js/jquery.creditCardValidator.js",
 				"/D/www/formalFunky/jade/node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/quux/foo/index.js",
 				"/D/www/formalFunky/jade/node_modules/gulp-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/features-json/queryselector.json",
-				"/D/www/formalFunky/dev/demo/include/header.inc.php",
 				"/D/www/formalFunky/jade/lib/css/scss/effeckt.scss",
 				"/C/Users/Vipul.DIGI/Desktop/Effeckt.css-master/Effeckt.css-master/js/Effeckt.js",
 				"/D/www/formalFunky/jade/build/css/style.css",
@@ -1224,17 +1520,14 @@
 				"/D/www/formalFunky/jade/lib/css/scss/_global.scss",
 				"/D/www/formalFunky/dev/demo/my-wishlist.php",
 				"/D/www/formalFunky/dev/demo/send-message.php",
-				"/C/Users/Vipul.DIGI/Desktop/FileZilla.xml",
 				"/D/www/formalfunky/dev/demo/js/glob.js",
 				"/D/www/formalFunky/jade/lib/old/test.html",
 				"/D/www/formalFunky/jade/.sass-cache/5859378ddb048c5027dc34ad066b7a69416345d9/_text-emphasis.scssc",
 				"/D/www/formalFunky/jade/inc/temp.html",
 				"/D/www/formalFunky/dev/demo/js/test.html",
 				"/D/www/formalFunky/dev/demo/payment-method.php",
-				"/D/www/formalFunky/dev/demo/contact-us.php",
 				"/D/www/formalFunky/jade/Gulpfile.js",
 				"/D/www/formalFunky/dev/demo/login.php",
-				"/D/www/formalFunky/dev/demo/css/style.css",
 				"/D/www/formalFunky/dev/demo/change-password.php",
 				"/D/www/formalFunky/dev/demo/myaccount.php",
 				"/D/www/formalFunky/dev/demo/order-status.php",
@@ -1252,16 +1545,13 @@
 				"/D/www/mukulgoyal/dev/wp-content/themes/dante/single.php",
 				"/D/www/formalFunky/jade/lib/track-order.jade",
 				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/mixins/_text-emphasis.scss",
-				"/D/www/formalFunky/dev/demo/include/meta.inc.php",
 				"/D/www/formalFunky/dev/demo/index.php",
 				"/D/www/formalFunky/dev/demo/validation/js/jquery.validationEngine.js",
-				"/D/www/formalFunky/jade/build/js/glob.js",
 				"/D/www/formalFunky/dev/demo/registration.php",
 				"/D/www/formalFunky/dev/demo/validation/css/validationEngine.jquery.css",
 				"/D/www/formalFunky/dev/demo/js/glob3.js",
 				"/D/www/formalFunky/jade/lib/js/script.js",
 				"/D/www/formalFunky/jade/lib/inc/hdr.jade",
-				"/D/www/formalFunky/jade/lib/index.jade",
 				"/D/www/formalFunky/dev/demo/uploaded_files/dies/rename.bat",
 				"/D/www/formalFunky/jade/lib/script.js",
 				"/D/www/formalFunky/jade/lib/inc/pro-thumb.jade",
@@ -1270,7 +1560,6 @@
 				"/D/www/formalFunky/jade/lib/inc/homeScripts.jade",
 				"/D/www/formalFunky/jade/lib/inc/default-scripts.jade",
 				"/D/www/formalFunky/jade/lib/pro-list2.jade",
-				"/D/www/formalFunky/jade/lib/inc/homeTemp.jade",
 				"/D/www/formalFunky/jade/build/index2.html",
 				"/D/www/formalFunky/jade/lib/index6.jade",
 				"/D/www/formalFunky/jade/lib/inc/header-search2.jade",
@@ -1279,63 +1568,18 @@
 				"/D/dnd/formal_funky/trunk/website/d.txt",
 				"/D/dnd/abc.txt",
 				"/D/www/formalFunky/jade/lib/register.jade",
-				"/D/www/formalFunky/jade/lib/cart-detail.jade",
-				"/D/app/SublimeWithSettings/Data/Packages/User/Default (Windows).sublime-keymap",
-				"/D/www/formalFunky/jade/lib/old/cart1.html",
-				"/D/www/formalFunky/jade/lib/old/pro-detail2.html",
-				"/D/www/formalFunky/jade/lib/old/cart-detail.html",
-				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/mixins/_hide-text.scss",
-				"/D/www/formalFunky/jade/lib/pro-list.jade",
-				"/D/www/formalFunky/jade/lib/carts.jade",
-				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/_grid.scss",
-				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/_glyphicons.scss",
-				"/D/www/formalFunky/jade/carts.html",
-				"/D/www/formalFunky/jade/.sass-cache/5859378ddb048c5027dc34ad066b7a69416345d9/_hide-text.scssc",
-				"/C/Users/Vipul.DIGI/Documents/GitHub/SublimeWithSettings/Data/Packages/User/Preferences.sublime-settings",
-				"/C/Users/Vipul.DIGI/Documents/GitHub/SublimeWithSettings/Data/Packages/User/SublimeLinter/itg.dark (SL).tmTheme",
-				"/D/www/formalFunky/jade/cart-detail.html",
-				"/C/Users/Vipul.DIGI/Documents/GitHub/SublimeWithSettings/Data/Packages/User/Jade.sublime-settings",
-				"/D/www/formalFunky/jade/pro-list.html",
-				"/D/www/formalFunky/jade/pro-detail.html",
-				"/D/www/formalFunky/jade/pro-details.html",
-				"/D/www/formalFunky/jade/package.json",
-				"/D/www/formalFunky/jade/_socket.sublime-workspace",
-				"/D/www/formalFunky/jade/css/glob.css",
-				"/D/www/formalFunky/jade/node_modules/gulp-imagemin/node_modules/imagemin/node_modules/imagemin-svgo/node_modules/svgo/node_modules/colors/themes/generic-logging.js",
-				"/D/www/formalFunky/jade/.sass-cache/8cc35ed1be5f1fe3e5d006d3f9f02eb81582c95a/style.scssc",
-				"/D/www/formalFunky/jade/css/style.css",
-				"/D/www/formalFunky/jade/node_modules/gulp-watch/node_modules/readable-stream/lib/_stream_transform.js",
-				"/D/www/formalFunky/jade/.gitignore",
-				"/D/www/formalFunky/jade/.sass-cache/f050dae858bab0774fdeb7d447c859f6d410bfc3/_gradients.scssc",
-				"/D/www/formalFunky/jade/.sass-cache/ddbb8d46a7d9ec57b7c7af9bf7fe5863c66000d6/_gradients.scssc",
-				"/D/www/formalFunky/jade/.sass-cache/a7eed3a33fd369de8f7560988e3f4196277c5b6b/_gradients.scssc",
-				"/D/www/formalFunky/jade/.sass-cache/a5688e4d63711303c23c6dad7071e88a15862a29/_gradients.scssc",
-				"/D/www/formalFunky/jade/.sass-cache/5859378ddb048c5027dc34ad066b7a69416345d9/_gradients.scssc",
-				"/D/www/formalFunky/jade/node_modules/jade/node_modules/with/node_modules/acorn/bin/generate-identifier-regex.js",
-				"/D/www/formalFunky/jade/cart1.html",
-				"/D/www/formalFunky/jade/lib/cms-pade.jade",
-				"/D/www/formalFunky/jade/lib/CMS-pade.jade",
-				"/D/www/formalFunky/jade/lib/default-temp.jade",
-				"/D/www/formalFunky/jade/lib/default-scripts.jade",
-				"/D/www/formalFunky/jade/lib/header-search.jade",
-				"/D/www/formalFunky/jade/lib/hdr.jade",
-				"/D/www/formalFunky/jade/lib/cart-view-dropdown.jade",
-				"/D/www/formalFunky/jade/lib/breadcrumbs.jade",
-				"/D/www/formalFunky/jade/lib/popup.jade",
-				"/D/www/formalFunky/jade/index.html",
-				"/D/www/formalFunky/jade/lib/old/index.html",
-				"/D/www/Digitalabs/RAW/digitalabs/index.html",
-				"/D/www/formalFunky/jade/lib/cart-view-dropdown"
+				"/D/www/formalFunky/jade/lib/cart-detail.jade"
 			],
 			"find":
 			{
-				"height": 34.0
+				"height": 37.0
 			},
 			"find_in_files":
 			{
 				"height": 90.0,
 				"where_history":
 				[
+					"D:\\www\\formalFunky\\jade",
 					"C:\\Users\\vipul\\Desktop\\New folder",
 					"D:\\css"
 				]
@@ -1345,6 +1589,105 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"ex",
+					"holder.js/900x500/#777:#555/text:",
+					"data-src",
+					"12px",
+					"-one",
+					"one",
+					"data-src",
+					"holder.js",
+					"auto",
+					"<div id=\"#\"></div>",
+					"green",
+					"58px",
+					"a ",
+					"list",
+					"|",
+					"264px",
+					"  }",
+					"font",
+					"url(",
+					"_italic",
+					"e9e6d9",
+					"$border-radius-base",
+					"radius",
+					"btn",
+					"$brand-primary",
+					" $brand-primary",
+					"primary",
+					"./css",
+					"scss",
+					"sacc",
+					"build/",
+					"url",
+					"here",
+					"form",
+					"style=\"",
+					"proarr[1]",
+					"addPos",
+					"left: wlistPos.left + 20 + addPos,",
+					"wlistPos = $(\".wishlist-tab .main-wish\").offset(),",
+					"\".close-btn\"",
+					"onclick=\"newDelete()\"",
+					" onclick=\"newDelete()\"",
+					"close-btn",
+					".close-btn",
+					"	\n",
+					".close-btn",
+					"theProduct",
+					"mainPagePro",
+					"thisProId",
+					"theProduct",
+					"find",
+					"sliderResize",
+					"checkWishItems",
+					"langth",
+					"thisProId",
+					"quickWish",
+					"$(theId).find(\".wish\").removeClass(\"active\");",
+					"quickWish",
+					"qucik-wish",
+					"quick-",
+					"link",
+					"empty",
+					"emp",
+					"glo",
+					"$",
+					"use",
+					"close-btn",
+					"shake\"",
+					"shake",
+					"fa-ico",
+					".fa-i",
+					"Cart has been updated",
+					"include",
+					"alert",
+					"pro-stuff",
+					"Octopus",
+					"fa-web-font",
+					"Octopus",
+					"fusion",
+					"for",
+					"for ",
+					"w-thmb2",
+					"shake",
+					"pro-img",
+					"class=\"disc",
+					"closeAllRightMenu",
+					"closeAllRightMenu ()",
+					"all",
+					"validation",
+					"jQuery",
+					"login",
+					"slotholder",
+					"family",
+					"faml",
+					"famlily",
+					"saccass",
+					"sucass",
+					"use",
+					"table",
 					"for",
 					"Buy Now",
 					"-add",
@@ -1373,106 +1716,7 @@
 					"or-sign",
 					"refresh",
 					"refre",
-					"refresh",
-					"pro-img",
-					"h1",
-					"disc",
-					"color-options",
-					"option",
-					".fa-",
-					"color-o",
-					"h1",
-					"disc",
-					"circle-text",
-					"pro-short-disc",
-					"in",
-					"in case",
-					"class",
-					"just",
-					"close-btn",
-					"t).re",
-					"NEXT",
-					"next",
-					"NEXT",
-					"next",
-					"NEXT",
-					"next",
-					"NEXT",
-					"box-sizing: border-box;",
-					"box-sizing: border-box;-webkit-box-sizing: border-box;",
-					"box-sizing: border-box; -webkit-box-sizing: border-box;",
-					"box-sizing: border-box; ",
-					"box-sizing: border-box;",
-					"box-sizing: border-box;  -webkit-box-sizing: border-box;",
-					"box-sizing: border-box;",
-					"addPos",
-					"$(\".w-thmb",
-					"$(\".w-thmb2\")",
-					"$(\".w-thmb\")",
-					".w-thmb",
-					"class='add'",
-					"<div class=\"close-btn\" id=\"whishPro-' + thisProId + '\"></div>",
-					"shake",
-					"$(this).parent().remove();",
-					"wishTab()",
-					"wishtab",
-					" && $",
-					" && ",
-					"wishTab()",
-					"flag =",
-					"wishTab()",
-					".rightnav li",
-					"wishTab()",
-					"flag = ",
-					"flag = \"0\"",
-					": \"0px\" ==",
-					"$(window).width()",
-					"flag",
-					"menu-icon",
-					"wishTab()",
-					" wishTab() ",
-					"wishTab()",
-					"wishTab",
-					".wishlist-tab",
-					"wishlist-tab",
-					"wishTab()",
-					"wish-tab",
-					".wish-tab",
-					"wishTab();",
-					"close-btn",
-					"cartViewDd",
-					"marginTop",
-					"cartViewDd",
-					"cartViewDd();",
-					"img",
-					"thisProId",
-					"wish",
-					", copyTxt()",
-					"justtext",
-					"txt2",
-					"txt",
-					"all3()",
-					" closeAllRightMenu()",
-					"closeAllRightMenu",
-					"closeAllRightMenu()",
-					"closeAllRightMenu();",
-					"listt",
-					"list",
-					"list-group",
-					"onClick=\"rightnav(<?=$model_menu_rows['model_id']?>)\"",
-					"closeAllRightMenu",
-					"return $(",
-					"closeAllRightMenu",
-					"return $",
-					"closeAllRightMenu",
-					"leftS",
-					".lavel2close",
-					"$(\".lavel2close\").parents()",
-					"fullH",
-					"closeAllRightMenu",
-					"closeAllRightMenu();",
-					"home-nav",
-					"closeAllRightMenu"
+					"refresh"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1491,616 +1735,15 @@
 			"groups":
 			[
 				{
-					"selected": 5,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "lib/css/style.scss",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 71829,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										63741,
-										63741
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete_triggers":
-									[
-										{
-											"characters": "<",
-											"selector": "text.html"
-										},
-										{
-											"characters": ".#",
-											"selector": "text.html"
-										}
-									],
-									"bh_regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Seti_monokai (SL).tmTheme",
-									"syntax": "Packages/Seti_UI/Langs/SCSS.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 56223.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/www/formalFunky/dev/demo/homepopup.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 237,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										131,
-										137
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete_triggers":
-									[
-										{
-											"characters": "<",
-											"selector": "text.html"
-										},
-										{
-											"characters": ".#",
-											"selector": "text.html"
-										}
-									],
-									"bh_regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Seti_monokai (SL).tmTheme",
-									"syntax": "Packages/PHP/PHP.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/www/formalFunky/dev/demo/product-list.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 4782,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3635,
-										3658
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete_triggers":
-									[
-										{
-											"characters": "<",
-											"selector": "text.html"
-										},
-										{
-											"characters": ".#",
-											"selector": "text.html"
-										}
-									],
-									"bh_regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Seti (SL).tmTheme",
-									"syntax": "Packages/PHP/PHP.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 723.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/D/www/formalFunky/dev/demo/design.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 6575,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										5342,
-										5342
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete_triggers":
-									[
-										{
-											"characters": "<",
-											"selector": "text.html"
-										},
-										{
-											"characters": ".#",
-											"selector": "text.html"
-										}
-									],
-									"bh_regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Seti_monokai (SL).tmTheme",
-									"syntax": "Packages/PHP/PHP.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 1743.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/D/www/formalFunky/dev/demo/quick-view.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 7836,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3799,
-										3799
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete_triggers":
-									[
-										{
-											"characters": "<",
-											"selector": "text.html"
-										},
-										{
-											"characters": ".#",
-											"selector": "text.html"
-										}
-									],
-									"bh_regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Seti_monokai (SL).tmTheme",
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1320.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/D/www/formalFunky/dev/demo/contact-us.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 4881,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3567,
-										3567
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete_triggers":
-									[
-										{
-											"characters": "<",
-											"selector": "text.html"
-										},
-										{
-											"characters": ".#",
-											"selector": "text.html"
-										}
-									],
-									"bh_regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Seti_monokai (SL).tmTheme",
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1023.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/D/www/formalFunky/dev/demo/js/glob.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 352735,
+								"buffer_size": 0,
 								"regions":
 								{
 								},
@@ -2114,239 +1757,19 @@
 								"settings":
 								{
 									"BracketHighlighterBusy": false,
-									"auto_complete_triggers":
-									[
-										{
-											"characters": "<",
-											"selector": "text.html"
-										},
-										{
-											"characters": ".#",
-											"selector": "text.html"
-										}
-									],
+									"auto_name": "",
 									"bh_regions":
 									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Seti (SL).tmTheme",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 8,
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/D/app/SublimeWithSettings/Data/Packages/User/Preferences.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 689,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										601,
-										601
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete_triggers":
-									[
-										{
-											"characters": "<",
-											"selector": "text.html"
-										},
-										{
-											"characters": ".#",
-											"selector": "text.html"
-										}
-									],
-									"bh_regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Seti (SL).tmTheme",
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 8,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1441,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										382,
-										870
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_indent": false,
-									"bh_regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
@@ -2357,31 +1780,50 @@
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content"
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
 									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Seti_monokai (SL).tmTheme",
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"word_wrap": true
+									"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 20.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 7,
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -2389,7 +1831,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 28.0
+				"height": 37.0
 			},
 			"input":
 			{
@@ -2430,8 +1872,8 @@
 			{
 				"height": 0.0
 			},
-			"position": "0,2,3,-32000,-32000,-1,-1,1080,0,0,1920",
-			"project": "FF.sublime-project",
+			"position": "0,2,3,-1,-1,-1,-1,1080,1749,0,3214",
+			"project": "",
 			"replace":
 			{
 				"height": 70.0
@@ -2442,6 +1884,14 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"temp",
+						"lib\\inc\\_temp.jade"
+					],
+					[
+						"t-list",
+						"dev\\demo\\product-list.php"
+					],
 					[
 						"glo",
 						"D:\\www\\formalFunky\\dev\\demo\\js\\glob.js"
@@ -2491,9 +1941,13 @@
 			},
 			"select_symbol":
 			{
-				"height": 67.0,
+				"height": 38.0,
 				"selected_items":
 				[
+					[
+						"html",
+						"html"
+					],
 					[
 						"pro-for",
 						".pro-for"
@@ -2566,15 +2020,19 @@
 			"template_settings":
 			{
 			},
-			"window_id": 3,
-			"workspace_name": "/D/www/formalFunky/jade/FF.sublime-workspace"
+			"window_id": 14,
+			"workspace_name": ""
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/D/www/jaagar/Jade/lib/inc/Jaagar.sublime-workspace",
 			"/D/www/formalFunky/jade/FF.sublime-workspace",
+			"/D/www/Digitalabs/dev/digitalDev.sublime-workspace",
+			"/D/www/creative_curtains/Creative-curtains.sublime-workspace",
+			"/D/www/renew Power/renew.sublime-workspace",
 			"/D/www/mukulgoyal/dev/wp-content/themes/dante/mukul.sublime-workspace",
 			"/D/www/formalFunky/jade/_socket.sublime-workspace"
 		]

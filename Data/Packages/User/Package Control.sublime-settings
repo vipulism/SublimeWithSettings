@@ -5,6 +5,7 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"ApacheConf.tmLanguage",
 		"AutoFileName",
 		"Bootstrap 3 Jade Snippets",
 		"Bootstrap 3 Snippets",
@@ -22,6 +23,7 @@
 		"Jade",
 		"Jade Snippets",
 		"Minifier",
+		"Minify",
 		"Package Control",
 		"Predawn",
 		"SASS Snippets",

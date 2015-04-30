@@ -1,12 +1,9 @@
 {
-	"Seti_ClosedFolder_dots": true,
-	"Seti_sb_wild": true,
-	"Seti_tabs_med": true,
 	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin, text.html.basic",
 	"caret_extra_bottom": 3,
 	"caret_extra_top": 3,
 	"caret_extra_width": 2,
-	"color_scheme": "Packages/User/SublimeLinter/Seti_monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Solarized (Light) (SL).tmTheme",
 	"disable_tab_abbreviations_on_auto_complete": "false",
 	"font_size": 13,
 	"highlight_line": true,
@@ -24,7 +21,6 @@
 		"*.log",
 		"*.html"
 	],
-	"overlay_scroll_bars": "enabled",
-	"theme": "Seti.sublime-theme",
+	"theme": "itg.flat.dark.sublime-theme",
 	"word_wrap": "true"
 }
