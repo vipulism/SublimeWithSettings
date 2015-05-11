@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+ @media (${1:max}-width: \$screen-${2:xm|sm|md|lg}-${3:max}) { 
+
+		$4
+ }
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mq</tabTrigger>
+	 <description>media Query (bootstrap)</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.scss, source.css</scope>
+</snippet>

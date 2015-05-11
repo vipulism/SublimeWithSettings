@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+
+		@include make-lg-column(${1:6}, ${2:0px});
+		@include make-md-column(${1:12}, ${2:0px});
+		@include make-sm-column(${3:12}, ${4:0px});
+		@include make-xs-column(${3:12}, ${4:0px});
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mkcol</tabTrigger>
+	 <description>make column (bootstrap)</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.scss</scope>
+</snippet>

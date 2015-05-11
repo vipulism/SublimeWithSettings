@@ -1,6 +1,13 @@
 {
 	"folder_history":
 	[
+		"/D/www/formalFunky/sticker",
+		"/D/www/New folder/myapp/angular-seed/app",
+		"/D/www/New folder/bootstrap/app",
+		"/D/www/formalFunky/dev/demo",
+		"/D/www/New folder/semantic/Semantic-UI-1.12.1",
+		"/D/www/quality control/dev",
+		"/D/www/New folder/bootstrap",
 		"/D/www/New folder/rec/recipe-stylus",
 		"/D/www/Just Printing/jp_new",
 		"/D/www/yeoman/app/jp",
@@ -965,100 +972,32 @@
 				"selected_items":
 				[
 					[
-						"bst-res",
-						"bst-navbar:responsive	bst-navbar-responsive"
+						"bs3",
+						"bs3-cdn	bs3-cdn"
 					],
 					[
-						"bst-nav",
-						"bst-navbar:links	bst-navbar-links"
+						"mak",
+						"mark	 element"
 					],
 					[
-						"bst-na",
-						"bst-navbar	bst-navbar"
+						"mq",
+						"mq	media Query (bootstrap)"
 					],
 					[
-						"bst-car",
-						"bst-carousel	bst-carousel"
-					],
-					[
-						"op",
-						"opacify	opacify()"
-					],
-					[
-						"bst",
-						"bst-thumbnail	bst-thumbnail"
-					],
-					[
-						"bst-th",
-						"bst-thumbnail:content	bst-thumbnail-content"
-					],
-					[
-						"li",
-						"lighten	lighten()"
-					],
-					[
-						"bor",
-						"brown"
-					],
-					[
-						"bst-f",
-						"bst-form:inline	bst-form-inline"
-					],
-					[
-						"bst-b",
-						"bst-breadcrumbs	bst-breadcrumbs"
-					],
-					[
-						"he",
-						"height"
-					],
-					[
-						"style",
-						"styles"
-					],
-					[
-						"images",
-						"images/"
+						"md",
+						"md-${1:max"
 					],
 					[
 						"ma",
-						"main"
+						"max	max()"
 					],
 					[
-						"home",
-						"home-sidebar	 style.scss"
+						"dar",
+						"dark"
 					],
 					[
-						"loca",
-						"location"
-					],
-					[
-						"w",
-						"width"
-					],
-					[
-						"si",
-						"sizing"
-					],
-					[
-						"geo",
-						"Cambria, Georgia, serif"
-					],
-					[
-						"btn",
-						"btn-block"
-					],
-					[
-						"hdr",
-						"header-img	 style.scss"
-					],
-					[
-						"hre",
-						"href"
-					],
-					[
-						"bst-n",
-						"bst-navbar:basic	bst-navbar-basic"
+						"media",
+						"@media	@media ${1:screen} {\n	${0}\n}"
 					],
 					[
 						"inner",
@@ -1119,6 +1058,10 @@
 					[
 						"float",
 						"float:left"
+					],
+					[
+						"btn",
+						"btn99	 style.scss"
 					],
 					[
 						"de",
@@ -1197,8 +1140,8 @@
 						"hasClass"
 					],
 					[
-						"mak",
-						"make"
+						"bor",
+						"border-box"
 					],
 					[
 						"d",
@@ -1207,6 +1150,10 @@
 					[
 						"bl",
 						"block"
+					],
+					[
+						"op",
+						"op	opacity"
 					],
 					[
 						"box",
@@ -1273,6 +1220,10 @@
 						"slideUp"
 					],
 					[
+						"w",
+						"width"
+					],
+					[
 						"bs3-b",
 						"bs3-button	bs3-button"
 					],
@@ -1293,10 +1244,6 @@
 						"bs3-col:1	bs3-col-1"
 					],
 					[
-						"bs3",
-						"bs3-col	bs3-col"
-					],
-					[
 						"fun",
 						"fun	Function"
 					]
@@ -1305,10 +1252,10 @@
 			"buffers":
 			[
 				{
-					"contents": "",
+					"file": "/D/www/IndiaSanitationMap/index.html",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 308,
 						"line_ending": "Windows"
 					}
 				}
@@ -1319,6 +1266,10 @@
 				"height": 400.0,
 				"selected_items":
 				[
+					[
+						"snippet: ",
+						"Snippet: @if"
+					],
 					[
 						"insta",
 						"Package Control: Install Package"
@@ -1441,36 +1392,17 @@
 			},
 			"file_history":
 			[
-				"/D/www/jaagar/Jade/lib/index.jade",
-				"/D/www/jaagar/Jade/lib/inc/_banner.jade",
-				"/D/www/jaagar/Jade/lib/inc/_header.jade",
-				"/D/www/jaagar/Jade/lib/inc/_footer.jade",
-				"/D/www/jaagar/Jade/.sass-cache/502dbd7c5b95dc1e3fed54abd440a9b38f15fbc8/_text-emphasis.scssc",
-				"/D/www/jaagar/Jade/bower_components/jquery/src/traversing.js",
-				"/D/www/jaagar/Jade/lib/inc/var.jade",
-				"/D/www/jaagar/Jade/about.html",
-				"/D/www/jaagar/Jade/lib/about.jade",
-				"/D/www/jaagar/Jade/lib/contact.jade",
-				"/D/www/jaagar/Jade/lib/inc/_aside.jade",
-				"/D/www/jaagar/Jade/bower_components/fontawesome/scss/_variables.scss",
-				"/D/www/jaagar/Jade/lib/inc/_temp.jade",
-				"/D/www/jaagar/webfontkit-20150422-060022/stylesheet.css",
-				"/D/www/jaagar/Jade/css/style.css",
-				"/D/www/jaagar/Jade/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_buttons.scss",
-				"/D/www/jaagar/Jade/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_variables.scss",
-				"/D/www/jaagar/webfontkit-20150422-060212/stylesheet.css",
-				"/D/www/jaagar/webfontkit-20150422-060022/aparaj-demo.html",
-				"/D/www/jaagar/Jade/lib/config.rb",
-				"/D/www/jaagar/Jade/lib/css/style.scss",
-				"/D/www/jaagar/Jade/lib/inc/-var.jade",
-				"/C/Users/Vipul.DIGI/Desktop/FileZilla.xml",
-				"/D/www/jaagar/Jade/Build/index.html",
-				"/D/www/jaagar/Jade/bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap.scss",
-				"/D/www/formalFunky/jade/lib/inc/homeTemp.jade",
-				"/D/www/formalFunky/jade/lib/index.jade",
-				"/D/www/jaagar/Jade/Gulpfile.js",
-				"/D/www/jaagar/Jade/lib/inc/_main.jade",
+				"/C/Users/Vipul.DIGI/Desktop/2.html",
+				"/C/Users/Vipul.DIGI/Desktop/1.html",
+				"/D/www/formalFunky/dev/demo/include/meta.inc.php",
 				"/D/www/formalFunky/jade/lib/css/style.scss",
+				"/D/www/New folder/bootstrap/app/index.html",
+				"/D/www/New folder/bootstrap/gulpfile.js",
+				"/D/www/formalFunky/jade/Gulpfile.js",
+				"/D/www/New folder/iconic/myApp/www/js/app.js",
+				"/D/app/SublimeWithSettings/Data/Packages/User/mkcol.sublime-snippet",
+				"/D/app/SublimeWithSettings/Data/Packages/User/sm.sublime-snippet",
+				"/D/www/formalFunky/dev/demo/css/ftpsync.settings",
 				"/D/www/formalFunky/dev/demo/payment-process.php",
 				"/D/www/formalFunky/dev/demo/quick-view.php",
 				"/D/www/formalFunky/dev/demo/product-list.php",
@@ -1486,7 +1418,6 @@
 				"/D/www/renew Power/nn_renew/index.php",
 				"/D/www/formalFunky/dev/demo/productlist.php",
 				"/D/www/formalFunky/dev/demo/product-detail.php",
-				"/D/www/formalFunky/dev/demo/include/meta.inc.php",
 				"/D/www/formalFunky/dev/demo/ajax-billing-shipping-address.php",
 				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/_normalize.scss",
 				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/_variables.scss",
@@ -1520,13 +1451,13 @@
 				"/D/www/formalFunky/jade/lib/css/scss/_global.scss",
 				"/D/www/formalFunky/dev/demo/my-wishlist.php",
 				"/D/www/formalFunky/dev/demo/send-message.php",
+				"/C/Users/Vipul.DIGI/Desktop/FileZilla.xml",
 				"/D/www/formalfunky/dev/demo/js/glob.js",
 				"/D/www/formalFunky/jade/lib/old/test.html",
 				"/D/www/formalFunky/jade/.sass-cache/5859378ddb048c5027dc34ad066b7a69416345d9/_text-emphasis.scssc",
 				"/D/www/formalFunky/jade/inc/temp.html",
 				"/D/www/formalFunky/dev/demo/js/test.html",
 				"/D/www/formalFunky/dev/demo/payment-method.php",
-				"/D/www/formalFunky/jade/Gulpfile.js",
 				"/D/www/formalFunky/dev/demo/login.php",
 				"/D/www/formalFunky/dev/demo/change-password.php",
 				"/D/www/formalFunky/dev/demo/myaccount.php",
@@ -1552,6 +1483,7 @@
 				"/D/www/formalFunky/dev/demo/js/glob3.js",
 				"/D/www/formalFunky/jade/lib/js/script.js",
 				"/D/www/formalFunky/jade/lib/inc/hdr.jade",
+				"/D/www/formalFunky/jade/lib/index.jade",
 				"/D/www/formalFunky/dev/demo/uploaded_files/dies/rename.bat",
 				"/D/www/formalFunky/jade/lib/script.js",
 				"/D/www/formalFunky/jade/lib/inc/pro-thumb.jade",
@@ -1560,6 +1492,7 @@
 				"/D/www/formalFunky/jade/lib/inc/homeScripts.jade",
 				"/D/www/formalFunky/jade/lib/inc/default-scripts.jade",
 				"/D/www/formalFunky/jade/lib/pro-list2.jade",
+				"/D/www/formalFunky/jade/lib/inc/homeTemp.jade",
 				"/D/www/formalFunky/jade/build/index2.html",
 				"/D/www/formalFunky/jade/lib/index6.jade",
 				"/D/www/formalFunky/jade/lib/inc/header-search2.jade",
@@ -1568,11 +1501,29 @@
 				"/D/dnd/formal_funky/trunk/website/d.txt",
 				"/D/dnd/abc.txt",
 				"/D/www/formalFunky/jade/lib/register.jade",
-				"/D/www/formalFunky/jade/lib/cart-detail.jade"
+				"/D/www/formalFunky/jade/lib/cart-detail.jade",
+				"/D/app/SublimeWithSettings/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/www/formalFunky/jade/lib/old/cart1.html",
+				"/D/www/formalFunky/jade/lib/old/pro-detail2.html",
+				"/D/www/formalFunky/jade/lib/old/cart-detail.html",
+				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/mixins/_hide-text.scss",
+				"/D/www/formalFunky/jade/lib/pro-list.jade",
+				"/D/www/formalFunky/jade/lib/carts.jade",
+				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/_grid.scss",
+				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/_glyphicons.scss",
+				"/D/www/formalFunky/jade/carts.html",
+				"/D/www/formalFunky/jade/.sass-cache/5859378ddb048c5027dc34ad066b7a69416345d9/_hide-text.scssc",
+				"/C/Users/Vipul.DIGI/Documents/GitHub/SublimeWithSettings/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Vipul.DIGI/Documents/GitHub/SublimeWithSettings/Data/Packages/User/SublimeLinter/itg.dark (SL).tmTheme",
+				"/D/www/formalFunky/jade/cart-detail.html",
+				"/C/Users/Vipul.DIGI/Documents/GitHub/SublimeWithSettings/Data/Packages/User/Jade.sublime-settings",
+				"/D/www/formalFunky/jade/pro-detail.html",
+				"/D/www/formalFunky/jade/pro-details.html",
+				"/D/www/formalFunky/jade/package.json"
 			],
 			"find":
 			{
-				"height": 37.0
+				"height": 39.0
 			},
 			"find_in_files":
 			{
@@ -1589,38 +1540,57 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"ex",
-					"holder.js/900x500/#777:#555/text:",
-					"data-src",
-					"12px",
-					"-one",
-					"one",
-					"data-src",
-					"holder.js",
-					"auto",
-					"<div id=\"#\"></div>",
-					"green",
-					"58px",
-					"a ",
-					"list",
-					"|",
-					"264px",
-					"  }",
-					"font",
-					"url(",
-					"_italic",
-					"e9e6d9",
-					"$border-radius-base",
-					"radius",
+					".pipe(reload({stream: true}));",
+					"style",
+					"styles",
+					"style",
+					"serve",
+					"browserSync",
+					"browser-sync",
+					"reload",
+					"hdr-btm",
+					"xm",
+					".pro",
+					" I ",
+					" I",
+					"i  ",
+					" i  ",
+					" i ",
+					"mobile",
+					"urlRouterProvider",
+					".pro",
+					"main-side",
 					"btn",
-					"$brand-primary",
-					" $brand-primary",
-					"primary",
-					"./css",
-					"scss",
-					"sacc",
-					"build/",
-					"url",
+					".cart-list ",
+					" a ",
+					"a",
+					"&>a",
+					"li>a",
+					"width: 80px",
+					" 80px",
+					"80px",
+					"aside",
+					".cart-list",
+					"aside",
+					".main-content",
+					"40",
+					"my-account",
+					".pro-short-disc",
+					"5",
+					"-moz-box-sizing: border-box;",
+					"-moz-box-sizing",
+					"-mos",
+					"10px)",
+					"0px)",
+					"10px",
+					"qv-popup-container",
+					"qv-popup-container.detail ",
+					"@media",
+					"$dark-primary-color",
+					".menu-icon > span",
+					"#000",
+					"nav-btn",
+					"full-width-center",
 					"here",
 					"form",
 					"style=\"",
@@ -1697,26 +1667,7 @@
 					"trac",
 					"address",
 					"for",
-					"pop-inner",
-					"disc",
-					"desc\"",
-					"desc",
-					".pro",
-					"p-thmb",
-					".p-thmb",
-					"p-price",
-					"submitted",
-					"srch-main2",
-					"qv-popup-container",
-					"submitted",
-					"enterPressed",
-					"avai",
-					"av",
-					"available",
-					"or-sign",
-					"refresh",
-					"refre",
-					"refresh"
+					"pop-inner"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1740,84 +1691,85 @@
 					[
 						{
 							"buffer": 0,
+							"file": "/D/www/IndiaSanitationMap/index.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 0,
+								"buffer_size": 308,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										210,
+										210
 									]
 								],
 								"settings":
 								{
 									"BracketHighlighterBusy": false,
-									"auto_name": "",
+									"auto_complete": false,
 									"bh_regions":
 									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content"
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
 									],
 									"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
+									"syntax": "Packages/HTML/HTML.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -1831,7 +1783,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 37.0
+				"height": 30.0
 			},
 			"input":
 			{
@@ -1872,11 +1824,11 @@
 			{
 				"height": 0.0
 			},
-			"position": "0,2,3,-1,-1,-1,-1,1080,1749,0,3214",
+			"position": "0,2,3,-1,-1,-1,-1,1176,192,96,1657",
 			"project": "",
 			"replace":
 			{
-				"height": 70.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1884,10 +1836,6 @@
 				"height": 0.0,
 				"selected_items":
 				[
-					[
-						"temp",
-						"lib\\inc\\_temp.jade"
-					],
 					[
 						"t-list",
 						"dev\\demo\\product-list.php"
@@ -1934,7 +1882,7 @@
 				[
 					[
 						"",
-						"D:\\www\\formalFunky\\jade\\FF.sublime-project"
+						"D:\\www\\jaagar\\Jade\\lib\\inc\\Jaagar.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -2028,10 +1976,11 @@
 	{
 		"recent_workspaces":
 		[
-			"/D/www/jaagar/Jade/lib/inc/Jaagar.sublime-workspace",
 			"/D/www/formalFunky/jade/FF.sublime-workspace",
-			"/D/www/Digitalabs/dev/digitalDev.sublime-workspace",
 			"/D/www/creative_curtains/Creative-curtains.sublime-workspace",
+			"/D/www/quality control/QC.sublime-workspace",
+			"/D/www/Digitalabs/dev/digitalDev.sublime-workspace",
+			"/D/www/jaagar/Jade/lib/inc/Jaagar.sublime-workspace",
 			"/D/www/renew Power/renew.sublime-workspace",
 			"/D/www/mukulgoyal/dev/wp-content/themes/dante/mukul.sublime-workspace",
 			"/D/www/formalFunky/jade/_socket.sublime-workspace"
