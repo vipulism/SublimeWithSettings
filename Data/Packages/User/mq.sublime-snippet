@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
- @media (${1:max}-width: \$screen-${2:xm|sm|md|lg}-${3:max}) { 
+ @media (${1:max}-width: \$screen-${2:xs|sm|md|lg}-${3:max}) { 
 
 		$4
  }

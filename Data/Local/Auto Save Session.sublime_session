@@ -1252,10 +1252,18 @@
 			"buffers":
 			[
 				{
-					"file": "/D/www/IndiaSanitationMap/index.html",
+					"file": "lib/css/style.scss",
 					"settings":
 					{
-						"buffer_size": 308,
+						"buffer_size": 81634,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/app/SublimeWithSettings/Data/Packages/User/mq.sublime-snippet",
+					"settings":
+					{
+						"buffer_size": 396,
 						"line_ending": "Windows"
 					}
 				}
@@ -1390,15 +1398,19 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/D/www/formalFunky/jade",
+				"/D/www/formalFunky/jade/lib",
+				"/D/www/formalFunky/jade/lib/css"
+			],
 			"file_history":
 			[
-				"/C/Users/Vipul.DIGI/Desktop/2.html",
-				"/C/Users/Vipul.DIGI/Desktop/1.html",
+				"/D/www/formalFunky/jade/Gulpfile.js",
 				"/D/www/formalFunky/dev/demo/include/meta.inc.php",
 				"/D/www/formalFunky/jade/lib/css/style.scss",
 				"/D/www/New folder/bootstrap/app/index.html",
 				"/D/www/New folder/bootstrap/gulpfile.js",
-				"/D/www/formalFunky/jade/Gulpfile.js",
 				"/D/www/New folder/iconic/myApp/www/js/app.js",
 				"/D/app/SublimeWithSettings/Data/Packages/User/mkcol.sublime-snippet",
 				"/D/app/SublimeWithSettings/Data/Packages/User/sm.sublime-snippet",
@@ -1519,7 +1531,9 @@
 				"/C/Users/Vipul.DIGI/Documents/GitHub/SublimeWithSettings/Data/Packages/User/Jade.sublime-settings",
 				"/D/www/formalFunky/jade/pro-detail.html",
 				"/D/www/formalFunky/jade/pro-details.html",
-				"/D/www/formalFunky/jade/package.json"
+				"/D/www/formalFunky/jade/package.json",
+				"/D/www/formalFunky/jade/_socket.sublime-workspace",
+				"/D/www/formalFunky/jade/css/glob.css"
 			],
 			"find":
 			{
@@ -1686,30 +1700,40 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/www/IndiaSanitationMap/index.html",
+							"file": "lib/css/style.scss",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 308,
+								"buffer_size": 81634,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										210,
-										210
+										14806,
+										14806
 									]
 								],
 								"settings":
 								{
 									"BracketHighlighterBusy": false,
-									"auto_complete": false,
+									"auto_complete_triggers":
+									[
+										{
+											"characters": "<",
+											"selector": "text.html"
+										},
+										{
+											"characters": ".#",
+											"selector": "text.html"
+										}
+									],
 									"bh_regions":
 									[
 										"bh_single_quote",
@@ -1769,7 +1793,108 @@
 										"bh_unmatched_content"
 									],
 									"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
-									"syntax": "Packages/HTML/HTML.tmLanguage"
+									"syntax": "Packages/Seti_UI/Langs/SCSS.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 14528.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/app/SublimeWithSettings/Data/Packages/User/mq.sublime-snippet",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 396,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										70,
+										70
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete_triggers":
+									[
+										{
+											"characters": "<",
+											"selector": "text.html"
+										},
+										{
+											"characters": ".#",
+											"selector": "text.html"
+										}
+									],
+									"bh_regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
+									"syntax": "Packages/XML/XML.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -1824,8 +1949,8 @@
 			{
 				"height": 0.0
 			},
-			"position": "0,2,3,-1,-1,-1,-1,1176,192,96,1657",
-			"project": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,1176,192,96,1657",
+			"project": "FF.sublime-project",
 			"replace":
 			{
 				"height": 56.0
@@ -1969,7 +2094,7 @@
 			{
 			},
 			"window_id": 14,
-			"workspace_name": ""
+			"workspace_name": "/D/www/formalFunky/jade/FF.sublime-workspace"
 		}
 	],
 	"workspaces":
