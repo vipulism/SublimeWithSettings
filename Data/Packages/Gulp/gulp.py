@@ -1,5 +1,7 @@
 import sys
+import traceback
 import sublime
+import sublime_plugin
 import datetime
 import codecs
 import os, os.path
@@ -8,16 +10,19 @@ import signal, subprocess
 import json
 import webbrowser
 from hashlib import sha1 
+from contextlib import contextmanager
 
 is_sublime_text_3 = int(sublime.version()) >= 3000
 
 if is_sublime_text_3:
     from .base_command import BaseCommand
     from .progress_notifier import ProgressNotifier
+    from .cross_platform_codecs import CrossPlaformCodecs
     import urllib.request as urllib2
 else:
     from base_command import BaseCommand
     from progress_notifier import ProgressNotifier
+    from cross_platform_codecs import CrossPlaformCodecs
     import urllib2
 
 class GulpCommand(BaseCommand):
@@ -79,6 +84,7 @@ class GulpCommand(BaseCommand):
         except TypeError as e:
             self.error_message("Could not read available tasks.\nMaybe the JSON cache (.sublime-gulp.cache) is malformed?")
         except Exception as e:
+            print(traceback.format_exc())
             self.error_message(str(e))
         else:
             tasks = [[name, self.dependencies_text(task)] for name, task in json_result.items()]
@@ -95,7 +101,7 @@ class GulpCommand(BaseCommand):
 
         if os.path.exists(jsonfilename):
             filesha1 = Security.hashfile(gulpfile)
-            json_data = open(jsonfilename)
+            json_data = codecs.open(jsonfilename, "r", "utf-8", errors='replace')
 
             try:
                 data = json.load(json_data)
@@ -119,8 +125,9 @@ class GulpCommand(BaseCommand):
 
         args = r'node "%s/write_tasks_to_cache.js"' % package_path
 
-        process = subprocess.Popen(args, stdout=subprocess.PIPE, stderr=subprocess.PIPE, env=self.env.get_path_with_exec_args(), cwd=self.working_dir, shell=True)
-        (stdout, stderr) = process.communicate()
+        with Dir.cd(self.working_dir):
+            process = subprocess.Popen(args, stdout=subprocess.PIPE, stderr=subprocess.PIPE, env=self.env.get_path_with_exec_args(), shell=True)
+            (stdout, stderr) = process.communicate()
 
         if 127 == process.returncode:
             raise Exception("\"node\" command not found.\nPlease be sure to have nodejs installed on your system and in your PATH (more info in the README).")
@@ -135,8 +142,11 @@ class GulpCommand(BaseCommand):
             return
         log_path = self.working_dir + "/" + self.log_file_name
         header = "Remember that you can report errors and get help in https://github.com/NicoSantangelo/sublime-gulp" if not os.path.isfile(log_path) else ""
-        with codecs.open(log_path, 'a', "utf-8") as log_file:
-            log_file.write(header + "\n\n" + str(datetime.datetime.now().strftime("%m-%d-%Y %H:%M")) + ":\n" + text.decode('utf-8'))
+        timestamp = str(datetime.datetime.now().strftime("%m-%d-%Y %H:%M"))
+
+        with codecs.open(log_path, "a", "utf-8", errors='replace') as log_file:
+            decoded_stderr = CrossPlaformCodecs.force_decode(text)
+            log_file.write(header + "\n\n" + timestamp + ":\n" + decoded_stderr)
 
     def task_list_callback(self, task_index):
         if task_index > -1:
@@ -181,7 +191,7 @@ class GulpKillCommand(BaseCommand):
             self.status_message("There are no running tasks")
         else:
             self.show_output_panel("\nFinishing the following running tasks:\n")
-            ProcessCache.each(lambda process: self.append_to_output_view("$ %s\n" % process.last_command))
+            ProcessCache.each(lambda process: self.append_to_output_view("$ %s\n" % process.last_command.rstrip()))
             ProcessCache.kill_all()
             self.append_to_output_view("\nAll running tasks killed!\n")
 
@@ -203,16 +213,25 @@ class GulpPluginsCommand(BaseCommand):
         self.handle_thread(thread, progress)
 
     def handle_thread(self, thread, progress):
-         if thread.is_alive() or thread.result == False:
+        if thread.is_alive() and not thread.error:
             sublime.set_timeout(lambda: self.handle_thread(thread, progress), 100)
-         else:
+        else:
             progress.stop()
-            plugin_response = json.loads(thread.result.decode('utf-8'))
-            if plugin_response["timed_out"]:
-                self.error_message("Sadly the request timed out, try again later.")
-            else:
+            if thread.result:
+                plugin_response = json.loads(thread.result.decode('utf-8'))
                 self.plugins = PluginList(plugin_response)
                 self.show_quick_panel(self.plugins.quick_panel_list(), self.open_in_browser, font = 0)
+            else:
+                self.error_message(self.error_text_for(thread))
+
+    def error_text_for(self, thread):
+        tuple = (
+            "The plugin repository seems to be down.",
+            "If the site at http://gulpjs.com/plugins is working, please report this issue at the Sublime Gulp repo.",
+            "Thanks!",
+            thread.error
+        )
+        return "\n\n%s\n\n%s\n\n%s\n\n%s" % tuple
 
     def open_in_browser(self, index = -1):
         if index >= 0 and index < self.plugins.length:
@@ -230,13 +249,20 @@ class GulpDeleteCacheCommand(GulpCommand):
             self.working_dir = os.path.dirname(self.gulp_files[file_index])
             try:
                 jsonfilename = os.path.join(self.working_dir, GulpCommand.cache_file_name)
-                print(jsonfilename)
                 if os.path.exists(jsonfilename):
                     os.remove(jsonfilename)
                     self.status_message('Cache removed successfully')
             except Exception as e:
                 self.status_message("Could not remove cache: %s" % str(e))
 
+
+class GulpExitCommand(sublime_plugin.WindowCommand):
+    def run(self):
+        try:
+            self.window.run_command("gulp_kill")
+        finally:
+            self.window.run_command("exit")
+            
 
 class CrossPlatformProcess():
     def __init__(self, command, nonblocking=True):
@@ -246,7 +272,9 @@ class CrossPlatformProcess():
         self.nonblocking = nonblocking
 
     def run(self, command):
-        self.process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, env=self.path, cwd=self.working_dir, shell=True, preexec_fn=self._preexec_val())
+        with Dir.cd(self.working_dir):
+            self.process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE, env=self.path, shell=True, preexec_fn=self._preexec_val())
+
         self.last_command = command
         ProcessCache.add(self)
         return self
@@ -276,17 +304,10 @@ class CrossPlatformProcess():
         while True:
             line = stream.readline()
             if not line: break
-            output_line = self.decode_line(line)
+            output_line = CrossPlaformCodecs.decode_line(line)
             output_text += output_line
             fn(output_line)
         return output_text
-
-    def decode_line(self, line):
-        line = line.rstrip()
-        return str(line.decode('utf-8') if sys.version_info >= (3, 0) else line) + "\n"
-
-    def read(self, stream):
-        return stream.read().decode('utf-8')
 
     def terminate(self):
         if self.is_alive():
@@ -304,6 +325,18 @@ class CrossPlatformProcess():
         else:
             os.killpg(pid, signal.SIGTERM)
         ProcessCache.remove(self)
+
+
+class Dir():
+    @classmethod
+    @contextmanager
+    def cd(cls, newdir):
+        prevdir = os.getcwd()
+        os.chdir(newdir)
+        try:
+            yield
+        finally:
+            os.chdir(prevdir)
 
 
 class ProcessCache():
@@ -369,7 +402,7 @@ class Security():
 
 class PluginList():
     def __init__(self, plugins_response):
-        self.plugins = [Plugin(plugin_json) for plugin_json in plugins_response["hits"]["hits"]]
+        self.plugins = [Plugin(plugin_json) for plugin_json in plugins_response["results"]]
         self.length = len(self.plugins)
 
     def get(self, index):
@@ -377,25 +410,33 @@ class PluginList():
             return self.plugins[index]
 
     def quick_panel_list(self):
-        return [ [plugin.get('name') + ' (v' + plugin.get('version') + ')', plugin.get('description')] for plugin in self.plugins ]
+        return [ [plugin.name + ' (' + plugin.version + ')', plugin.description] for plugin in self.plugins ]
+
 
 class Plugin():
     def __init__(self, plugin_json):
         self.plugin = plugin_json
+        self.set_attributes()
+
+    def set_attributes(self):
+        self.name = self.get('name')
+        self.version = "v" + self.get('version')
+        self.description = self.get('description')
 
     def get(self, property):
-        return self.plugin['fields'][property][0] if self.has(property) else ''
+        return self.plugin[property][0] if self.has(property) else ''
 
     def has(self, property):
-        return 'fields' in self.plugin and property in self.plugin['fields']
+        return property in self.plugin
 
 
 class PluginRegistryCall(Thread):
-    url = "http://registry.gulpjs.com/_search?fields=name,description,author,homepage,version&from=20&q=keywords:gulpplugin,gulpfriendly&size=750"
+    url = "http://npmsearch.com/query?fields=name,description,homepage,version,rating&q=keywords:gulpfriendly&q=keywords:gulpplugin&size=1755&sort=rating:desc&start=20"
 
     def __init__(self, timeout = 5):
         self.timeout = timeout
         self.result = None
+        self.error = None
         Thread.__init__(self)
 
     def run(self):
@@ -406,12 +447,13 @@ class PluginRegistryCall(Thread):
             return
 
         except urllib2.HTTPError as e:
-            err = 'Gulp: HTTP error %s contacting gulpjs registry' % (str(e.code))
+            err = 'Error: HTTP error %s contacting gulpjs registry' % (str(e.code))
         except urllib2.URLError as e:
-            err = 'Gulp: URL error %s contacting gulpjs registry' % (str(e.reason))
+            err = 'Error: URL error %s contacting gulpjs registry' % (str(e.reason))
 
-        sublime.error_message(err)
-        self.result = False
+        self.error = err
+        self.result = None
+
 
 class ThreadWithResult(Thread):
     def __init__(self, target, args):
