@@ -1,6 +1,8 @@
 {
 	"folder_history":
 	[
+		"/D/www/sargam/HTML/12-8-2015",
+		"/D/www/DG Fencing/DG Fencing(21st July 12)",
 		"/C/Users/Vipul.DIGI/AppData/Local/Temp/fz3-14363652338890",
 		"/D/www/Digitalabs/dev/16-jun",
 		"/D/www/Nalt/html new",
@@ -32,7 +34,7 @@
 		"/D/www/formalFunky/html"
 	],
 	"last_version": 3065,
-	"last_window_id": 28,
+	"last_window_id": 33,
 	"log_indexing": false,
 	"settings":
 	{
@@ -44,923 +46,77 @@
 				"selected_items":
 				[
 					[
-						"off",
-						"offset"
+						"cmm",
+						"comm-block	Comment - Block style comment"
 					],
 					[
-						"Ex",
-						"Explorer	(glob.js)"
-					],
-					[
-						"blik",
-						"blink_me"
-					],
-					[
-						"po",
-						"pointer"
-					],
-					[
-						"ce",
-						"center"
-					],
-					[
-						"for",
-						"formal_funky_live/"
-					],
-					[
-						"thmb",
-						"thmb-3d"
-					],
-					[
-						"in",
-						"inherit"
-					],
-					[
-						"index",
-						"indexOf"
-					],
-					[
-						"if",
-						"if	if"
-					],
-					[
-						"ab",
-						"absolute"
-					],
-					[
-						"sibling",
-						"siblings"
-					],
-					[
-						"w",
-						"while	while …"
-					],
-					[
-						"border",
-						"border-box"
-					],
-					[
-						"ma",
-						"margin"
-					],
-					[
-						"sta",
-						"static"
-					],
-					[
-						"bs3",
-						"bs3-cdn	bs3-cdn"
-					],
-					[
-						"mak",
-						"mark	 element"
-					],
-					[
-						"mq",
-						"mq	media Query (bootstrap)"
-					],
-					[
-						"md",
-						"md-${1:max"
-					],
-					[
-						"dar",
-						"dark"
-					],
-					[
-						"media",
-						"@media	@media ${1:screen} {\n	${0}\n}"
-					],
-					[
-						"inner",
-						"innerHTML"
-					],
-					[
-						"fin",
-						"find"
-					],
-					[
-						"gete",
-						"getElementById"
-					],
-					[
-						"remove",
-						"remove"
-					],
-					[
-						"comm",
-						"comm-section	Comment - Full section comment"
-					],
-					[
-						"fu",
-						"fusion"
-					],
-					[
-						"fade",
-						"fadeIn"
-					],
-					[
-						"form-",
-						"form-control	 style.scss"
-					],
-					[
-						"width",
-						"width=\"100"
-					],
-					[
-						"defu",
-						"default"
-					],
-					[
-						"def",
-						"default"
-					],
-					[
-						"tra",
-						"transform"
-					],
-					[
-						"ov",
-						"overflow"
-					],
-					[
-						"l",
+						"li",
 						"lighten	lighten()"
 					],
 					[
-						"float",
-						"float:left"
+						"bst-c",
+						"bst-carousel	bst-carousel"
 					],
 					[
-						"btn",
-						"btn99	 style.scss"
-					],
-					[
-						"de",
-						"default	!default"
-					],
-					[
-						"cur",
-						"cursor"
-					],
-					[
-						"margin",
-						"marginLeft"
-					],
-					[
-						"t",
-						"text"
-					],
-					[
-						"clo",
-						"closeAllRightMenu"
-					],
-					[
-						"car",
-						"cart_query"
-					],
-					[
-						"slide",
-						"slider"
-					],
-					[
-						"mo",
-						"mobilediv"
-					],
-					[
-						"cnta",
-						"contact"
-					],
-					[
-						"paren",
-						"parents"
-					],
-					[
-						"asd",
-						"ncurses_assume_default_colors"
-					],
-					[
-						"va",
-						"var"
-					],
-					[
-						"el",
-						"else"
-					],
-					[
-						"mix",
-						"mix	mix()"
-					],
-					[
-						"click",
-						"clicked"
-					],
-					[
-						"doc",
-						"document"
-					],
-					[
-						"has",
-						"hasClass"
-					],
-					[
-						"bor",
-						"border-box"
-					],
-					[
-						"d",
-						"display"
-					],
-					[
-						"bl",
-						"block"
-					],
-					[
-						"op",
-						"op	opacity"
-					],
-					[
-						"box",
-						"box-sizing"
-					],
-					[
-						"bo",
-						"border-box"
-					],
-					[
-						"text",
-						"textarea"
-					],
-					[
-						"form",
-						"form-control	 style.scss"
+						"ta",
+						"tar	target=\"\""
 					],
 					[
 						"con",
-						"console"
+						"container"
 					],
 					[
-						"e",
-						"else"
+						"pro-details",
+						"pro-details-cart.png	w:1337 h:1901"
 					],
 					[
-						"to",
-						"toggle"
-					],
-					[
-						"hi",
-						"hide	 style.scss"
-					],
-					[
-						"add",
-						"addClass"
-					],
-					[
-						"remo",
-						"removeClass"
-					],
-					[
-						"pare",
-						"parent"
-					],
-					[
-						"ba",
-						"backgroundColor"
-					],
-					[
-						"set",
-						"setTimeout"
-					],
-					[
-						"close",
-						"close-btn"
-					],
-					[
-						"wish",
-						"wishTab"
-					],
-					[
-						"sli",
-						"slideUp"
-					],
-					[
-						"bs3-b",
-						"bs3-button	bs3-button"
-					],
-					[
-						"le",
-						"length"
-					],
-					[
-						"pa",
-						"parent"
-					],
-					[
-						"h",
-						"height	Attr"
-					],
-					[
-						"bs3-col",
-						"bs3-col:1	bs3-col-1"
-					],
-					[
-						"fun",
-						"fun	Function"
-					]
-				]
-			},
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 400.0,
-				"selected_items":
-				[
-					[
-						"snippet: ",
-						"Snippet: @if"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"pa",
-						"Package Control: List Packages"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"list",
-						"Package Control: List Packages"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"INSTA",
-						"Package Control: Install Package"
-					],
-					[
-						"next",
-						"Clipboard Manager: Next"
-					],
-					[
-						"clip",
-						"Clipboard Manager: Next"
-					],
-					[
-						"snioo",
-						"Snippet: +++ Shortcut to @import"
+						"PRO",
+						"pro-details.png	w:1335 h:1525"
 					],
 					[
 						"s",
-						"Set Syntax: SCSS"
+						"style	Attr"
 					],
 					[
-						"filde",
-						"FileDiffs: Menu"
+						"ba",
+						"background-size"
 					],
 					[
-						"di",
-						"FileDiffs: Menu"
+						"ui-",
+						"ui-8-steps	ui-8-steps"
 					],
 					[
-						"diff",
-						"FileDiffs: Menu"
+						"ui",
+						"ui-form	ui-form"
 					],
 					[
-						"list pa",
-						"Package Control: List Packages"
+						"ui-drop",
+						"ui-dropdown-icon	ui-dropdown-icon"
 					],
 					[
-						"intall",
-						"Package Control: Install Package"
+						"no",
+						"no-repeat〔value〕"
 					],
 					[
-						"paca",
-						"Package Control: List Packages"
+						"inde",
+						"index.png	w:1360 h:3574"
 					],
 					[
-						"pack li",
-						"Package Control: List Packages"
+						"t",
+						"target	Attr"
 					],
 					[
-						"packa",
-						"Preferences: Browse Packages"
+						"pari",
+						"paritosh.html"
 					],
 					[
-						"pacage",
-						"Package Control: List Packages"
+						"re",
+						"remove〔function〕"
 					],
 					[
-						"#",
-						"Snippet: #!/usr/bin/env"
+						"c",
+						"class"
 					],
-					[
-						"install ",
-						"Package Control: Install Package"
-					],
-					[
-						"insatll",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 472.0
-			},
-			"console":
-			{
-				"height": 126.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/D/www/formalFunky/dev/demo/js/glob.js",
-				"/Y/htdocs/formal_funky_live/include/searchbar.inc.php",
-				"/D/www/Digitalabs/dev/22-jun/.htaccess",
-				"/D/www/Digitalabs/dev/22-jun/css/tidy2.css",
-				"/D/www/Digitalabs/dev/22-jun/index.html",
-				"/D/www/Digitalabs/dev/22-jun/css/tidy.css",
-				"/D/www/Digitalabs/dev/22-jun/index-full-30th-6-15.html",
-				"/Y/htdocs/digitalabs/app/js/blogs.js",
-				"/D/www/formalFunky/dev/localhost/include/searchbar.inc.php",
-				"/D/www/formalFunky/dev/demo/index.php",
-				"/Y/htdocs/formal_funky_live/formal-console/modules/products/add-vp.php",
-				"/Y/htdocs/formal_funky_live/product-detail.php",
-				"/C/Users/Vipul.DIGI/Desktop/anand/New Anand3.htm",
-				"//192.168.0.2/e/Data/Shared/Anand/Sing/New Anand2.htm",
-				"/Y/htdocs/formal_funky_live/js/glob.js",
-				"/Y/htdocs/formal_funky_live/formal-console/modules/products/add-19th-june.php",
-				"/D/www/formalFunky/jade/lib/css/stylesheets/_bootstrap.scss",
-				"/D/www/formalFunky/jade/lib/brands.jade",
-				"/D/www/formalFunky/jade/build/order-history.html",
-				"/D/www/formalFunky/jade/build/css/style.css",
-				"/D/www/formalFunky/jade/Gulpfile.js",
-				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/_close.scss",
-				"/Y/htdocs/formal_funky_live/include/header.inc.php",
-				"/D/www/formalFunky/dev/localhost/product-detail.php",
-				"/D/www/formalFunky/dev/localhost/include/header.inc.php",
-				"/D/www/formalfunky/dev/demo/css/style.css",
-				"/D/www/formalFunky/dev/demo/include/searchbar.inc.php",
-				"/D/www/formalFunky/dev/demo/include/header.inc.php",
-				"/D/www/formalfunky/dev/demo/js/glob.js",
-				"/D/www/formalfunky/dev/demo/quick-view.php",
-				"/D/www/formalfunky/dev/demo/autoload_process.php",
-				"/D/www/formalfunky/dev/demo/product-list.php",
-				"/D/www/formalfunky/dev/demo/productlist.php",
-				"/D/www/formalfunky/dev/demo/product-detail.php",
-				"/D/www/formalFunky/dev/demo/payment-method.php",
-				"/D/www/formalfunky/dev/demo/order-confirm.php",
-				"/D/www/designer images/wp-config.php",
-				"/D/www/formalFunky/dev/localhost/js/glob.js",
-				"/D/www/formalFunky/jade/lib/css/style.scss",
-				"/D/www/formalfunky/dev/demo/include/meta.inc.php",
-				"/D/www/formalfunky/dev/demo/.htaccess",
-				"/Y/htdocs/formal_funky_live/formal-console/modules/index5.html",
-				"/D/www/formalFunky/dev/demo/quick-view.php",
-				"/D/www/formalFunky/dev/demo/include/footer.inc.php",
-				"/D/www/formalFunky/dev/demo/search.php",
-				"/D/www/formalFunky/dev/demo/footer-search.php",
-				"/D/www/formalfunky/dev/demo/my-order.php",
-				"/D/www/formalfunky/dev/demo/include/header.inc.php",
-				"/D/www/formalfunky/dev/demo/order-status.php",
-				"/D/www/formalfunky/dev/demo/payment-process.php",
-				"/D/www/formalFunky/jade/asd.scss",
-				"/D/www/formalfunky/dev/demo/homepopup.php",
-				"/D/www/jaagar/Jade/css/style.css",
-				"/D/www/IndiaSanitationMap/3/index.html",
-				"/D/www/jaagar/Jade/bower_components/fontawesome/scss/_icons.scss",
-				"/D/www/jaagar/Jade/bower_components/fontawesome/scss/_variables.scss",
-				"/D/www/formalfunky/dev/demo/include/footer.inc.php",
-				"/D/www/formalFunky/jade/node_modules/gulp-autoprefixer/node_modules/autoprefixer-core/lib/hacks/align-content.js",
-				"/D/app/SublimeWithSettings/Data/Packages/User/mq.sublime-snippet",
-				"/D/www/formalFunky/dev/demo/include/meta.inc.php",
-				"/D/www/New folder/bootstrap/app/index.html",
-				"/D/www/New folder/bootstrap/gulpfile.js",
-				"/D/www/New folder/iconic/myApp/www/js/app.js",
-				"/D/app/SublimeWithSettings/Data/Packages/User/mkcol.sublime-snippet",
-				"/D/app/SublimeWithSettings/Data/Packages/User/sm.sublime-snippet",
-				"/D/www/formalFunky/dev/demo/css/ftpsync.settings",
-				"/D/www/formalFunky/dev/demo/payment-process.php",
-				"/D/www/formalFunky/dev/demo/product-list.php",
-				"/D/www/formalFunky/jade/pro-list.html",
-				"/D/www/formalFunky/jade/.sass-cache/572e99266765514336d51f77765273c20b2f6191/list-items.scssc",
-				"/D/www/formalFunky/jade/node_modules/gulp-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/features-json/link-icon-svg.json",
-				"/D/www/formalFunky/jade/node_modules/gulp/LICENSE",
-				"/Z/Shared/Jugal/vipul/quick-view.php",
-				"/D/www/formalFunky/quick-view.php",
-				"/D/www/formalFunky/js/glob.js",
-				"/D/www/formalFunky/jade/index.html",
-				"/D/www/renew Power/nn_renew/index.php",
-				"/D/www/formalFunky/dev/demo/productlist.php",
-				"/D/www/formalFunky/dev/demo/product-detail.php",
-				"/D/www/formalFunky/dev/demo/ajax-billing-shipping-address.php",
-				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/_normalize.scss",
-				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/_variables.scss",
-				"/D/www/formalFunky/jade/build/style-404.css",
-				"/D/www/formalFunky/jade/lib/404.jade",
-				"/D/www/formalFunky/dev/demo/404.html",
-				"/D/www/formalFunky/dev/demo/css/style.css",
-				"/D/www/formalFunky/dev/demo/design.php",
-				"/D/app/SublimeWithSettings/Data/Packages/User/Preferences.sublime-settings",
-				"/D/www/formalFunky/dev/demo/contact-us.php",
-				"/D/www/formalFunky/jade/build/js/glob.js",
-				"/D/www/formalFunky/jade/js/glob.js",
-				"/D/www/renew Power/index.php",
-				"/D/www/renew Power/intro_image.php",
-				"/D/www/formalFunky/dev/demo/homepopup.php",
-				"/D/www/formalFunky/dev/demo/my-order.php",
-				"/D/www/formalFunky/dev/demo/order-confirm.php",
-				"/D/www/formalFunky/dev/demo/include/rightnav.inc.php",
-				"/D/www/formalFunky/jade/node_modules/gulp-combine-mq/node_modules/through2/node_modules/readable-stream/node_modules/core-util-is/package.json",
-				"/D/www/formalFunky/jade/lib/js/jquery.creditCardValidator.js",
-				"/D/www/formalFunky/jade/node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/quux/foo/index.js",
-				"/D/www/formalFunky/jade/node_modules/gulp-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/features-json/queryselector.json",
-				"/D/www/formalFunky/jade/lib/css/scss/effeckt.scss",
-				"/C/Users/Vipul.DIGI/Desktop/Effeckt.css-master/Effeckt.css-master/js/Effeckt.js",
-				"/D/www/formalFunky/jade/lib/css/scss/_variables.scss",
-				"/D/www/formalFunky/jade/lib/css/scss/_global.scss",
-				"/D/www/formalFunky/dev/demo/my-wishlist.php",
-				"/D/www/formalFunky/dev/demo/send-message.php",
-				"/C/Users/Vipul.DIGI/Desktop/FileZilla.xml",
-				"/D/www/formalFunky/jade/lib/old/test.html",
-				"/D/www/formalFunky/jade/.sass-cache/5859378ddb048c5027dc34ad066b7a69416345d9/_text-emphasis.scssc",
-				"/D/www/formalFunky/jade/inc/temp.html",
-				"/D/www/formalFunky/dev/demo/js/test.html",
-				"/D/www/formalFunky/dev/demo/login.php",
-				"/D/www/formalFunky/dev/demo/change-password.php",
-				"/D/www/formalFunky/dev/demo/myaccount.php",
-				"/D/www/formalFunky/dev/demo/order-status.php",
-				"/D/www/formalFunky/dev/demo/my-profile.php",
-				"/D/www/formalFunky/dev/demo/pages.php",
-				"/D/www/formalfunky/dev/demo/shopping-cart.php",
-				"/D/www/formalFunky/jade/FF.sublime-project",
-				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/mixins/_gradients.scss",
-				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/mixins/_opacity.scss",
-				"/D/www/formalFunky/jade/lib/css/stylesheets/_bootstrap-sprockets.scss",
-				"/D/www/formalFunky/jade/lib/pro-detail.jade",
-				"/D/app/SublimeWithSettings/Data/Packages/Default/Default (Windows).sublime-keymap",
-				"/D/app/SublimeWithSettings/Data/Packages/Package Control/Package Control.sublime-settings",
-				"/D/www/mukulgoyal/dev/wp-content/themes/dante/header-alt.php",
-				"/D/www/mukulgoyal/dev/wp-content/themes/dante/single.php"
-			],
-			"find":
-			{
-				"height": 36.0
-			},
-			"find_in_files":
-			{
-				"height": 90.0,
-				"where_history":
-				[
-					"D:\\www\\formalFunky\\jade",
-					"C:\\Users\\vipul\\Desktop\\New folder",
-					"D:\\css"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"$light-primary-color",
-					"red",
-					".txt",
-					"   ",
-					"style>",
-					"()});</",
-					".js",
-					"all-pro-note",
-					"alert-info",
-					"<i class=\"fa fa-remove search-close-btn\"></i> <div class=\"cl\"></div>",
-					"Y:/",
-					"Y:",
-					"y:",
-					"Y:",
-					"fff",
-					".cart-pro",
-					"brand",
-					"anand",
-					"oImg",
-					"left",
-					"setOverlayImage",
-					"BringTo",
-					"getimagesize",
-					"printImage",
-					"imageHeight",
-					"<?=$imageHeight?>",
-					" function(img)",
-					"function(img)",
-					"<?=$printImage?>",
-					"dragdealer",
-					"rating",
-					"Math",
-					"8",
-					"1",
-					"slider",
-					"demo-simple-slider",
-					"dragdealer",
-					"Dragdealer",
-					".js",
-					"btn.btn-primary",
-					"info",
-					"cart-pro",
-					"Galexy",
-					"Galexy S2 Case",
-					"title-",
-					"title",
-					"brnd",
-					"item-desc\n            .title",
-					"item-desc\n            .title ",
-					"title",
-					".cart-pro",
-					"500",
-					"search-tmpl",
-					".search-tmpl ",
-					".search-tmpl",
-					".srch-main",
-					"(0",
-					"10",
-					"extend",
-					"SITE_PATH",
-					"thmb-3d",
-					"p-thmb",
-					"thmb-3d",
-					".pro",
-					".p-thmb",
-					"p-thmb",
-					"main2",
-					"thmb-3d",
-					"column",
-					"summary",
-					"summary-inner",
-					"slide",
-					".wishlist-tab",
-					"I accept the",
-					"I accept the ",
-					"I accept the",
-					"\".wish\"",
-					".wish",
-					"tabOpen",
-					".wish-tab",
-					".enterPressed",
-					"images/wish-tab.png",
-					"homeSearch",
-					"searchBarH",
-					"homeSearch",
-					"closeAllRightMenu",
-					" wishTab()",
-					".srch-main",
-					"srch-main",
-					"slide",
-					"srch-main2",
-					"<div class=\"cl\"></div>",
-					" <div class=\"cl\"></div>",
-					"<div class=\"cl\"></div>",
-					"<i class=\"fa fa-remove search-close-btn\"></i>",
-					"search-close-btn",
-					"srch-main",
-					"});\n",
-					"= 13",
-					"=13",
-					"== 13",
-					"13",
-					"13 ==",
-					"keyCode",
-					"keyCode ",
-					".home-nav",
-					"flag =",
-					"flag",
-					"closeAllRightMenu",
-					"home",
-					".srch-main li",
-					"event",
-					".pro-img",
-					"demo",
-					"qty",
-					"bxbx",
-					"my-ac",
-					"user",
-					"main-side",
-					"utility",
-					"my-ac",
-					"login",
-					"Login",
-					".btn-lg",
-					".search-frm",
-					".register",
-					".fb-soci",
-					".lead"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"500"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 30.0
-			},
-			"input":
-			{
-				"height": 34.0
-			},
-			"menu_visible": true,
-			"output.CSS Extended Completions":
-			{
-				"height": 0.0
-			},
-			"output.clipboard_manager":
-			{
-				"height": 116.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"replace":
-			{
-				"height": 56.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"t-list",
-						"dev\\demo\\product-list.php"
-					],
-					[
-						"glo",
-						"D:\\www\\formalFunky\\dev\\demo\\js\\glob.js"
-					],
-					[
-						"tes",
-						"lib\\old\\test.html"
-					],
-					[
-						"",
-						"css\\style.scss"
-					],
-					[
-						"gra",
-						"css\\stylesheets\\bootstrap\\mixins\\_gradients.scss"
-					],
-					[
-						"pro-li",
-						"lib\\pro-list.jade"
-					],
-					[
-						"pr",
-						"lib\\pro-list.jade"
-					],
-					[
-						"style.scss",
-						"lib\\css\\style.scss"
-					],
-					[
-						"_gradients.scss",
-						"lib\\css\\stylesheets\\bootstrap\\mixins\\_gradients.scss"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"selected_items":
-				[
-					[
-						"",
-						"D:\\www\\jaagar\\Jade\\lib\\inc\\Jaagar.sublime-project"
-					]
-				],
-				"width": 380.0
-			},
-			"select_symbol":
-			{
-				"height": 38.0,
-				"selected_items":
-				[
-					[
-						"html",
-						"html"
-					],
-					[
-						"pro-for",
-						".pro-for"
-					],
-					[
-						".p-name",
-						".p-name"
-					],
-					[
-						"small-rating",
-						".small-rating"
-					],
-					[
-						".pro-short-disc",
-						".pro-short-disc"
-					],
-					[
-						".total-rating-review",
-						".total-rating-review"
-					],
-					[
-						"sort-by",
-						".sort-by"
-					],
-					[
-						"item-desc",
-						".item-desc"
-					],
-					[
-						"main2",
-						".main2"
-					],
-					[
-						"srch",
-						".srch-bar"
-					],
-					[
-						".srch-main",
-						".srch-main"
-					],
-					[
-						"shipping-address",
-						"&.shipping-address"
-					],
-					[
-						"qv-popup-container",
-						".qv-popup-container"
-					],
-					[
-						"shake",
-						".shake"
-					],
-					[
-						"srch-main",
-						".srch-main"
-					]
-				],
-				"width": 400.0
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 243.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 1902.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
 					[
 						"z",
 						"spaze-logo.png	w:100 h:100"
@@ -990,10 +146,6 @@
 						"text"
 					],
 					[
-						"c",
-						"class	Attr"
-					],
-					[
 						"fa-",
 						"fa-angle-left	 style.scss"
 					],
@@ -1014,10 +166,6 @@
 						"dots.jpg	w:5 h:21"
 					],
 					[
-						"li",
-						"link	Tag"
-					],
-					[
 						"coun",
 						"countdown	(main.js)"
 					],
@@ -1028,10 +176,6 @@
 					[
 						"po",
 						"pointer"
-					],
-					[
-						"no",
-						"normal"
 					],
 					[
 						"remove",
@@ -1178,10 +322,6 @@
 						"marginLeft"
 					],
 					[
-						"t",
-						"text"
-					],
-					[
 						"clo",
 						"closeAllRightMenu"
 					],
@@ -1258,10 +398,6 @@
 						"form-control	 style.scss"
 					],
 					[
-						"con",
-						"console"
-					],
-					[
 						"e",
 						"else"
 					],
@@ -1286,8 +422,1089 @@
 						"parent"
 					],
 					[
+						"set",
+						"setTimeout"
+					],
+					[
+						"close",
+						"close-btn"
+					],
+					[
+						"wish",
+						"wishTab"
+					],
+					[
+						"sli",
+						"slideUp"
+					],
+					[
+						"bs3-b",
+						"bs3-button	bs3-button"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"pa",
+						"parent"
+					],
+					[
+						"h",
+						"height	Attr"
+					],
+					[
+						"bs3-col",
+						"bs3-col:1	bs3-col-1"
+					],
+					[
+						"fun",
+						"fun	Function"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"snippet: ",
+						"Snippet: @if"
+					],
+					[
+						"pa",
+						"Package Control: List Packages"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"INSTA",
+						"Package Control: Install Package"
+					],
+					[
+						"next",
+						"Clipboard Manager: Next"
+					],
+					[
+						"clip",
+						"Clipboard Manager: Next"
+					],
+					[
+						"snioo",
+						"Snippet: +++ Shortcut to @import"
+					],
+					[
+						"s",
+						"Set Syntax: SCSS"
+					],
+					[
+						"filde",
+						"FileDiffs: Menu"
+					],
+					[
+						"di",
+						"FileDiffs: Menu"
+					],
+					[
+						"diff",
+						"FileDiffs: Menu"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					],
+					[
+						"intall",
+						"Package Control: Install Package"
+					],
+					[
+						"paca",
+						"Package Control: List Packages"
+					],
+					[
+						"pack li",
+						"Package Control: List Packages"
+					],
+					[
+						"packa",
+						"Preferences: Browse Packages"
+					],
+					[
+						"pacage",
+						"Package Control: List Packages"
+					],
+					[
+						"#",
+						"Snippet: #!/usr/bin/env"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"insatll",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 536.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/www/sargam/HTML/12-8-2015/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss",
+				"/D/www/sargam/HTML/12-8-2015/lib/sass/_my-mixn",
+				"/D/www/sargam/HTML/12-8-2015/css/style.css",
+				"/D/www/sargam/HTML/12-8-2015/lib/sass/_my-mixn.scss",
+				"/D/www/jaagar/Jade/lib/sass/style.scss",
+				"/D/www/sargam/HTML/12-8-2015/lib/config.rb",
+				"/D/www/sargam/HTML/12-8-2015/lib/sass/config.rb",
+				"/D/www/Digitalabs/RAW/digitalabs.in/Gulpfile.js",
+				"/D/www/sargam/HTML/12-8-2015/Gulpfile.js",
+				"/D/www/jaagar/Jade/lib/config.rb",
+				"/D/www/sargam/HTML/12-8-2015/lib/style.scss",
+				"/D/www/Digitalabs/RAW/html/new theme/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-gifsicle/node_modules/gifsicle/node_modules/bin-build/node_modules/download/node_modules/gulp-rename/Gulpfile.js",
+				"/D/www/Digitalabs/RAW/html/new theme/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-gifsicle/node_modules/gifsicle/node_modules/bin-wrapper/node_modules/download/node_modules/gulp-rename/Gulpfile.js",
+				"/D/www/Digitalabs/RAW/html/new theme/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-jpegtran/node_modules/jpegtran-bin/node_modules/bin-build/node_modules/download/node_modules/gulp-rename/Gulpfile.js",
+				"/D/www/Digitalabs/RAW/html/new theme/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-optipng/node_modules/optipng-bin/node_modules/bin-wrapper/node_modules/download/node_modules/gulp-rename/Gulpfile.js",
+				"/D/www/Digitalabs/RAW/html/new theme/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-pngquant/node_modules/pngquant-bin/node_modules/bin-build/node_modules/download/node_modules/gulp-rename/Gulpfile.js",
+				"/D/www/Digitalabs/RAW/html/new theme/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-pngquant/node_modules/pngquant-bin/node_modules/bin-wrapper/node_modules/download/node_modules/gulp-rename/Gulpfile.js",
+				"/D/www/Digitalabs/RAW/html/new theme/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/node_modules/underscore.string/gulpfile.js",
+				"/D/www/formalFunky/jade/node_modules/browser-sync/node_modules/browser-sync-client/gulpfile.js",
+				"/D/www/Heidi Merrick/2/menu2.html",
+				"/C/Users/Vipul.DIGI/Desktop/ButtonComponentMorph/ButtonComponentMorph/js/classie.js",
+				"/C/Users/Vipul.DIGI/Desktop/ButtonComponentMorph/ButtonComponentMorph/js/modernizr.custom.js",
+				"/C/Users/Vipul.DIGI/Desktop/ButtonComponentMorph/ButtonComponentMorph/index2.html",
+				"/C/Users/Vipul.DIGI/Desktop/css.html",
+				"/D/www/Heidi Merrick/1/index.html",
+				"/D/www/Heidi Merrick/2/pro-details-cart.html",
+				"/D/www/care2Earn/color-font/bank-page.html",
+				"/D/www/care2Earn/color-font/result2.html",
+				"/D/www/care2Earn/color-font/home-green-active.html",
+				"/D/www/care2Earn/color-font/home-green-with-bg.html",
+				"/D/www/New folder/uikit/full project/semantic/index.html",
+				"/D/www/care2Earn/color-font/quick-view.html",
+				"/D/www/New folder/uikit/full project/semantic/src/semantic.less",
+				"/D/www/New folder/uikit/css/style.css",
+				"/D/www/New folder/uikit/css/style.scss",
+				"/D/www/New folder/uikit/index.html",
+				"/D/www/care2Earn/color-font/home-green.html",
+				"/D/www/care2Earn/color-font/home-ORD.html",
+				"/D/www/care2Earn/color-font/dark-green.html",
+				"/D/www/care2Earn/color-font/light-green.html",
+				"/D/www/care2Earn/color-font/form-with-bg.html",
+				"/D/www/care2Earn/color-font/home-blue.html",
+				"/D/www/care2Earn/color-font/result.html",
+				"/D/www/care2Earn/color-font/mouse-over.html",
+				"/D/www/care2Earn/color-font/form-with-bg2.html",
+				"/D/www/care2Earn/color-font/blue-open sans.html",
+				"/D/www/care2Earn/color-font/alice.html",
+				"/D/www/care2Earn/color-font/7icon.html",
+				"/D/www/care2Earn/color-font/blue-color-font - open sans.html",
+				"/D/www/New folder/f/project/scss/_settings.scss",
+				"/D/www/New folder/f/project/scss/app.scss",
+				"/C/Users/Vipul.DIGI/Desktop/mouse rotating/mouse rotating/js/mycode.js",
+				"/C/Users/Vipul.DIGI/Desktop/mouse rotating/mouse rotating/index.html",
+				"/D/www/care2Earn/new/index.html",
+				"/C/Users/Vipul.DIGI/Desktop/style.scss",
+				"/D/www/DishisJewels/pro-list.html",
+				"/D/app/404.css",
+				"/D/app/404.html",
+				"/D/www/Penny Accommodation/2/index.html",
+				"/D/www/Jade/lib/temp/header.jade",
+				"/D/www/formalFunky/jade/lib/index.jade",
+				"/D/www/Jade/lib/index.html",
+				"/D/www/Jade/lib/css/style.css",
+				"/D/www/Jade/lib/temp/_temp2.jade",
+				"/D/www/Jade/lib/index.jade",
+				"/D/www/Jade/lib/about.jade",
+				"/D/www/Jade/lib/temp/temp.jade",
+				"/C/Users/Vipul.DIGI/Desktop/Assignment - Vipul Sharma/Assignment - Vipul Sharma/readme.md",
+				"/D/www/formalFunky/jade/lib/team.jade",
+				"/D/www/formalFunky/jade/lib/inc/homeTemp.jade",
+				"/D/www/DishisJewels/index.html",
+				"/D/FileZilla.xml",
+				"/D/www/t-tox/dev/styles/main.css",
+				"/D/www/T-Tox/dev/scripts/main.js",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/sitemap.php",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/guides/config.php",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/guides/_a1fce924",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/sitemap.xml",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/fencing-articles.html",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/fence-repairs.html",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/contact-us.html",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/areas-we-cover.html",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/accessories.html",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/fencing.html",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/gallery.html",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/gates.html",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/guides/index.php",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/index.html",
+				"/C/Users/Vipul.DIGI/Desktop/access_log.processed",
+				"//SERVER/xampp/htdocs/3d/js/3djs.js",
+				"//SERVER/xampp/htdocs/3d/index.html",
+				"/E/Ajay Old Backup/AJAY/zen-mobile/3D-10-6/header.inc.php",
+				"/E/Ajay Old Backup/AJAY/zen-mobile/3D-10-6/index.php",
+				"/E/Ajay Old Backup/AJAY/zen-mobile/3D-10-6/js/3djs.js",
+				"/Y/htdocs/3d/index.html",
+				"/Y/htdocs/3d/header.inc.php",
+				"/C/Users/Vipul.DIGI/Desktop/skrollr-menu-master/skrollr-menu-master/index.html",
+				"/D/www/DIgitalabs/dev/22-jun/index.html",
+				"/C/Users/Vipul.DIGI/Desktop/skrollr-decks-master/skrollr-decks-master/index.html",
+				"/D/www/DIgitalabs/dev/22-jun/blog/wp-content/themes/blog/assests/css/style.css",
+				"/D/www/formalFunky/jade/lib/carts.jade",
+				"/D/www/formalFunky/jade/lib/inc/default-scripts.jade",
+				"/D/www/t-tox/dev/scripts/main.js",
+				"/D/www/T-Tox/html/gulpfile.js",
+				"/D/www/meraloan/2/index.html",
+				"/D/www/nalt/dev/index.php",
+				"/C/Users/Vipul.DIGI/Desktop/Assignment - Vipul Sharma/Assignment - Vipul Sharma/index.html",
+				"/C/Users/Vipul.DIGI/Desktop/Assignment - Vipul Sharma/Assignment - Vipul Sharma/js/bootstrap-tabcollapse.js",
+				"/D/www/meraloan/index.html",
+				"/Y/htdocs/formal_funky_live/formal-console/modules/print_stickers.php",
+				"/D/www/Nalt/dev/index.php",
+				"/D/www/nalt/dev/css/style.css",
+				"/D/www/nalt/dev/speaker.html",
+				"/D/www/nalt/dev/timer.html",
+				"/D/www/nalt/dev/relationship.html",
+				"/D/www/nalt/dev/ramon.html",
+				"/D/www/nalt/dev/paritosh.html",
+				"/D/www/nalt/dev/nandini2.html",
+				"/D/www/nalt/dev/neeraj.html",
+				"/D/www/nalt/dev/nandini.html",
+				"/D/www/nalt/dev/nandini-post.html",
+				"/D/www/nalt/dev/gulraj.html",
+				"/D/www/nalt/dev/blog.html",
+				"/D/www/digitalabs/index.html",
+				"/D/www/Nalt/dev/css/style.css",
+				"/D/www/Digitalabs/localhost/css/tidy2.css",
+				"/D/www/Digitalabs/localhost/css/tidy.css",
+				"/D/www/Digitalabs/localhost/index-full.html"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 122.0,
+				"where_history":
+				[
+					"D:\\www\\DG Fencing\\DG Fencing(21st July 12)",
+					"D:\\www\\formalFunky\\jade",
+					"C:\\Users\\vipul\\Desktop\\New folder",
+					"D:\\css"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"last",
+					".nav > li > a:hover",
+					".nav > li > a:hover, .nav > li > a:focus",
+					"3",
+					"32",
+					"radius",
+					"$btn-primary-bg",
+					"$brand-primary",
+					"primary",
+					"primary ",
+					"-default",
+					"btn-primary",
+					"$brand-success",
+					"6d7a1e",
+					"#6d7a1e",
+					"5b6619",
+					"6d7a1e",
+					"#6d7a1e",
+					"primary",
+					"3",
+					", 0px",
+					"padding:15px 10px;",
+					"5px",
+					"desktop",
+					"container-lg-desktop:    ",
+					"container",
+					"container-lg",
+					"container",
+					"1175",
+					"1175px",
+					"1140px",
+					"$grid-gutter-width",
+					"$container-large-desktop",
+					"container",
+					":	",
+					" ",
+					"	a",
+					"li\n	a",
+					"li",
+					".ui.normal",
+					".max.example ",
+					"body",
+					"\"uikit/",
+					"uikit",
+					"function",
+					"orac",
+					".logo",
+					"get_url_path",
+					"ul",
+					"sitemap_links",
+					"links",
+					"sitemap_links",
+					"Sitemap",
+					"guides",
+					" - <a href=\"http://www.dg-fencing.co.uk/guides/\" title=\"Guides\">Guides</a>",
+					"http://www.dg-fencing.co.uk/guides/",
+					" /guides/dg-fencing.php",
+					"wrap3d",
+					".social .cart",
+					".cart",
+					"logo",
+					"border-radius",
+					"border-right",
+					"px) and (",
+					".social",
+					".main",
+					".social",
+					"logo",
+					"Gold",
+					"facebo",
+					"speaker.html",
+					"faceb",
+					"img",
+					"Buy",
+					"ticket",
+					"Tickets",
+					"#home",
+					"#homr",
+					"max-",
+					"mobile",
+					"stellar",
+					".js",
+					">\n",
+					"hide-mobi",
+					"team-link",
+					"hidd",
+					"hide",
+					"\"images\"",
+					"11694981_10153626297003676_1806495503485183236_n1-672x372.jpg",
+					"http://www.digitalabs.in/blog/wp-content/uploads/2015/07/11694981_10153626297003676_1806495503485183236_n1-672x372.jpg",
+					"117",
+					"time-txt",
+					"countd",
+					"timer",
+					"skr",
+					".js",
+					"scrollspy",
+					".js",
+					"js",
+					"\n$('",
+					"scroll",
+					"900",
+					"iframe",
+					"canvasprint",
+					"objp",
+					"objid",
+					"clone",
+					"canvas.toDataURL()",
+					"img_id",
+					"chnageimage2d",
+					"toDataURL(",
+					"toDataURL",
+					"img",
+					"dataur",
+					"$scale_x=='' && $scale_y=='')?'.s",
+					"thanku",
+					"canvasprint",
+					"Stemp",
+					"getActiveObject(canvas.item",
+					").get",
+					"objp",
+					"lowerCanvasEl",
+					"canvas1",
+					"glyphicon",
+					".glyphicon",
+					"glyphicon",
+					"scale",
+					"glyphicon"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					" - <a href=\"http://www.dg-fencing.co.uk/guides/\" title=\"Guides\">Guides</a>",
+					"500"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"menu_visible": true,
+			"output.CSS Extended Completions":
+			{
+				"height": 0.0
+			},
+			"output.clipboard_manager":
+			{
+				"height": 116.0
+			},
+			"output.exec":
+			{
+				"height": 128.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"t-list",
+						"dev\\demo\\product-list.php"
+					],
+					[
+						"glo",
+						"D:\\www\\formalFunky\\dev\\demo\\js\\glob.js"
+					],
+					[
+						"tes",
+						"lib\\old\\test.html"
+					],
+					[
+						"",
+						"css\\style.scss"
+					],
+					[
+						"gra",
+						"css\\stylesheets\\bootstrap\\mixins\\_gradients.scss"
+					],
+					[
+						"pro-li",
+						"lib\\pro-list.jade"
+					],
+					[
+						"pr",
+						"lib\\pro-list.jade"
+					],
+					[
+						"style.scss",
+						"lib\\css\\style.scss"
+					],
+					[
+						"_gradients.scss",
+						"lib\\css\\stylesheets\\bootstrap\\mixins\\_gradients.scss"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"",
+						"D:\\www\\jaagar\\Jade\\lib\\inc\\Jaagar.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 38.0,
+				"selected_items":
+				[
+					[
+						"html",
+						"html"
+					],
+					[
+						"pro-for",
+						".pro-for"
+					],
+					[
+						".p-name",
+						".p-name"
+					],
+					[
+						"small-rating",
+						".small-rating"
+					],
+					[
+						".pro-short-disc",
+						".pro-short-disc"
+					],
+					[
+						".total-rating-review",
+						".total-rating-review"
+					],
+					[
+						"sort-by",
+						".sort-by"
+					],
+					[
+						"item-desc",
+						".item-desc"
+					],
+					[
+						"main2",
+						".main2"
+					],
+					[
+						"srch",
+						".srch-bar"
+					],
+					[
+						".srch-main",
+						".srch-main"
+					],
+					[
+						"shipping-address",
+						"&.shipping-address"
+					],
+					[
+						"qv-popup-container",
+						".qv-popup-container"
+					],
+					[
+						"shake",
+						".shake"
+					],
+					[
+						"srch-main",
+						".srch-main"
+					]
+				],
+				"width": 400.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 243.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1902.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"co",
+						"collapse"
+					],
+					[
+						"btn-d",
+						"btn-default"
+					],
+					[
+						"car",
+						"cart	(style.scss)"
+					],
+					[
+						"price",
+						"pro-price	 vip-sprite.scss"
+					],
+					[
+						"thumb",
+						"thumbnail	(style.css)"
+					],
+					[
+						"images",
+						"images_dir	(config-gulp.rb)"
+					],
+					[
+						"dot",
+						"dotted;outline	(style.css)"
+					],
+					[
+						"list",
+						"list	list-style-type"
+					],
+					[
+						"main",
+						"title-main	 vip-sprite.scss"
+					],
+					[
+						"f",
+						"function"
+					],
+					[
+						"scr",
+						"scroll	(style.css)"
+					],
+					[
+						"arro",
+						"arrow-navi	 style.scss"
+					],
+					[
+						"icons-a",
+						"icons-left-arrow	 style.scss"
+					],
+					[
+						"icons",
+						"icons-login	 vip-sprite.css"
+					],
+					[
+						"icons-twiter",
+						"icons-twitter	 vip-sprite.css"
+					],
+					[
+						"clear",
+						"clearfix"
+					],
+					[
+						"pro",
+						"pro-img"
+					],
+					[
+						"btn-",
+						"btn-lg"
+					],
+					[
+						"con",
+						"container"
+					],
+					[
+						"cmm",
+						"comm-block	Comment - Block style comment"
+					],
+					[
+						"li",
+						"lighten	lighten()"
+					],
+					[
+						"bst-c",
+						"bst-carousel	bst-carousel"
+					],
+					[
+						"ta",
+						"tar	target=\"\""
+					],
+					[
+						"pro-details",
+						"pro-details-cart.png	w:1337 h:1901"
+					],
+					[
+						"PRO",
+						"pro-details.png	w:1335 h:1525"
+					],
+					[
+						"s",
+						"style	Attr"
+					],
+					[
 						"ba",
-						"backgroundColor"
+						"background-size"
+					],
+					[
+						"ui-",
+						"ui-8-steps	ui-8-steps"
+					],
+					[
+						"ui",
+						"ui-form	ui-form"
+					],
+					[
+						"ui-drop",
+						"ui-dropdown-icon	ui-dropdown-icon"
+					],
+					[
+						"no",
+						"no-repeat〔value〕"
+					],
+					[
+						"inde",
+						"index.png	w:1360 h:3574"
+					],
+					[
+						"t",
+						"target	Attr"
+					],
+					[
+						"pari",
+						"paritosh.html"
+					],
+					[
+						"re",
+						"remove〔function〕"
+					],
+					[
+						"c",
+						"class"
+					],
+					[
+						"z",
+						"spaze-logo.png	w:100 h:100"
+					],
+					[
+						"lg-",
+						"lg-logo.jpg	w:100 h:100"
+					],
+					[
+						"slider-",
+						"slider-neeraj.jpg	w:1360 h:580"
+					],
+					[
+						"ban",
+						"banner01.jpg	w:1360 h:580"
+					],
+					[
+						"in",
+						"inline"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"te",
+						"text"
+					],
+					[
+						"fa-",
+						"fa-angle-left	 style.scss"
+					],
+					[
+						"bl",
+						"blog-img1.jpg	w:312 h:315"
+					],
+					[
+						"rel",
+						"relative"
+					],
+					[
+						"com",
+						"comm-html	Comment - HTML comment"
+					],
+					[
+						"do",
+						"dots.jpg	w:5 h:21"
+					],
+					[
+						"coun",
+						"countdown	(main.js)"
+					],
+					[
+						"op",
+						"option	Tag"
+					],
+					[
+						"po",
+						"pointer"
+					],
+					[
+						"remove",
+						"removeClass〔function〕"
+					],
+					[
+						"ce",
+						"center"
+					],
+					[
+						"for",
+						"formal_funky_live/"
+					],
+					[
+						"thmb",
+						"thmb-3d"
+					],
+					[
+						"index",
+						"indexOf"
+					],
+					[
+						"if",
+						"if	if"
+					],
+					[
+						"ab",
+						"absolute"
+					],
+					[
+						"sibling",
+						"siblings"
+					],
+					[
+						"w",
+						"while	while …"
+					],
+					[
+						"border",
+						"border-box"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"sta",
+						"static"
+					],
+					[
+						"bs3",
+						"bs3-cdn	bs3-cdn"
+					],
+					[
+						"mak",
+						"mark	 element"
+					],
+					[
+						"mq",
+						"mq	media Query (bootstrap)"
+					],
+					[
+						"md",
+						"md-${1:max"
+					],
+					[
+						"dar",
+						"dark"
+					],
+					[
+						"media",
+						"@media	@media ${1:screen} {\n	${0}\n}"
+					],
+					[
+						"inner",
+						"innerHTML"
+					],
+					[
+						"fin",
+						"find"
+					],
+					[
+						"gete",
+						"getElementById"
+					],
+					[
+						"comm",
+						"comm-section	Comment - Full section comment"
+					],
+					[
+						"fu",
+						"fusion"
+					],
+					[
+						"fade",
+						"fadeIn"
+					],
+					[
+						"form-",
+						"form-control	 style.scss"
+					],
+					[
+						"width",
+						"width=\"100"
+					],
+					[
+						"defu",
+						"default"
+					],
+					[
+						"def",
+						"default"
+					],
+					[
+						"tra",
+						"transform"
+					],
+					[
+						"ov",
+						"overflow"
+					],
+					[
+						"l",
+						"lighten	lighten()"
+					],
+					[
+						"float",
+						"float:left"
+					],
+					[
+						"btn",
+						"btn99	 style.scss"
+					],
+					[
+						"de",
+						"default	!default"
+					],
+					[
+						"cur",
+						"cursor"
+					],
+					[
+						"margin",
+						"marginLeft"
+					],
+					[
+						"clo",
+						"closeAllRightMenu"
+					],
+					[
+						"slide",
+						"slider"
+					],
+					[
+						"mo",
+						"mobilediv"
+					],
+					[
+						"cnta",
+						"contact"
+					],
+					[
+						"paren",
+						"parents"
+					],
+					[
+						"asd",
+						"ncurses_assume_default_colors"
+					],
+					[
+						"va",
+						"var"
+					],
+					[
+						"el",
+						"else"
+					],
+					[
+						"mix",
+						"mix	mix()"
+					],
+					[
+						"click",
+						"clicked"
+					],
+					[
+						"doc",
+						"document"
+					],
+					[
+						"has",
+						"hasClass"
+					],
+					[
+						"bor",
+						"border-box"
+					],
+					[
+						"d",
+						"display"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"bo",
+						"border-box"
+					],
+					[
+						"text",
+						"textarea"
+					],
+					[
+						"form",
+						"form-control	 style.scss"
+					],
+					[
+						"e",
+						"else"
+					],
+					[
+						"to",
+						"toggle"
+					],
+					[
+						"hi",
+						"hide	 style.scss"
+					],
+					[
+						"add",
+						"addClass"
+					],
+					[
+						"remo",
+						"removeClass"
+					],
+					[
+						"pare",
+						"parent"
 					],
 					[
 						"set",
@@ -1334,42 +1551,82 @@
 			"buffers":
 			[
 				{
-					"file": "/D/www/Digitalabs/localhost/css/tidy.css",
+					"file": "lib/sass/style.scss",
 					"settings":
 					{
-						"buffer_size": 87694,
+						"buffer_size": 14852,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/Y/htdocs/formal_funky_live/formal-console/modules/products/add-test-vp.php",
+					"file": "/D/www/turnjs4/samples/magazine/index.html",
 					"settings":
 					{
-						"buffer_size": 27732,
+						"buffer_size": 9256,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "js/glob.js",
+					"settings":
+					{
+						"buffer_size": 583,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/www/digitalabs/localhost/index2.html",
+					"file": "lib/inc/_temp.jade",
 					"settings":
 					{
-						"buffer_size": 50155,
+						"buffer_size": 699,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/www/digitalabs/localhost/index.html",
+					"file": "lib/detail.jade",
 					"settings":
 					{
-						"buffer_size": 50575,
+						"buffer_size": 2297,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/Y/htdocs/formal_funky_live/formal-console/modules/products/add-test.php",
+					"file": "lib/inc/_footer.jade",
 					"settings":
 					{
-						"buffer_size": 27877,
+						"buffer_size": 1903,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "Gulpfile.js",
+					"settings":
+					{
+						"buffer_size": 2258,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 132473,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "lib/config-gulp.rb",
+					"settings":
+					{
+						"buffer_size": 889,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "lib/config.rb",
+					"settings":
+					{
+						"buffer_size": 914,
 						"line_ending": "Windows"
 					}
 				}
@@ -1381,12 +1638,20 @@
 				"selected_items":
 				[
 					[
-						"snippet: ",
-						"Snippet: @if"
+						"ins",
+						"Package Control: Install Package"
 					],
 					[
 						"insta",
 						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"snippet: ",
+						"Snippet: @if"
 					],
 					[
 						"pa",
@@ -1401,19 +1666,11 @@
 						"Package Control: List Packages"
 					],
 					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
 						"remove",
 						"Package Control: Remove Package"
 					],
 					[
 						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
 						"Package Control: Install Package"
 					],
 					[
@@ -1506,147 +1763,154 @@
 			},
 			"expanded_folders":
 			[
+				"/D/www/sargam/HTML/12-8-2015",
+				"/D/www/sargam/HTML/12-8-2015/bower_components",
+				"/D/www/sargam/HTML/12-8-2015/bower_components/bootstrap-sass-official",
+				"/D/www/sargam/HTML/12-8-2015/js",
+				"/D/www/sargam/HTML/12-8-2015/lib",
+				"/D/www/sargam/HTML/12-8-2015/lib/inc"
 			],
 			"file_history":
 			[
-				"/D/www/digitalabs/localhost/index.html",
-				"/Y/htdocs/formal_funky_live/formal-console/modules/products/add-test.php",
-				"/Y/htdocs/formal_funky_live/formal-console/modules/products/add-vp.php",
-				"/D/www/Digitalabs/localhost/index.html",
-				"/D/www/Digitalabs/localhost/js/blogs.js",
-				"/C/Users/Vipul.DIGI/Desktop/3d.html",
-				"/D/www/Digitalabs/localhost/css/tidy.css",
-				"/D/www/Nalt/dev/relationship.html",
-				"/D/www/nalt/dev/nandini-post.html",
-				"/D/www/Nalt/dev/nandini.html",
-				"/D/www/Nalt/dev/index.php",
-				"/D/www/Nalt/dev/css/style.css",
-				"/D/www/Nalt/html/index.html",
-				"/D/www/digitalabs/dev/22-jun/index.html",
-				"/D/www/nalt/dev/css/style.css",
-				"/D/www/nalt/dev/index.php",
-				"/D/www/nalt/dev/neeraj.html",
-				"/D/www/nalt/dev/ramon.html",
-				"/D/www/nalt/dev/gulraj.html",
-				"/D/www/nalt/dev/nandini.html",
-				"/D/www/nalt/dev/speaker.html",
-				"/D/www/nalt/dev/blog.html",
-				"/D/www/Nalt/dev/nandini2.html",
-				"/D/www/aispl store/custom/invoice-licence.css",
-				"/D/www/nalt/dev/layout-styles.css",
-				"/D/www/aispl store/custom/invoice.php",
-				"/D/www/aispl store/custom/licence.php",
+				"/D/www/sargam/HTML/12-8-2015/lib/inc/_temp-aside.jade",
+				"/D/www/sargam/HTML/12-8-2015/bower_components/seiyria-bootstrap-slider/sass/slider.scss",
+				"/D/www/sargam/HTML/12-8-2015/js/bootstrap-slider.js",
+				"/D/www/sargam/HTML/12-8-2015/lib/inc/_aside.jade",
+				"/D/www/sargam/HTML/12-8-2015/lib/inc/_header.jade",
+				"/D/www/sargam/HTML/12-8-2015/lib/inc/_product.jade",
+				"/D/www/sargam/HTML/12-8-2015/lib/index.jade",
+				"/D/www/sargam/HTML/12-8-2015/lib/sass/style.scss",
+				"/D/www/sargam/HTML/12-8-2015/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_variables.scss",
+				"/D/www/sargam/HTML/12-8-2015/lib/inc/_banner.jade",
+				"/D/www/sargam/HTML/12-8-2015/lib/inc/Jaagar.sublime-project",
+				"/D/www/sargam/HTML/12-8-2015/js/glob.js",
+				"/D/www/sargam/HTML/12-8-2015/lib/inc/_nav.jade",
+				"/D/www/sargam/HTML/12-8-2015/lib/inc/_footer.jade",
+				"/D/www/sargam/HTML/12-8-2015/lib/sass/vip-sprite.scss",
+				"/D/www/sargam/HTML/12-8-2015/lib/sass/vip-sprite.css",
+				"/D/www/sargam/HTML/12-8-2015/lib/sass/_vip-sprite.css",
+				"/D/www/sargam/HTML/12-8-2015/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_dropdowns.scss",
+				"/D/www/sargam/HTML/12-8-2015/lib/inc/_title-main.jade",
+				"/D/www/sargam/HTML/12-8-2015/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_navs.scss",
+				"/D/www/sargam/HTML/12-8-2015/lib/config.rb",
+				"/D/www/sargam/HTML/12-8-2015/lib/sass/config.rb",
+				"/D/www/sargam/HTML/12-8-2015/css/style.css",
+				"/D/www/sargam/HTML/12-8-2015/css/vip-sprite.css",
+				"/D/www/sargam/HTML/12-8-2015/lib/sass/fonts.scss",
+				"/D/www/sargam/HTML/12-8-2015/index.html",
+				"/D/www/sargam/HTML/12-8-2015/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss",
+				"/D/www/sargam/HTML/12-8-2015/lib/sass/_my-mixn",
+				"/D/www/sargam/HTML/12-8-2015/lib/sass/_my-mixn.scss",
+				"/D/www/jaagar/Jade/lib/sass/style.scss",
+				"/D/www/Digitalabs/RAW/digitalabs.in/Gulpfile.js",
+				"/D/www/sargam/HTML/12-8-2015/Gulpfile.js",
+				"/D/www/jaagar/Jade/lib/config.rb",
+				"/D/www/sargam/HTML/12-8-2015/lib/style.scss",
+				"/D/www/Digitalabs/RAW/html/new theme/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-gifsicle/node_modules/gifsicle/node_modules/bin-build/node_modules/download/node_modules/gulp-rename/Gulpfile.js",
+				"/D/www/Digitalabs/RAW/html/new theme/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-gifsicle/node_modules/gifsicle/node_modules/bin-wrapper/node_modules/download/node_modules/gulp-rename/Gulpfile.js",
+				"/D/www/Digitalabs/RAW/html/new theme/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-jpegtran/node_modules/jpegtran-bin/node_modules/bin-build/node_modules/download/node_modules/gulp-rename/Gulpfile.js",
+				"/D/www/Digitalabs/RAW/html/new theme/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-optipng/node_modules/optipng-bin/node_modules/bin-wrapper/node_modules/download/node_modules/gulp-rename/Gulpfile.js",
+				"/D/www/Digitalabs/RAW/html/new theme/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-pngquant/node_modules/pngquant-bin/node_modules/bin-build/node_modules/download/node_modules/gulp-rename/Gulpfile.js",
+				"/D/www/Digitalabs/RAW/html/new theme/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-pngquant/node_modules/pngquant-bin/node_modules/bin-wrapper/node_modules/download/node_modules/gulp-rename/Gulpfile.js",
+				"/D/www/Digitalabs/RAW/html/new theme/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/node_modules/underscore.string/gulpfile.js",
+				"/D/www/formalFunky/jade/node_modules/browser-sync/node_modules/browser-sync-client/gulpfile.js",
+				"/D/www/Heidi Merrick/2/menu2.html",
+				"/C/Users/Vipul.DIGI/Desktop/ButtonComponentMorph/ButtonComponentMorph/js/classie.js",
+				"/C/Users/Vipul.DIGI/Desktop/ButtonComponentMorph/ButtonComponentMorph/js/modernizr.custom.js",
+				"/C/Users/Vipul.DIGI/Desktop/ButtonComponentMorph/ButtonComponentMorph/index2.html",
+				"/C/Users/Vipul.DIGI/Desktop/css.html",
+				"/D/www/Heidi Merrick/1/index.html",
+				"/D/www/Heidi Merrick/2/pro-details-cart.html",
+				"/D/www/care2Earn/color-font/bank-page.html",
+				"/D/www/care2Earn/color-font/result2.html",
+				"/D/www/care2Earn/color-font/home-green-active.html",
+				"/D/www/care2Earn/color-font/home-green-with-bg.html",
+				"/D/www/New folder/uikit/full project/semantic/index.html",
+				"/D/www/care2Earn/color-font/quick-view.html",
+				"/D/www/New folder/uikit/full project/semantic/src/semantic.less",
+				"/D/www/New folder/uikit/css/style.css",
+				"/D/www/New folder/uikit/css/style.scss",
+				"/D/www/New folder/uikit/index.html",
+				"/D/www/care2Earn/color-font/home-green.html",
+				"/D/www/care2Earn/color-font/home-ORD.html",
+				"/D/www/care2Earn/color-font/dark-green.html",
+				"/D/www/care2Earn/color-font/light-green.html",
+				"/D/www/care2Earn/color-font/form-with-bg.html",
+				"/D/www/care2Earn/color-font/home-blue.html",
+				"/D/www/care2Earn/color-font/result.html",
+				"/D/www/care2Earn/color-font/mouse-over.html",
+				"/D/www/care2Earn/color-font/form-with-bg2.html",
+				"/D/www/care2Earn/color-font/blue-open sans.html",
+				"/D/www/care2Earn/color-font/alice.html",
+				"/D/www/care2Earn/color-font/7icon.html",
+				"/D/www/care2Earn/color-font/blue-color-font - open sans.html",
+				"/D/www/New folder/f/project/scss/_settings.scss",
+				"/D/www/New folder/f/project/scss/app.scss",
+				"/C/Users/Vipul.DIGI/Desktop/mouse rotating/mouse rotating/js/mycode.js",
+				"/C/Users/Vipul.DIGI/Desktop/mouse rotating/mouse rotating/index.html",
+				"/D/www/care2Earn/new/index.html",
+				"/C/Users/Vipul.DIGI/Desktop/style.scss",
+				"/D/www/DishisJewels/pro-list.html",
+				"/D/app/404.css",
+				"/D/app/404.html",
+				"/D/www/Penny Accommodation/2/index.html",
+				"/D/www/Jade/lib/temp/header.jade",
+				"/D/www/formalFunky/jade/lib/index.jade",
+				"/D/www/Jade/lib/index.html",
+				"/D/www/Jade/lib/css/style.css",
+				"/D/www/Jade/lib/temp/_temp2.jade",
+				"/D/www/Jade/lib/index.jade",
+				"/D/www/Jade/lib/about.jade",
+				"/D/www/Jade/lib/temp/temp.jade",
+				"/C/Users/Vipul.DIGI/Desktop/Assignment - Vipul Sharma/Assignment - Vipul Sharma/readme.md",
+				"/D/www/formalFunky/jade/lib/team.jade",
+				"/D/www/formalFunky/jade/lib/inc/homeTemp.jade",
+				"/D/www/DishisJewels/index.html",
 				"/D/FileZilla.xml",
-				"/D/www/Mens Essentials/index.html",
-				"/D/www/Nalt/html new/index2.html",
-				"/D/www/Nalt/html new/css/bt/_bootstrap.scss",
-				"/D/www/Nalt/html new/index.html",
-				"/D/www/Nalt/html new/timer.html",
-				"/D/www/Nalt/html new/css/style.css",
-				"/D/www/Nalt/3/css/mine.css",
-				"/D/www/Nalt/html new/css/bt/bootstrap/_scaffolding.scss",
-				"/D/www/Nalt/html new/js/jquery.nicescroll.min.js",
-				"/D/www/Nalt/html new/css/bt/bootstrap/_navbar.scss",
-				"/D/app/SublimeWithSettings/Data/Packages/User/mq.sublime-snippet",
-				"/D/www/Nalt/html new/css/style.scss",
-				"/D/www/Nalt/html new/js/bootstrap.min.js",
-				"/Z/Shared/Vipul/pinka/html/css/style.scss",
-				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/_close.scss",
-				"/Y/htdocs/formal_funky_live/include/header.inc.php",
-				"/D/www/formalFunky/jade/Gulpfile.js",
-				"/D/www/formalFunky/dev/localhost/product-detail.php",
-				"/D/www/formalFunky/dev/localhost/include/header.inc.php",
-				"/D/www/formalfunky/dev/demo/css/style.css",
-				"/D/www/formalFunky/dev/demo/include/searchbar.inc.php",
-				"/D/www/formalFunky/dev/demo/include/header.inc.php",
-				"/D/www/formalFunky/jade/lib/css/stylesheets/_bootstrap.scss",
-				"/D/www/formalfunky/dev/demo/js/glob.js",
-				"/D/www/formalfunky/dev/demo/quick-view.php",
-				"/D/www/formalfunky/dev/demo/autoload_process.php",
-				"/D/www/formalfunky/dev/demo/product-list.php",
-				"/D/www/formalfunky/dev/demo/productlist.php",
-				"/D/www/formalfunky/dev/demo/product-detail.php",
-				"/D/www/formalFunky/dev/demo/payment-method.php",
-				"/Y/htdocs/formal_funky_live/product-detail.php",
-				"/D/www/formalfunky/dev/demo/order-confirm.php",
-				"/D/www/designer images/wp-config.php",
-				"/D/www/formalFunky/dev/localhost/js/glob.js",
-				"/D/www/formalFunky/dev/demo/js/glob.js",
-				"/Y/htdocs/formal_funky_live/js/glob.js",
-				"/D/www/formalFunky/jade/lib/css/style.scss",
-				"/D/www/formalfunky/dev/demo/include/meta.inc.php",
-				"/D/www/formalfunky/dev/demo/.htaccess",
-				"/Y/htdocs/formal_funky_live/formal-console/modules/index5.html",
-				"/D/www/formalFunky/dev/demo/quick-view.php",
-				"/D/www/formalFunky/dev/demo/include/footer.inc.php",
-				"/D/www/formalFunky/dev/demo/search.php",
-				"/D/www/formalFunky/dev/demo/footer-search.php",
-				"/D/www/formalfunky/dev/demo/my-order.php",
-				"/D/www/formalfunky/dev/demo/include/header.inc.php",
-				"/D/www/formalfunky/dev/demo/order-status.php",
-				"/D/www/formalfunky/dev/demo/payment-process.php",
-				"/D/www/formalFunky/jade/asd.scss",
-				"/D/www/formalfunky/dev/demo/homepopup.php",
-				"/D/www/jaagar/Jade/css/style.css",
-				"/D/www/IndiaSanitationMap/3/index.html",
-				"/D/www/jaagar/Jade/bower_components/fontawesome/scss/_icons.scss",
-				"/D/www/jaagar/Jade/bower_components/fontawesome/scss/_variables.scss",
-				"/D/www/formalfunky/dev/demo/include/footer.inc.php",
-				"/D/www/formalFunky/jade/node_modules/gulp-autoprefixer/node_modules/autoprefixer-core/lib/hacks/align-content.js",
-				"/D/www/formalFunky/dev/demo/include/meta.inc.php",
-				"/D/www/New folder/bootstrap/app/index.html",
-				"/D/www/New folder/bootstrap/gulpfile.js",
-				"/D/www/New folder/iconic/myApp/www/js/app.js",
-				"/D/app/SublimeWithSettings/Data/Packages/User/mkcol.sublime-snippet",
-				"/D/app/SublimeWithSettings/Data/Packages/User/sm.sublime-snippet",
-				"/D/www/formalFunky/dev/demo/css/ftpsync.settings",
-				"/D/www/formalFunky/dev/demo/payment-process.php",
-				"/D/www/formalFunky/dev/demo/product-list.php",
-				"/D/www/formalFunky/jade/pro-list.html",
-				"/D/www/formalFunky/jade/.sass-cache/572e99266765514336d51f77765273c20b2f6191/list-items.scssc",
-				"/D/www/formalFunky/jade/node_modules/gulp-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/features-json/link-icon-svg.json",
-				"/D/www/formalFunky/jade/node_modules/gulp/LICENSE",
-				"/Z/Shared/Jugal/vipul/quick-view.php",
-				"/D/www/formalFunky/quick-view.php",
-				"/D/www/formalFunky/js/glob.js",
-				"/D/www/formalFunky/jade/index.html",
-				"/D/www/renew Power/nn_renew/index.php",
-				"/D/www/formalFunky/dev/demo/productlist.php",
-				"/D/www/formalFunky/dev/demo/product-detail.php",
-				"/D/www/formalFunky/dev/demo/ajax-billing-shipping-address.php",
-				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/_normalize.scss",
-				"/D/www/formalFunky/jade/lib/css/stylesheets/bootstrap/_variables.scss",
-				"/D/www/formalFunky/jade/build/style-404.css",
-				"/D/www/formalFunky/jade/lib/404.jade",
-				"/D/www/formalFunky/dev/demo/404.html",
-				"/D/www/formalFunky/dev/demo/css/style.css",
-				"/D/www/formalFunky/dev/demo/design.php",
-				"/D/app/SublimeWithSettings/Data/Packages/User/Preferences.sublime-settings",
-				"/D/www/formalFunky/dev/demo/contact-us.php",
-				"/D/www/formalFunky/jade/build/js/glob.js",
-				"/D/www/formalFunky/jade/js/glob.js",
-				"/D/www/renew Power/index.php",
-				"/D/www/renew Power/intro_image.php",
-				"/D/www/formalFunky/dev/demo/homepopup.php",
-				"/D/www/formalFunky/dev/demo/my-order.php",
-				"/D/www/formalFunky/dev/demo/order-confirm.php",
-				"/D/www/formalFunky/dev/demo/include/rightnav.inc.php",
-				"/D/www/formalFunky/jade/node_modules/gulp-combine-mq/node_modules/through2/node_modules/readable-stream/node_modules/core-util-is/package.json",
-				"/D/www/formalFunky/jade/lib/js/jquery.creditCardValidator.js",
-				"/D/www/formalFunky/jade/node_modules/gulp/node_modules/liftoff/node_modules/resolve/test/resolver/quux/foo/index.js",
-				"/D/www/formalFunky/jade/node_modules/gulp-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/features-json/queryselector.json",
-				"/D/www/formalFunky/jade/lib/css/scss/effeckt.scss",
-				"/C/Users/Vipul.DIGI/Desktop/Effeckt.css-master/Effeckt.css-master/js/Effeckt.js"
+				"/D/www/t-tox/dev/styles/main.css",
+				"/D/www/T-Tox/dev/scripts/main.js",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/sitemap.php",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/guides/config.php",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/guides/_a1fce924",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/sitemap.xml",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/fencing-articles.html",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/fence-repairs.html",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/contact-us.html",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/areas-we-cover.html",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/accessories.html",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/fencing.html",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/gallery.html",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/gates.html",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/guides/index.php",
+				"/D/www/DG Fencing/DG Fencing(21st July 12)/index.html",
+				"/C/Users/Vipul.DIGI/Desktop/access_log.processed",
+				"//SERVER/xampp/htdocs/3d/js/3djs.js",
+				"//SERVER/xampp/htdocs/3d/index.html",
+				"/E/Ajay Old Backup/AJAY/zen-mobile/3D-10-6/header.inc.php",
+				"/E/Ajay Old Backup/AJAY/zen-mobile/3D-10-6/index.php",
+				"/E/Ajay Old Backup/AJAY/zen-mobile/3D-10-6/js/3djs.js",
+				"/Y/htdocs/3d/index.html",
+				"/Y/htdocs/3d/header.inc.php",
+				"/C/Users/Vipul.DIGI/Desktop/skrollr-menu-master/skrollr-menu-master/index.html",
+				"/D/www/DIgitalabs/dev/22-jun/index.html",
+				"/C/Users/Vipul.DIGI/Desktop/skrollr-decks-master/skrollr-decks-master/index.html",
+				"/D/www/DIgitalabs/dev/22-jun/blog/wp-content/themes/blog/assests/css/style.css",
+				"/D/www/formalFunky/jade/lib/carts.jade",
+				"/D/www/formalFunky/jade/lib/inc/default-scripts.jade",
+				"/D/www/t-tox/dev/scripts/main.js",
+				"/D/www/T-Tox/html/gulpfile.js",
+				"/D/www/meraloan/2/index.html"
 			],
 			"find":
 			{
-				"height": 36.0
+				"height": 37.0
 			},
 			"find_in_files":
 			{
-				"height": 90.0,
+				"height": 122.0,
 				"where_history":
 				[
+					"D:\\www\\DG Fencing\\DG Fencing(21st July 12)",
 					"D:\\www\\formalFunky\\jade",
 					"C:\\Users\\vipul\\Desktop\\New folder",
 					"D:\\css"
@@ -1657,134 +1921,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"thanku",
-					"canvasprint",
-					"Stemp",
-					"getActiveObject(canvas.item",
-					").get",
-					"objp",
-					"lowerCanvasEl",
-					"canvas1",
-					"glyphicon",
-					".glyphicon",
-					"glyphicon",
-					"scale",
-					"glyphicon",
-					"glyphicon-phone-alt",
-					"icon",
-					".move",
-					"move",
-					"swing",
-					".move",
-					"swing",
-					"swin",
-					"we are digi",
-					"TRYING",
-					"ALWAYS TRYING",
-					"blog",
-					"9am",
-					"9 am",
-					"9am",
-					"service-description",
-					"service-info",
-					"service-icon",
-					".blog",
-					"blog",
-					"index",
-					"8847",
-					"blog",
-					"back",
-					"indec",
-					"index",
-					".savedate",
-					"home ma",
-					"of what you can",
-					".blog_p",
-					".blog",
-					".blog_p",
-					".blog_para",
-					"blog_para",
-					".blog_para",
-					"contact",
-					"(max-width: 991px)",
-					" height=\"580\"",
-					"heigh",
-					"5463",
-					"max-w",
-					"delete",
-					"table",
-					"input",
-					">\n",
-					"blog",
-					"spea",
+					"86",
+					".cata",
+					"pro-",
+					"pro",
+					"price",
+					"| ",
+					"26px",
+					":",
+					"too",
+					"\":\"",
+					"/*!",
+					"aside",
+					"\\",
+					"main",
 					"6",
-					"blog",
-					">\n",
+					"78",
+					", 0px",
+					"product-thumb",
+					"=============================*/",
+					"7",
+					"8",
+					"5",
+					"\n  ",
+					"_product",
+					"product",
+					"product-thumb",
+					"4",
+					"n+",
 					"3",
-					"ul.social",
-					"social",
-					"fluid",
-					"png",
+					"last-child(",
+					"4",
+					".product-thumb",
+					"product-thumb",
+					" \n",
+					":	",
+					"	",
+					":",
+					"_product",
 					"banner",
-					"banner1",
-					"INTERESTED IN BECOMING A SPONSOR? GET IN TOUCH",
-					"multiple",
-					"3500",
-					" Conference",
-					".panel h4",
-					"Full",
-					"silver",
-					"3500",
-					"Silver",
-					"silver",
-					"cost",
-					"event",
-					"<li>\n            <a href=\"#\">\n                <div class=\"up\">\n                    <div class=\"shadow\"></div>\n                    <div class=\"inn\">4</div>\n                </div>\n                <div class=\"down\">\n                    <div class=\"shadow\"></div>\n                    <div class=\"inn\">4</div>\n                </div>\n            </a>\n        </li>\n        <li>\n            <a href=\"#\">\n                <div class=\"up\">\n                    <div class=\"shadow\"></div>\n                    <div class=\"inn\">3</div>\n                </div>\n                <div class=\"down\">\n                    <div class=\"shadow\"></div>\n                    <div class=\"inn\">3</div>\n                </div>\n            </a>\n        </li>\n        <li>\n            <a href=\"#\">\n                <div class=\"up\">\n                    <div class=\"shadow\"></div>\n                    <div class=\"inn\">2</div>\n                </div>\n                <div class=\"down\">\n                    <div class=\"shadow\"></div>\n                    <div class=\"inn\">2</div>\n                </div>\n            </a>\n        </li>\n        <li>\n            <a href=\"#\">\n                <div class=\"up\">\n                    <div class=\"shadow\"></div>\n                    <div class=\"inn\">1</div>\n                </div>\n                <div class=\"down\">\n                    <div class=\"shadow\"></div>\n                    <div class=\"inn\">1</div>\n                </div>\n            </a>\n        </li>",
-					"class=\"active\"",
-					"91",
-					"82",
-					"73",
-					"64",
-					"46",
-					"37",
-					"28",
-					"19",
-					">9</div>",
-					">8</div>",
-					">7</div>",
-					"7</div>",
-					">6</div>",
-					">4</div>",
-					">3</div>",
-					">2</div>",
-					">1</div>",
-					"19</div>",
-					"2</div>",
-					"1</div>",
-					"4</div>",
-					"3</div>",
-					"2</div>",
-					"1</div>",
-					"0</div>",
-					"class=\"active\"",
-					"active",
-					"after",
-					"puls",
-					"day",
-					"dayplus10",
-					"hourplay",
-					"hourplus10",
-					"hour",
-					"hourplus10",
-					"hour",
-					"hourplus10",
-					"before",
-					"Plus",
-					"hourplus10",
-					"Puls10",
-					"play",
-					"Plus",
-					"dayPlus10"
+					"10am",
+					"main",
+					"|",
+					"a(href=\"\")",
+					"li\n	a",
+					"        ",
+					"         ",
+					"7",
+					" padding: 5px;",
+					"span{display: block;float: left;}",
+					"search",
+					"/* line 84, c:/Ruby193/lib/ruby/gems/1.9.1/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */",
+					"carosal",
+					" 10px",
+					".carousel-control",
+					"open",
+					"backgrou",
+					".icons",
+					".icons.",
+					".icons",
+					".icons-facebook",
+					"icons-facebook",
+					"icons-sprite",
+					"facebook",
+					"compass",
+					"$myBorder",
+					" 1px solid lighten($allColor, 40%)",
+					"1px solid lighten($allColor, 40%);",
+					"border: 1px solid lighten($allColor, 40%);",
+					"9",
+					"8",
+					".sm.btn",
+					"8",
+					"85",
+					"9",
+					"8",
+					"6",
+					"icons",
+					"5",
+					"last",
+					".nav > li > a:hover",
+					".nav > li > a:hover, .nav > li > a:focus",
+					"3",
+					"32",
+					"radius",
+					"$btn-primary-bg",
+					"$brand-primary",
+					"primary",
+					"primary ",
+					"-default",
+					"btn-primary",
+					"$brand-success",
+					"6d7a1e",
+					"#6d7a1e",
+					"5b6619",
+					"6d7a1e",
+					"#6d7a1e",
+					"primary",
+					"3",
+					", 0px",
+					"padding:15px 10px;",
+					"5px",
+					"desktop",
+					"container-lg-desktop:    ",
+					"container",
+					"container-lg",
+					"container",
+					"1175",
+					"1175px",
+					"1140px",
+					"$grid-gutter-width",
+					"$container-large-desktop",
+					"container",
+					":	",
+					" ",
+					"	a",
+					"li\n	a",
+					"li",
+					".ui.normal",
+					".max.example ",
+					"body",
+					"\"uikit/",
+					"uikit",
+					"function",
+					"orac",
+					".logo",
+					"get_url_path",
+					"ul",
+					"sitemap_links"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1792,6 +2056,8 @@
 				"regex": false,
 				"replace_history":
 				[
+					"",
+					" - <a href=\"http://www.dg-fencing.co.uk/guides/\" title=\"Guides\">Guides</a>",
 					"500"
 				],
 				"reverse": false,
@@ -1800,34 +2066,27 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"follow_symlinks": true,
-					"path": "C:\\Users\\Vipul.DIGI\\AppData\\Local\\Temp\\fz3-14363652338890"
-				}
-			],
 			"groups":
 			[
 				{
-					"selected": 3,
+					"selected": 4,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/www/Digitalabs/localhost/css/tidy.css",
+							"file": "lib/sass/style.scss",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 87694,
+								"buffer_size": 14852,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										87676,
-										87676
+										6149,
+										6149
 									]
 								],
 								"settings":
@@ -1846,67 +2105,68 @@
 									],
 									"bh_regions":
 									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
-										"bh_round_content"
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
 									],
 									"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
-									"syntax": "Packages/CSS/CSS.tmLanguage"
+									"syntax": "Packages/Seti_UI/Langs/SCSS.tmLanguage",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 11177.0,
+								"translation.y": 5404.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 4,
@@ -1914,326 +2174,11 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/Y/htdocs/formal_funky_live/formal-console/modules/products/add-test-vp.php",
+							"file": "/D/www/turnjs4/samples/magazine/index.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 27732,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										22884,
-										22884
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete": false,
-									"auto_complete_triggers":
-									[
-										{
-											"characters": "<",
-											"selector": "text.html"
-										},
-										{
-											"characters": ".#",
-											"selector": "text.html"
-										}
-									],
-									"bh_regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
-									"syntax": "Packages/PHP/PHP.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 14307.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/www/digitalabs/localhost/index2.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 50155,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										4673,
-										4779
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete_triggers":
-									[
-										{
-											"characters": "<",
-											"selector": "text.html"
-										},
-										{
-											"characters": ".#",
-											"selector": "text.html"
-										}
-									],
-									"bh_regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1539.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/D/www/digitalabs/localhost/index.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 50575,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2810,
-										2810
-									],
-									[
-										4137,
-										4137
-									],
-									[
-										4717,
-										4717
-									],
-									[
-										7696,
-										7696
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"auto_complete": false,
-									"auto_complete_triggers":
-									[
-										{
-											"characters": "<",
-											"selector": "text.html"
-										},
-										{
-											"characters": ".#",
-											"selector": "text.html"
-										}
-									],
-									"bh_regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 931.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/Y/htdocs/formal_funky_live/formal-console/modules/products/add-test.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 27877,
+								"buffer_size": 9256,
 								"regions":
 								{
 								},
@@ -2241,7 +2186,107 @@
 								[
 									[
 										0,
-										27428
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete_triggers":
+									[
+										{
+											"characters": "<",
+											"selector": "text.html"
+										},
+										{
+											"characters": ".#",
+											"selector": "text.html"
+										}
+									],
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2820.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "js/glob.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 583,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										531,
+										543
 									]
 								],
 								"settings":
@@ -2261,11 +2306,441 @@
 									],
 									"bh_regions":
 									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "lib/inc/_temp.jade",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 699,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										699
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete_triggers":
+									[
+										{
+											"characters": "<",
+											"selector": "text.html"
+										},
+										{
+											"characters": ".#",
+											"selector": "text.html"
+										}
+									],
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
+									"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "lib/detail.jade",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2297,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										973,
+										973
+									],
+									[
+										1320,
+										1320
+									],
+									[
+										1809,
+										1809
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete_triggers":
+									[
+										{
+											"characters": "<",
+											"selector": "text.html"
+										},
+										{
+											"characters": ".#",
+											"selector": "text.html"
+										},
+										{
+											"characters": ".#",
+											"selector": "text.html"
+										}
+									],
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
+									"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 864.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "lib/inc/_footer.jade",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1903,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1848,
+										1848
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete_triggers":
+									[
+										{
+											"characters": "<",
+											"selector": "text.html"
+										},
+										{
+											"characters": ".#",
+											"selector": "text.html"
+										}
+									],
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
+									"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1140.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 6,
+							"file": "Gulpfile.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2258,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1132,
+										1155
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"auto_complete_triggers":
+									[
+										{
+											"characters": "<",
+											"selector": "text.html"
+										},
+										{
+											"characters": ".#",
+											"selector": "text.html"
+										},
+										{
+											"characters": ".#",
+											"selector": "text.html"
+										}
+									],
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
@@ -2276,6 +2751,31 @@
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
@@ -2285,46 +2785,325 @@
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
+										"bh_single_quote_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
+									"syntax": "Packages/Seti_UI/Langs/Gulpfile JS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 200.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "css/style.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 132473,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3206,
+										3206
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete_triggers":
+									[
+										{
+											"characters": "<",
+											"selector": "text.html"
+										},
+										{
+											"characters": ".#",
+											"selector": "text.html"
+										},
+										{
+											"characters": ".#",
+											"selector": "text.html"
+										}
+									],
+									"bh_regions":
+									[
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
-										"bh_round_content"
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
 									],
 									"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
-									"syntax": "Packages/PHP/PHP.tmLanguage"
+									"syntax": "Packages/CSS/CSS.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1460.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "lib/config-gulp.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 889,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										888,
+										888
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"auto_complete_triggers":
+									[
+										{
+											"characters": "<",
+											"selector": "text.html"
+										},
+										{
+											"characters": ".#",
+											"selector": "text.html"
+										},
+										{
+											"characters": ".#",
+											"selector": "text.html"
+										}
+									],
+									"bh_regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "lib/config.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 914,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										207,
+										207
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"auto_complete_triggers":
+									[
+										{
+											"characters": "<",
+											"selector": "text.html"
+										},
+										{
+											"characters": ".#",
+											"selector": "text.html"
+										}
+									],
+									"bh_regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 244.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
 							"type": "text"
 						}
 					]
@@ -2332,7 +3111,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 28.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -2347,11 +3126,18 @@
 						0,
 						1,
 						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.559630292188,
 					1.0
 				],
 				"rows":
@@ -2369,15 +3155,19 @@
 			{
 				"height": 116.0
 			},
+			"output.exec":
+			{
+				"height": 128.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"position": "0,2,3,-32000,-32000,-1,-1,1108,-124,127,1794",
-			"project": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,728,1,0,1359",
+			"project": "sargam.sublime-project",
 			"replace":
 			{
-				"height": 52.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2518,13 +3308,14 @@
 			{
 			},
 			"window_id": 14,
-			"workspace_name": ""
+			"workspace_name": "/D/www/sargam/HTML/12-8-2015/sargam.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/D/www/sargam/HTML/12-8-2015/sargam.sublime-workspace",
 			"/D/www/Nalt/html new/nalt.sublime-workspace",
 			"/D/www/formalFunky/jade/FF.sublime-workspace",
 			"/D/www/T-Tox/html/app/t-tox.sublime-workspace",
